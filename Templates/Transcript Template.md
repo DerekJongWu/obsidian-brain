@@ -15,10 +15,6 @@ tags:
 
 ---
 
-*Paste full transcript below. This note exists as a reference — work from the [[summary note]] for day-to-day use.*
-
----
-
 ## Transcript
 
 

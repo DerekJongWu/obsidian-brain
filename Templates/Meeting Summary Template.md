@@ -20,34 +20,4 @@ tags:
 
 ---
 
-## Summary
-
-*2–3 sentence overview of what was discussed and the key outcome.*
-
----
-
-## Key Takeaways
-
-1. 
-2. 
-3. 
-
----
-
-## Questions Raised
-
-- 
-
----
-
-## Action Items
-
-- [ ] 
-- [ ] 
-
----
-
-## Raw Notes
-
-*Detailed notes from the conversation. Link to [[transcript]] for verbatim.*
 
