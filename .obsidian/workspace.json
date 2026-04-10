@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theses/NHI Identity.md",
+                "file": "Misc/Agent building Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NHI Identity"
+              "title": "Agent building Ideas"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theses/NHI Identity.md",
+                "file": "Misc/Agent building Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for NHI Identity"
+              "title": "Backlinks for Agent building Ideas"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theses/NHI Identity.md",
+                "file": "Misc/Agent building Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from NHI Identity"
+              "title": "Outgoing links from Agent building Ideas"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theses/NHI Identity.md",
+                "file": "Misc/Agent building Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of NHI Identity"
+              "title": "Outline of Agent building Ideas"
             }
           },
           {
@@ -196,11 +196,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dcb48d1432bc63c1",
+  "active": "0288b3e3e3cdbd98",
   "lastOpenFiles": [
+    "Theses/NHI Identity.md",
+    "Misc/Agent building Ideas.md",
+    "Misc",
+    "Theses/Untitled",
     "Templates/Thesis Template.md",
-    "Theses/NHI Identity.md",
-    "Theses/NHI Identity.md",
     "START HERE.md",
     "Templates/Transcript Template.md",
     "Untitled.md",

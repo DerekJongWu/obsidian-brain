@@ -1,11 +1,12 @@
 ---
 type: thesis
-sector: 
-status: 
+sector:
+status:
 last_updated: 2026-04-10
 created: 2026-04-10
 tags:
   - thesis
+  - identity-security
 ---
 
 # Untitled
