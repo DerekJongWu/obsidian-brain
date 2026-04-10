@@ -1,19 +1,19 @@
 ---
 type: company
-sector: 
-sub_sector: 
-stage: 
-status: 
-owner: 
-founded: 
-hq: 
-website: 
-linkedin: 
-crunchbase: 
-pitchbook: 
-deck_link: 
-data_room: 
-lighthouse_link: 
+sector:
+sub_sector:
+stage:
+status:
+owner:
+founded:
+hq:
+website:
+linkedin:
+crunchbase:
+pitchbook:
+deck_link:
+data_room:
+lighthouse_link:
 last_touch: <% tp.date.now("YYYY-MM-DD") %>
 created: <% tp.date.now("YYYY-MM-DD") %>
 tags:

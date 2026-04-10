@@ -22,7 +22,7 @@ tags:
   - AI-observability
 ---
 
-# Untitled
+# OpenLayer
 
 > [!summary] One-Liner
 > *Brief description of what this company does and why it matters.*

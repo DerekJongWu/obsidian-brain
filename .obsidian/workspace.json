@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VAULT_SCHEMA.md",
+                "file": "Misc/Agent building Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VAULT_SCHEMA"
+              "title": "Agent building Ideas"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VAULT_SCHEMA.md",
+                "file": "Misc/Agent building Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for VAULT_SCHEMA"
+              "title": "Backlinks for Agent building Ideas"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VAULT_SCHEMA.md",
+                "file": "Misc/Agent building Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from VAULT_SCHEMA"
+              "title": "Outgoing links from Agent building Ideas"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VAULT_SCHEMA.md",
+                "file": "Misc/Agent building Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of VAULT_SCHEMA"
+              "title": "Outline of Agent building Ideas"
             }
           },
           {
@@ -198,13 +198,15 @@
   },
   "active": "1b3a96244182b31e",
   "lastOpenFiles": [
-    "START HERE.md",
-    "VAULT_SCHEMA.md",
-    "Misc/Agent building Ideas.md",
     "Misc/Random.md",
+    "Templates/Company Template.md",
+    "Dashboards/Pipeline Dashboard.md",
+    "Companies/OpenLayer.md",
+    "VAULT_SCHEMA.md",
+    "START HERE.md",
+    "Misc/Agent building Ideas.md",
     "People/Gabriel Bayomi.md",
     "Dashboards/Thesis Overview.md",
-    "Companies/OpenLayer.md",
     "Templates/Transcript Template.md",
     "Templates/Meeting Summary Template.md",
     "Templates/Person Template.md",
@@ -212,7 +214,6 @@
     "Templates/Thesis Template.md",
     "Transcripts/OpenLayer - 2026-04-10 Transcript.md",
     "Companies/Nametag.md",
-    "Dashboards/Pipeline Dashboard.md",
     "Meetings/OpenLayer- 2026-04-10 Summary.md",
     "transcript.md",
     "summary note.md",
@@ -222,7 +223,6 @@
     "Theses/NHI Identity.md",
     "Misc",
     "Theses/Untitled",
-    "Templates/Company Template.md",
     "Untitled.base",
     "Untitled.canvas",
     "Theses/Identity.base",
