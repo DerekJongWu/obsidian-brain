@@ -3,8 +3,8 @@ type: company
 sector:
 sub_sector:
 stage: Seed
-status: sourcing
-owner:
+status: Raising
+Founder: "[[Dean Glas]]"
 founded:
 hq:
 website:

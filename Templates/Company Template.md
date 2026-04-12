@@ -4,7 +4,7 @@ sector:
 sub_sector:
 stage:
 status:
-owner:
+Founder:
 founded:
 hq:
 website:
@@ -24,17 +24,6 @@ tags:
 
 > [!summary] One-Liner
 > *Brief description of what this company does and why it matters.*
-
----
-
-## Thesis Fit
-
-**Why we like it:**
-- 
-
-**Relevant thesis:** [[]]
-
-**Fin sub-sector:** 
 
 ---
 
@@ -110,7 +99,3 @@ SORT date DESC
 ```
 
 ---
-
-## Next Steps
-
-- [ ] 
