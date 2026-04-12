@@ -14,7 +14,7 @@ tags:
 
 > **Company:** [[OpenLayer]] | **Date:** 2026-04-10 | **Type:**
 
-**Attendees:** [[Fan Wen]], [[Derek Wu]]
+**Attendees:** [[Fan Wen]], [[Derek Wu]], [[Gabriel Bayomi]]
 
 **Transcript:** [[OpenLayer - 2026-04-10 Transcript]]
 

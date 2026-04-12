@@ -18,6 +18,7 @@ last_touch: 2026-04-10
 created: 2026-04-10
 tags:
   - company
+  - debt-collection
 ---
 
 # PayPath

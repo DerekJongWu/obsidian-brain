@@ -4,7 +4,7 @@
 * Build to do list by screening 
 
 Workflows that I'm thinking about: 
-* Add transcripts + meeting summaries from Granola to Obsidian
+* (DONE) Add transcripts + meeting summaries from Granola to Obsidian 
 * Update company notes with meeting summaries
 * Pull Lighthouse note to fill in fields for Obsidian
 * Agent reads granola notes and emails to continually build to do lists

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cabd183488113894",
+        "id": "972d8645b3f6b56a",
         "type": "tabs",
         "children": [
           {
-            "id": "1b3a96244182b31e",
+            "id": "7a8cc0b65153e8a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Agent building Ideas.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Agent building Ideas"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Agent building Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Agent building Ideas"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Agent building Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Agent building Ideas"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Agent building Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Agent building Ideas"
+              "title": "Outline"
             }
           },
           {
@@ -196,25 +189,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1b3a96244182b31e",
+  "active": "7a8cc0b65153e8a6",
   "lastOpenFiles": [
-    "Misc/Random.md",
-    "Templates/Company Template.md",
-    "Dashboards/Pipeline Dashboard.md",
-    "Companies/OpenLayer.md",
-    "VAULT_SCHEMA.md",
-    "START HERE.md",
-    "Misc/Agent building Ideas.md",
+    "People/Dean Glas.md",
+    "Transcripts/PayPath - 2026-04-10 Transcript.md",
+    "Companies/PayPath.md",
+    "Meetings/PayPath - 2026-04-10 Summary.md",
     "People/Gabriel Bayomi.md",
-    "Dashboards/Thesis Overview.md",
-    "Templates/Transcript Template.md",
-    "Templates/Meeting Summary Template.md",
-    "Templates/Person Template.md",
-    "Templates/Reference Call Template.md",
-    "Templates/Thesis Template.md",
-    "Transcripts/OpenLayer - 2026-04-10 Transcript.md",
-    "Companies/Nametag.md",
+    "Dean Glas.md",
     "Meetings/OpenLayer- 2026-04-10 Summary.md",
+    "START HERE.md",
+    "Dashboards/Thesis Overview.md",
+    "Dashboards/Pipeline Dashboard.md",
+    "Templates/Company Template.md",
+    "Companies/OpenLayer.md",
+    "Templates/Person Template.md",
+    "Templates/Thesis Template.md",
+    "Templates/Reference Call Template.md",
+    "Templates/Transcript Template.md",
+    "Misc/Agent building Ideas.md",
+    "Misc/Random.md",
+    "Transcripts/OpenLayer - 2026-04-10 Transcript.md",
+    "VAULT_SCHEMA.md",
+    "Templates/Meeting Summary Template.md",
+    "Companies/Nametag.md",
     "transcript.md",
     "summary note.md",
     "Transcripts",
@@ -227,10 +225,6 @@
     "Untitled.canvas",
     "Theses/Identity.base",
     "Theses",
-    "2026-04-10.md",
-    "Untitled 1.canvas",
-    "People/Aaron Painter.md",
-    "References/S&P Global - Nametag Reference Call.md",
-    "Companies/S&P Global.md"
+    "Untitled 1.canvas"
   ]
 }
