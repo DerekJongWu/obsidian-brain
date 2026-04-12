@@ -6,6 +6,5 @@
 Workflows that I'm thinking about: 
 * (DONE) Add transcripts + meeting summaries from Granola to Obsidian 
 * (DONE) Update company notes with meeting summaries
-* Pull Lighthouse note to fill in fields for Obsidian
 * Agent reads granola notes and emails to continually build to do lists
 
