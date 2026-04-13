@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Agent building Ideas.md",
+                "file": "System Logs/Granola <> Obsidian Sync Agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agent building Ideas"
+              "title": "Granola <> Obsidian Sync Agent"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Agent building Ideas.md",
+                "file": "System Logs/Granola <> Obsidian Sync Agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Agent building Ideas"
+              "title": "Backlinks for Granola <> Obsidian Sync Agent"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Agent building Ideas.md",
+                "file": "System Logs/Granola <> Obsidian Sync Agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Agent building Ideas"
+              "title": "Outgoing links from Granola <> Obsidian Sync Agent"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Agent building Ideas.md",
+                "file": "System Logs/Granola <> Obsidian Sync Agent.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Agent building Ideas"
+              "title": "Outline of Granola <> Obsidian Sync Agent"
             }
           },
           {
@@ -198,11 +198,11 @@
   },
   "active": "7a8cc0b65153e8a6",
   "lastOpenFiles": [
-    "System Logs/Granola <> Obsidian Sync Agent.md",
     "Templates/Company Template.md",
+    "System Logs/Granola <> Obsidian Sync Agent.md",
+    "Misc/Agent building Ideas.md",
     "System Logs",
     "Transcripts/Untitled",
-    "Misc/Agent building Ideas.md",
     "Theses/FinTech/Debt Collection.md",
     "Theses/Cybersecurity/NHI Identity.md",
     "Theses/FinTech",
