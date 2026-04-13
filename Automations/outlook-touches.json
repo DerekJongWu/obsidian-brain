@@ -1,0 +1,7 @@
+{
+  "synced_at": "2026-04-13T12:15:00.000Z",
+  "results": [],
+  "errors": [
+    "deal-manifest.json is empty — no deals to sync. Outlook signals were not queried."
+  ]
+}
