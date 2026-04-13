@@ -9,7 +9,7 @@ tags:
   - transcript
 ---
 
-# Untitled
+# OpenLayer
 
 > **Summary:** [[OpenLayer- 2026-04-10 Summary]] | **Source:** Granola 
 

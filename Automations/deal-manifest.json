@@ -1,4 +1,225 @@
 {
-  "exported_at": "2026-04-13T19:02:38.924Z",
-  "deals": []
+  "exported_at": "2026-04-13T19:23:49.635Z",
+  "deals": [
+    {
+      "id": "cmng87irn000bxkx41sdn1c0w",
+      "company_name": "Aembit",
+      "domain": "aembit.io",
+      "status": "Deep Diligence",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-13T19:01:12.724Z",
+      "last_touch_source": "attio",
+      "next_steps": "Evaluate the strategic round details",
+      "active_todos": []
+    },
+    {
+      "id": "cmng87is8000rxkx4tzh5om8i",
+      "company_name": "Arcade",
+      "domain": "arcade.dev",
+      "status": "Partner Meetings",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-13T19:01:12.768Z",
+      "last_touch_source": "attio",
+      "next_steps": "Discuss with the partners for a final decision",
+      "active_todos": []
+    },
+    {
+      "id": "cmnwi2l0u000rxkj3q3m27np6",
+      "company_name": "Axia Security",
+      "domain": "axiasecurity.io",
+      "status": "Partner Screening",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-13T19:01:12.763Z",
+      "last_touch_source": "attio",
+      "next_steps": "Just launched a seed round",
+      "active_todos": []
+    },
+    {
+      "id": "cmng87is5000oxkx4e1efggx1",
+      "company_name": "Backline AI",
+      "domain": "backline.ai",
+      "status": "Initial Meetings",
+      "funnel": "Top of Funnel",
+      "last_touch_at": null,
+      "last_touch_source": null,
+      "next_steps": "Meeting scheduled for two weeks",
+      "active_todos": []
+    },
+    {
+      "id": "cmnghs8he0006xkl5p238qtdx",
+      "company_name": "Discern Security",
+      "domain": "discernsecurity.com",
+      "status": "Initial Meetings",
+      "funnel": "Top of Funnel",
+      "last_touch_at": null,
+      "last_touch_source": null,
+      "next_steps": "Current raising a Series A ",
+      "active_todos": []
+    },
+    {
+      "id": "cmng87is3000mxkx4bg2ln251",
+      "company_name": "Echelon AI",
+      "domain": "echelonai.com",
+      "status": "Partner Meetings",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-13T19:01:12.761Z",
+      "last_touch_source": "attio",
+      "next_steps": "Meeting scheduled with Logan",
+      "active_todos": []
+    },
+    {
+      "id": "cmnxe16gv0007xkun6e56eg0z",
+      "company_name": "Embed Security",
+      "domain": "embedsecurity.com",
+      "status": "Initial Meetings",
+      "funnel": "Top of Funnel",
+      "last_touch_at": "2026-04-13T16:09:17.309Z",
+      "last_touch_source": "attio",
+      "next_steps": "Waiting on founder to send over deck",
+      "active_todos": []
+    },
+    {
+      "id": "cmng87irv000fxkx4kklfc27z",
+      "company_name": "Engramme",
+      "domain": "engramme.com",
+      "status": "Initial Meetings",
+      "funnel": "Top of Funnel",
+      "last_touch_at": null,
+      "last_touch_source": null,
+      "next_steps": "Following up to track the lead conversation",
+      "active_todos": []
+    },
+    {
+      "id": "cmnnapsnd0002xk69k1s10ck4",
+      "company_name": "Entro Security",
+      "domain": "entro.security",
+      "status": "Partner Screening",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-13T19:01:12.755Z",
+      "last_touch_source": "attio",
+      "next_steps": "Currently raising a $40M Series B - $200M post",
+      "active_todos": []
+    },
+    {
+      "id": "cmnxdypzd0003xkunqt2a8xv8",
+      "company_name": "IndyKite",
+      "domain": "indykite.ai",
+      "status": "Partner Screening",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-13T19:01:12.745Z",
+      "last_touch_source": "attio",
+      "next_steps": null,
+      "active_todos": []
+    },
+    {
+      "id": "cmnt0fid60000xktw13oasjq1",
+      "company_name": "LotLine",
+      "domain": "trylotline.com",
+      "status": "Partner Screening",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-13T19:01:12.743Z",
+      "last_touch_source": "attio",
+      "next_steps": null,
+      "active_todos": []
+    },
+    {
+      "id": "cmm2lrmkv0000xkwa95tu9115",
+      "company_name": "Nametag",
+      "domain": "getnametag.com",
+      "status": "Deep Diligence",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-13T19:01:12.750Z",
+      "last_touch_source": "attio",
+      "next_steps": "Flashed to SMBC; compiling customer feedback",
+      "active_todos": []
+    },
+    {
+      "id": "cmng9nvp3000oxk6jm9kfqsw8",
+      "company_name": "Orchid",
+      "domain": "orchid.security",
+      "status": "Partner Screening",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-13T19:01:12.736Z",
+      "last_touch_source": "attio",
+      "next_steps": "Just kicked off a fundraising round",
+      "active_todos": []
+    },
+    {
+      "id": "cmng87is1000kxkx4kxmnpgp0",
+      "company_name": "Overwatch",
+      "domain": "overwatchdata.io",
+      "status": "Deep Diligence",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-13T19:01:12.758Z",
+      "last_touch_source": "attio",
+      "next_steps": "Kicking off Series A process- currently at ~$2.5M ARR + $4M+ in contract; sending us data room",
+      "active_todos": []
+    },
+    {
+      "id": "cmnp0fal4000wxkwo0pgv7dp1",
+      "company_name": "Relvino",
+      "domain": "relvino.com",
+      "status": "Partner Screening",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-13T19:01:12.753Z",
+      "last_touch_source": "attio",
+      "next_steps": "Currently raising a $3M pre-seed SAFE at $15M cap. $2M left in allocation",
+      "active_todos": []
+    },
+    {
+      "id": "cmng87irz000ixkx4upfk5cmd",
+      "company_name": "Tonic Security",
+      "domain": "tonicsecurity.com",
+      "status": "Initial Meetings",
+      "funnel": "Top of Funnel",
+      "last_touch_at": null,
+      "last_touch_source": null,
+      "next_steps": "Discuss with the team; Follow up for lead convos",
+      "active_todos": []
+    },
+    {
+      "id": "cmng87irs000dxkx4qgi53fq5",
+      "company_name": "Unstructured",
+      "domain": "unstructured.io",
+      "status": "Partner Meetings",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-13T19:01:12.747Z",
+      "last_touch_source": "attio",
+      "next_steps": "Working on BD (targeting portcos) - wait for Series C",
+      "active_todos": []
+    },
+    {
+      "id": "cmnnanp300000xk694j8hue9e",
+      "company_name": "VanishID",
+      "domain": "vanishid.com",
+      "status": "Partner Meetings",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-13T19:01:12.760Z",
+      "last_touch_source": "attio",
+      "next_steps": "Review data room and discuss with the team",
+      "active_todos": []
+    },
+    {
+      "id": "cmnnhgazs000rxky8z7ggqsnd",
+      "company_name": "Zenyard AI",
+      "domain": "zenyard.ai",
+      "status": "Initial Meetings",
+      "funnel": "Top of Funnel",
+      "last_touch_at": null,
+      "last_touch_source": null,
+      "next_steps": null,
+      "active_todos": []
+    },
+    {
+      "id": "cmng87iry000hxkx4y4oayek2",
+      "company_name": "vCluster",
+      "domain": "vcluster.com",
+      "status": "Partner Screening",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-13T19:01:12.752Z",
+      "last_touch_source": "attio",
+      "next_steps": "Following up to track the lead conversation",
+      "active_todos": []
+    }
+  ]
 }

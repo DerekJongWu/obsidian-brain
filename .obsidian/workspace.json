@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Logs/Deal Staleness Agent.md",
+                "file": "Transcripts/OpenLayer - 2026-04-10 Transcript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deal Staleness Agent"
+              "title": "OpenLayer - 2026-04-10 Transcript"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Logs/Deal Staleness Agent.md",
+                "file": "Transcripts/OpenLayer - 2026-04-10 Transcript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Deal Staleness Agent"
+              "title": "Backlinks for OpenLayer - 2026-04-10 Transcript"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Logs/Deal Staleness Agent.md",
+                "file": "Transcripts/OpenLayer - 2026-04-10 Transcript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Deal Staleness Agent"
+              "title": "Outgoing links from OpenLayer - 2026-04-10 Transcript"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Logs/Deal Staleness Agent.md",
+                "file": "Transcripts/OpenLayer - 2026-04-10 Transcript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Deal Staleness Agent"
+              "title": "Outline of OpenLayer - 2026-04-10 Transcript"
             }
           },
           {
@@ -198,15 +198,17 @@
   },
   "active": "7a8cc0b65153e8a6",
   "lastOpenFiles": [
+    "Meetings/OpenLayer- 2026-04-10 Summary.md",
+    "Transcripts/PayPath - 2026-04-10 Transcript.md",
+    "Companies/PayPath.md",
+    "Companies/OpenLayer.md",
+    "System Logs/Deal Staleness Agent.md",
     "Signals/DeepTech - Quantum.md",
     "Dashboards/Deal Staleness - 2026-04-13.md",
     "Signals/DeepTech - Cyber & RiskTech.md",
     "Signals/DeepTech - AI Apps & Infra.md",
     "Theses/FinTech/Debt Collection.md",
     "Signals",
-    "Companies/OpenLayer.md",
-    "Companies/PayPath.md",
-    "System Logs/Deal Staleness Agent.md",
     "Automations/outlook-touches.json",
     "Automations/deal-manifest.json.md",
     "Automations/deal-manifest.json",
@@ -223,10 +225,8 @@
     "Templates/Meeting Summary Template.md",
     "Meetings/PayPath - 2026-04-10 Summary.md",
     "People/Dean Glas.md",
-    "Transcripts/PayPath - 2026-04-10 Transcript.md",
     "People/Gabriel Bayomi.md",
     "Dean Glas.md",
-    "Meetings/OpenLayer- 2026-04-10 Summary.md",
     "START HERE.md",
     "Dashboards/Thesis Overview.md",
     "Dashboards/Pipeline Dashboard.md",
