@@ -196,8 +196,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7a8cc0b65153e8a6",
+  "active": "dcb48d1432bc63c1",
   "lastOpenFiles": [
+    "Dashboards/Deal Staleness - 2026-04-13.md",
+    "Automations/outlook-touches.json",
     "Automations/deal-manifest.json.md",
     "Automations/deal-manifest.json",
     "System Logs/Granola <> Obsidian Sync Agent.md",
@@ -232,7 +234,6 @@
     "Transcripts",
     "Meetings",
     "Misc",
-    "Untitled.base",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
