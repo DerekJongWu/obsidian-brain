@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-14T13:29:49.618Z",
+  "exported_at": "2026-04-14T18:56:41.722Z",
   "deals": [
     {
       "id": "cmng87irn000bxkx41sdn1c0w",
@@ -32,7 +32,9 @@
       "last_touch_at": "2026-04-13T19:01:12.763Z",
       "last_touch_source": "attio",
       "next_steps": "Just launched a seed round",
-      "active_todos": []
+      "active_todos": [
+        "Send follow-up notes and next steps to Asaf at Axia Security after initial meeting"
+      ]
     },
     {
       "id": "cmng87is5000oxkx4e1efggx1",
@@ -65,9 +67,7 @@
       "last_touch_at": "2026-04-13T19:35:57.000Z",
       "last_touch_source": "email",
       "next_steps": "Meeting scheduled with Logan",
-      "active_todos": [
-        "Complete Echelon AI customer introduction outreach to US Bank and SMBC contacts"
-      ]
+      "active_todos": []
     },
     {
       "id": "cmnxe16gv0007xkun6e56eg0z",
@@ -199,9 +199,7 @@
       "last_touch_at": "2026-04-13T19:41:19.000Z",
       "last_touch_source": "email",
       "next_steps": "Review data room and discuss with the team",
-      "active_todos": [
-        "Review VanishID's revised investor slides from Matt Polak"
-      ]
+      "active_todos": []
     },
     {
       "id": "cmnnhgazs000rxky8z7ggqsnd",
