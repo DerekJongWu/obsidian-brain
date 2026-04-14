@@ -13,8 +13,6 @@ tags:
 
 > **Summary:** [[]] | **Source:** Granola / Zoom / Manual
 
----
-
 ## Transcript
 
 
