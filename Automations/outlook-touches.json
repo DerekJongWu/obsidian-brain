@@ -1,0 +1,168 @@
+{
+  "synced_at": "2026-04-14T11:15:00.000Z",
+  "results": [
+    {
+      "deal_id": "cmng87irn000bxkx41sdn1c0w",
+      "company_name": "Aembit",
+      "outlook_touch_at": "2026-04-13T22:16:58.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-13T22:16:58.000Z",
+      "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmng87is8000rxkx4tzh5om8i",
+      "company_name": "Arcade",
+      "outlook_touch_at": "2026-04-09T19:13:04.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-09T19:13:04.000Z",
+      "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmnwi2l0u000rxkj3q3m27np6",
+      "company_name": "Axia Security",
+      "outlook_touch_at": "2026-04-13T14:58:27.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-13T14:58:27.000Z",
+      "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmng87is5000oxkx4e1efggx1",
+      "company_name": "Backline AI",
+      "outlook_touch_at": "2026-04-02T13:52:07.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-02T13:52:07.000Z",
+      "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmnghs8he0006xkl5p238qtdx",
+      "company_name": "Discern Security",
+      "outlook_touch_at": "2026-04-01T16:17:16.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-01T16:17:16.000Z",
+      "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmng87is3000mxkx4bg2ln251",
+      "company_name": "Echelon AI",
+      "outlook_touch_at": "2026-04-13T19:35:57.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-13T19:35:57.000Z",
+      "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmnxe16gv0007xkun6e56eg0z",
+      "company_name": "Embed Security",
+      "outlook_touch_at": "2026-04-07T14:28:12.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-07T14:28:12.000Z",
+      "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmng87irv000fxkx4kklfc27z",
+      "company_name": "Engramme",
+      "outlook_touch_at": "2026-04-02T20:37:52.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-02T20:37:52.000Z",
+      "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmnnapsnd0002xk69k1s10ck4",
+      "company_name": "Entro Security",
+      "outlook_touch_at": "2026-04-13T16:18:19.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-13T16:18:19.000Z",
+      "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmnxdypzd0003xkunqt2a8xv8",
+      "company_name": "IndyKite",
+      "outlook_touch_at": "2026-04-09T19:35:40.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-09T19:35:40.000Z",
+      "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmnt0fid60000xktw13oasjq1",
+      "company_name": "LotLine",
+      "outlook_touch_at": "2026-04-08T17:17:49.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-08T17:17:49.000Z",
+      "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmm2lrmkv0000xkwa95tu9115",
+      "company_name": "Nametag",
+      "outlook_touch_at": "2026-02-10T20:51:59.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-02-10T20:51:59.000Z",
+      "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmng9nvp3000oxk6jm9kfqsw8",
+      "company_name": "Orchid",
+      "outlook_touch_at": "2026-04-07T15:22:29.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-07T15:22:29.000Z",
+      "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmng87is1000kxkx4kxmnpgp0",
+      "company_name": "Overwatch",
+      "outlook_touch_at": "2026-04-02T12:42:25.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-02T12:42:25.000Z",
+      "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmnp0fal4000wxkwo0pgv7dp1",
+      "company_name": "Relvino",
+      "outlook_touch_at": "2026-04-08T19:21:11.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-08T19:21:11.000Z",
+      "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmng87irz000ixkx4upfk5cmd",
+      "company_name": "Tonic Security",
+      "outlook_touch_at": "2026-03-31T18:50:59.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-03-31T18:50:59.000Z",
+      "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmng87irs000dxkx4qgi53fq5",
+      "company_name": "Unstructured",
+      "outlook_touch_at": "2026-03-19T16:37:50.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-03-19T16:37:50.000Z",
+      "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmnnanp300000xk694j8hue9e",
+      "company_name": "VanishID",
+      "outlook_touch_at": "2026-04-13T19:41:19.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-13T19:41:19.000Z",
+      "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmnnhgazs000rxky8z7ggqsnd",
+      "company_name": "Zenyard AI",
+      "outlook_touch_at": "2026-03-18T20:51:06.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-03-18T20:51:06.000Z",
+      "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmng87iry000hxkx4y4oayek2",
+      "company_name": "vCluster",
+      "outlook_touch_at": "2026-04-06T15:58:24.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-06T15:58:24.000Z",
+      "calendar_touch_at": null
+    }
+  ],
+  "errors": [
+    "Calendar queries failed for all deals due to Microsoft Graph API MailboxConcurrency rate limit (HTTP 429). Only email signals collected this run."
+  ]
+}
