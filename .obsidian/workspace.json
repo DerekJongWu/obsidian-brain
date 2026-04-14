@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcripts/Keyway - 2026-04-14 Transcript.md",
+                "file": "System Logs/Deal Staleness Agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keyway - 2026-04-14 Transcript"
+              "title": "Deal Staleness Agent"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcripts/Keyway - 2026-04-14 Transcript.md",
+                "file": "System Logs/Deal Staleness Agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Keyway - 2026-04-14 Transcript"
+              "title": "Backlinks for Deal Staleness Agent"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcripts/Keyway - 2026-04-14 Transcript.md",
+                "file": "System Logs/Deal Staleness Agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Keyway - 2026-04-14 Transcript"
+              "title": "Outgoing links from Deal Staleness Agent"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcripts/Keyway - 2026-04-14 Transcript.md",
+                "file": "System Logs/Deal Staleness Agent.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Keyway - 2026-04-14 Transcript"
+              "title": "Outline of Deal Staleness Agent"
             }
           },
           {
@@ -198,8 +198,10 @@
   },
   "active": "7a8cc0b65153e8a6",
   "lastOpenFiles": [
-    "Transcripts/LotLine - 2026-04-14 Transcript.md",
+    "Companies/OpenLayer.md",
+    "Companies/PayPath.md",
     "Transcripts/Keyway - 2026-04-14 Transcript.md",
+    "Transcripts/LotLine - 2026-04-14 Transcript.md",
     "Misc/Random.md",
     "Transcripts/QuantumSignals - 2026-04-14 Transcript.md",
     "Transcripts/VisionHeight - 2026-04-14 Transcript.md",
@@ -225,8 +227,6 @@
     "Signals/DeepTech - Quantum.md",
     "Signals/DeepTech - Cyber & RiskTech.md",
     "Signals/DeepTech - AI Apps & Infra.md",
-    "Meetings/OpenLayer- 2026-04-10 Summary.md",
-    "Companies/PayPath.md",
     "Signals",
     "Automations/deal-manifest.json",
     "References/Untitled",
