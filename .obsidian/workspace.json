@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Random.md",
+                "file": "Transcripts/Keyway - 2026-04-14 Transcript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random"
+              "title": "Keyway - 2026-04-14 Transcript"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Random.md",
+                "file": "Transcripts/Keyway - 2026-04-14 Transcript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Random"
+              "title": "Backlinks for Keyway - 2026-04-14 Transcript"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Random.md",
+                "file": "Transcripts/Keyway - 2026-04-14 Transcript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Random"
+              "title": "Outgoing links from Keyway - 2026-04-14 Transcript"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Random.md",
+                "file": "Transcripts/Keyway - 2026-04-14 Transcript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Random"
+              "title": "Outline of Keyway - 2026-04-14 Transcript"
             }
           },
           {
@@ -198,6 +198,9 @@
   },
   "active": "7a8cc0b65153e8a6",
   "lastOpenFiles": [
+    "Transcripts/LotLine - 2026-04-14 Transcript.md",
+    "Transcripts/Keyway - 2026-04-14 Transcript.md",
+    "Misc/Random.md",
     "Transcripts/QuantumSignals - 2026-04-14 Transcript.md",
     "Transcripts/VisionHeight - 2026-04-14 Transcript.md",
     "System Logs/Granola <> Obsidian Sync Agent.md",
@@ -224,9 +227,6 @@
     "Signals/DeepTech - AI Apps & Infra.md",
     "Meetings/OpenLayer- 2026-04-10 Summary.md",
     "Companies/PayPath.md",
-    "Companies/OpenLayer.md",
-    "Dashboards/Deal Staleness - 2026-04-13.md",
-    "Theses/FinTech/Debt Collection.md",
     "Signals",
     "Automations/deal-manifest.json",
     "References/Untitled",

@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-14T19:20:41.472Z",
+  "exported_at": "2026-04-14T19:27:39.582Z",
   "deals": [
     {
       "id": "cmng87irn000bxkx41sdn1c0w",
@@ -16,9 +16,9 @@
       "id": "cmng87is8000rxkx4tzh5om8i",
       "company_name": "Arcade",
       "domain": "arcade.dev",
-      "status": "Partner Meetings",
+      "status": "Deep Diligence",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-13T19:01:12.768Z",
+      "last_touch_at": "2026-04-14T19:27:39.577Z",
       "last_touch_source": "attio",
       "next_steps": "Discuss with the partners for a final decision",
       "active_todos": []
@@ -152,8 +152,8 @@
       "domain": "overwatchdata.io",
       "status": "Deep Diligence",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-13T19:01:12.758Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-04-14T19:27:14.636Z",
+      "last_touch_source": "manual",
       "next_steps": "Kicking off Series A process- currently at ~$2.5M ARR + $4M+ in contract; sending us data room",
       "active_todos": []
     },
