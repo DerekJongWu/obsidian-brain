@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-14T13:22:28.330Z",
+  "exported_at": "2026-04-14T13:29:49.618Z",
   "deals": [
     {
       "id": "cmng87irn000bxkx41sdn1c0w",
@@ -7,8 +7,8 @@
       "domain": "aembit.io",
       "status": "Deep Diligence",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-13T19:01:12.724Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-04-13T22:16:58.000Z",
+      "last_touch_source": "email",
       "next_steps": "Evaluate the strategic round details",
       "active_todos": []
     },
@@ -40,8 +40,8 @@
       "domain": "backline.ai",
       "status": "Initial Meetings",
       "funnel": "Top of Funnel",
-      "last_touch_at": null,
-      "last_touch_source": null,
+      "last_touch_at": "2026-04-02T13:52:07.000Z",
+      "last_touch_source": "email",
       "next_steps": "Meeting scheduled for two weeks",
       "active_todos": []
     },
@@ -51,8 +51,8 @@
       "domain": "discernsecurity.com",
       "status": "Initial Meetings",
       "funnel": "Top of Funnel",
-      "last_touch_at": null,
-      "last_touch_source": null,
+      "last_touch_at": "2026-04-01T16:17:16.000Z",
+      "last_touch_source": "email",
       "next_steps": "Current raising a Series A ",
       "active_todos": []
     },
@@ -62,10 +62,12 @@
       "domain": "echelonai.com",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-13T19:01:12.761Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-04-13T19:35:57.000Z",
+      "last_touch_source": "email",
       "next_steps": "Meeting scheduled with Logan",
-      "active_todos": []
+      "active_todos": [
+        "Complete Echelon AI customer introduction outreach to US Bank and SMBC contacts"
+      ]
     },
     {
       "id": "cmnxe16gv0007xkun6e56eg0z",
@@ -84,8 +86,8 @@
       "domain": "engramme.com",
       "status": "Initial Meetings",
       "funnel": "Top of Funnel",
-      "last_touch_at": null,
-      "last_touch_source": null,
+      "last_touch_at": "2026-04-02T20:37:52.000Z",
+      "last_touch_source": "email",
       "next_steps": "Following up to track the lead conversation",
       "active_todos": []
     },
@@ -172,8 +174,8 @@
       "domain": "tonicsecurity.com",
       "status": "Initial Meetings",
       "funnel": "Top of Funnel",
-      "last_touch_at": null,
-      "last_touch_source": null,
+      "last_touch_at": "2026-03-31T18:50:59.000Z",
+      "last_touch_source": "email",
       "next_steps": "Discuss with the team; Follow up for lead convos",
       "active_todos": []
     },
@@ -194,10 +196,12 @@
       "domain": "vanishid.com",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-13T19:01:12.760Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-04-13T19:41:19.000Z",
+      "last_touch_source": "email",
       "next_steps": "Review data room and discuss with the team",
-      "active_todos": []
+      "active_todos": [
+        "Review VanishID's revised investor slides from Matt Polak"
+      ]
     },
     {
       "id": "cmnnhgazs000rxky8z7ggqsnd",
@@ -205,8 +209,8 @@
       "domain": "zenyard.ai",
       "status": "Initial Meetings",
       "funnel": "Top of Funnel",
-      "last_touch_at": null,
-      "last_touch_source": null,
+      "last_touch_at": "2026-03-18T20:51:06.000Z",
+      "last_touch_source": "email",
       "next_steps": null,
       "active_todos": []
     },
