@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-15T14:08:05.729Z",
+  "exported_at": "2026-04-15T14:15:00.952Z",
   "deals": [
     {
       "id": "cmng87irn000bxkx41sdn1c0w",
@@ -18,8 +18,8 @@
       "domain": "arcade.dev",
       "status": "Deep Diligence",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-14T19:27:39.577Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-04-14T19:47:56.000Z",
+      "last_touch_source": "email",
       "next_steps": "Discuss with the partners for a final decision",
       "active_todos": []
     },
@@ -75,7 +75,7 @@
       "domain": "echelonai.com",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-13T19:35:57.000Z",
+      "last_touch_at": "2026-04-14T20:59:15.000Z",
       "last_touch_source": "email",
       "next_steps": "Meeting scheduled with Logan",
       "active_todos": []
@@ -97,7 +97,7 @@
       "domain": "engramme.com",
       "status": "Initial Meetings",
       "funnel": "Top of Funnel",
-      "last_touch_at": "2026-04-02T20:37:52.000Z",
+      "last_touch_at": "2026-04-14T21:16:01.000Z",
       "last_touch_source": "email",
       "next_steps": "Following up to track the lead conversation",
       "active_todos": []
@@ -141,8 +141,8 @@
       "domain": "trylotline.com",
       "status": "Partner Screening",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-13T19:01:12.743Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-04-14T18:30:00.000Z",
+      "last_touch_source": "calendar",
       "next_steps": null,
       "active_todos": []
     },
@@ -174,8 +174,8 @@
       "domain": "orchid.security",
       "status": "Partner Screening",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-13T19:01:12.736Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-04-15T11:52:18.000Z",
+      "last_touch_source": "email",
       "next_steps": "Just kicked off a fundraising round",
       "active_todos": []
     },
