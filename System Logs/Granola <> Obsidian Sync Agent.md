@@ -1,3 +1,24 @@
+## 2026-04-14
+
+**Meetings synced:** 4
+
+- **Keyway** — Fin Capital <> Keyway
+  - Created: Company note (Keyway), Meeting summary, Transcript stub, Person: Matias Recchia
+  - Updated: —
+- **LotLine** — Teams: Fin Capital <> LotLine
+  - Created: Company note (LotLine), Meeting summary, Transcript stub, Person: Reid Roman
+  - Updated: —
+- **Quantum Signals** — Quantum Signals <> Fin Capital
+  - Created: Company note (Quantum Signals), Meeting summary, Transcript stub, Person: Yianni Gamvros
+  - Updated: —
+- **VisionHeight** — 30 Mins Meeting between Fan + Derek and Guy Amir (VisionHeight)
+  - Created: Company note (VisionHeight), Meeting summary, Transcript stub, Person: Guy Amir
+  - Updated: —
+
+Note: Meeting "Certa <> Fin Capital" was filtered out — all listed attendees had @fin.capital email addresses (internal team meeting).
+
+---
+
 ## 2026-04-13
 
 **Meetings synced:** 2
