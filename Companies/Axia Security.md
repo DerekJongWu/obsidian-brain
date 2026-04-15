@@ -1,6 +1,6 @@
 ---
 type: company
-sector: cybersecurity
+sector: Cybersecurity
 sub_sector: Data Loss Prevention / Insider Risk
 stage: Pre-Seed
 status: sourcing
@@ -18,6 +18,8 @@ last_touch: 2026-04-13
 created: 2026-04-13
 tags:
   - company
+  - "#cybersecurity"
+  - "#dlp"
 ---
 
 # Axia Security

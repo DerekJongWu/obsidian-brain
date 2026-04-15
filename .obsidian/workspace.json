@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Logs/Granola <> Obsidian Sync Agent.md",
+                "file": "Companies/Axia Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Granola <> Obsidian Sync Agent"
+              "title": "Axia Security"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Logs/Granola <> Obsidian Sync Agent.md",
+                "file": "Companies/Axia Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Granola <> Obsidian Sync Agent"
+              "title": "Backlinks for Axia Security"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Logs/Granola <> Obsidian Sync Agent.md",
+                "file": "Companies/Axia Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Granola <> Obsidian Sync Agent"
+              "title": "Outgoing links from Axia Security"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Logs/Granola <> Obsidian Sync Agent.md",
+                "file": "Companies/Axia Security.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Granola <> Obsidian Sync Agent"
+              "title": "Outline of Axia Security"
             }
           },
           {
@@ -198,6 +198,15 @@
   },
   "active": "7a8cc0b65153e8a6",
   "lastOpenFiles": [
+    "Dashboards/Pipeline Dashboard.md",
+    "Companies/Quantum Signals.md",
+    "Companies/PayPath.md",
+    "Companies/OpenLayer.md",
+    "Companies/Mphora.md",
+    "Companies/LotLine.md",
+    "Companies/Keyway.md",
+    "System Logs/Deal Staleness Agent.md",
+    "System Logs/Granola <> Obsidian Sync Agent.md",
     "System Logs/Deal Staleness - 2026-04-15.md",
     "Transcripts/Certa - 2026-04-14 Transcript.md",
     "Transcripts/Quantum Signals - 2026-04-14 Transcript.md",
@@ -210,22 +219,13 @@
     "Meetings/LotLine - 2026-04-14 Summary.md",
     "Meetings/Keyway - 2026-04-14 Summary.md",
     "Companies/VisionHeight.md",
-    "Companies/Quantum Signals.md",
-    "Companies/LotLine.md",
-    "Companies/Keyway.md",
     "Automations/outlook-touches.json",
     "Automations/outlook-todos.json",
-    "System Logs/Deal Staleness Agent.md",
-    "Companies/OpenLayer.md",
-    "Companies/PayPath.md",
     "Transcripts/Keyway - 2026-04-14 Transcript.md",
     "Transcripts/LotLine - 2026-04-14 Transcript.md",
     "Misc/Random.md",
     "Transcripts/QuantumSignals - 2026-04-14 Transcript.md",
     "Transcripts/VisionHeight - 2026-04-14 Transcript.md",
-    "System Logs/Granola <> Obsidian Sync Agent.md",
-    "People/HyunJoon Jung.md",
-    "People/Asaf Massuri.md",
     "System Log",
     "Signals",
     "Automations/deal-manifest.json",
