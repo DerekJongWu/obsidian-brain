@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Companies/OpenLayer.md",
+                "file": "Transcripts/Opti - 2026-04-15 Transcript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OpenLayer"
+              "title": "Opti - 2026-04-15 Transcript"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Companies/OpenLayer.md",
+                "file": "Transcripts/Opti - 2026-04-15 Transcript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for OpenLayer"
+              "title": "Backlinks for Opti - 2026-04-15 Transcript"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Companies/OpenLayer.md",
+                "file": "Transcripts/Opti - 2026-04-15 Transcript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from OpenLayer"
+              "title": "Outgoing links from Opti - 2026-04-15 Transcript"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Companies/OpenLayer.md",
+                "file": "Transcripts/Opti - 2026-04-15 Transcript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OpenLayer"
+              "title": "Outline of Opti - 2026-04-15 Transcript"
             }
           },
           {
@@ -198,17 +198,19 @@
   },
   "active": "7a8cc0b65153e8a6",
   "lastOpenFiles": [
+    "Misc/Random.md",
+    "Transcripts/Opti - 2026-04-15 Transcript.md",
+    "Misc/Agent building Ideas.md",
+    "Companies/OpenLayer.md",
     "Companies/PayPath.md",
     "Companies/Quantum Signals.md",
     "Companies/VisionHeight.md",
     "Transcripts/Chain Reaction - 2026-04-15 Transcript.md",
-    "Misc/Random.md",
     "Companies/Axia Security.md",
     "System Logs/Deal Staleness - 2026-04-15.md",
     "Automations/outlook-touches.json",
     "Automations/outlook-todos.json",
     "Dashboards/Pipeline Dashboard.md",
-    "Companies/OpenLayer.md",
     "Companies/Mphora.md",
     "Companies/LotLine.md",
     "Companies/Keyway.md",
@@ -224,8 +226,6 @@
     "Meetings/Quantum Signals - 2026-04-14 Summary.md",
     "Meetings/LotLine - 2026-04-14 Summary.md",
     "Meetings/Keyway - 2026-04-14 Summary.md",
-    "Transcripts/Keyway - 2026-04-14 Transcript.md",
-    "Transcripts/LotLine - 2026-04-14 Transcript.md",
     "System Log",
     "Signals",
     "Automations/deal-manifest.json",
