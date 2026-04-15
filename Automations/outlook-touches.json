@@ -1,0 +1,7 @@
+{
+  "synced_at": "2026-04-15T11:15:00.000Z",
+  "results": [],
+  "errors": [
+    "Automations/deal-manifest.json not found. Cannot query Outlook signals without a deal list. The deal flow app must export the manifest before this sync can run."
+  ]
+}
