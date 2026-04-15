@@ -1,17 +1,17 @@
 ---
 type: transcript
 date: 2026-04-14
-company: 
-summary_note: 
-source: 
+company: VisionHeight
+summary_note: "[[VisionHeight - 2026-04-14 Summary]]"
+source: Granola
 created: 2026-04-14
 tags:
   - transcript
 ---
 
-# VisionHeight
+# VisionHeight Transcript
 
-> **Summary:** [[]] | **Source:** Granola 
+> **Summary:** [[VisionHeight - 2026-04-14 Summary]] | **Source:** Granola
 
 ## Transcript
 Meeting Title: 30 Mins Meeting between Fan + Derek and Guy Amir (VisionHeight)

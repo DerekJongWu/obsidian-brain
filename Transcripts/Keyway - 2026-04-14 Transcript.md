@@ -1,17 +1,17 @@
 ---
 type: transcript
 date: 2026-04-14
-company: 
-summary_note: 
-source: 
+company: Keyway
+summary_note: "[[Keyway - 2026-04-14 Summary]]"
+source: Granola
 created: 2026-04-14
 tags:
   - transcript
 ---
 
-# Keyway
+# Keyway Transcript
 
-> **Summary:** [[]] | **Source:** Granola 
+> **Summary:** [[Keyway - 2026-04-14 Summary]] | **Source:** Granola
 
 ## Transcript
 

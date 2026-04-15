@@ -1,17 +1,17 @@
 ---
 type: transcript
 date: 2026-04-14
-company: 
-summary_note: 
-source: 
+company: LotLine
+summary_note: "[[LotLine - 2026-04-14 Summary]]"
+source: Granola
 created: 2026-04-14
 tags:
   - transcript
 ---
 
-# LotLine 
+# LotLine Transcript
 
-> **Summary:** [[]] | **Source:** Granola
+> **Summary:** [[LotLine - 2026-04-14 Summary]] | **Source:** Granola
 
 ## Transcript
 
