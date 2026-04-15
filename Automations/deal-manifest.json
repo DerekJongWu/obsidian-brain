@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-14T20:38:26.035Z",
+  "exported_at": "2026-04-15T13:39:28.663Z",
   "deals": [
     {
       "id": "cmng87irn000bxkx41sdn1c0w",
@@ -45,6 +45,17 @@
       "last_touch_at": "2026-04-02T13:52:07.000Z",
       "last_touch_source": "email",
       "next_steps": "Meeting scheduled for two weeks",
+      "active_todos": []
+    },
+    {
+      "id": "cmo03jxbx000ixkdk3ammmomo",
+      "company_name": "DBGorilla",
+      "domain": "dbgorilla.com",
+      "status": "Partner Screening",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-15T13:39:14.685Z",
+      "last_touch_source": "attio",
+      "next_steps": null,
       "active_todos": []
     },
     {
@@ -103,6 +114,17 @@
       "active_todos": []
     },
     {
+      "id": "cmo03jxbt000hxkdkwru29ezh",
+      "company_name": "Freeflow",
+      "domain": "freeflow.ai",
+      "status": "Partner Screening",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-15T13:39:14.680Z",
+      "last_touch_source": "attio",
+      "next_steps": null,
+      "active_todos": []
+    },
+    {
       "id": "cmnxdypzd0003xkunqt2a8xv8",
       "company_name": "IndyKite",
       "domain": "indykite.ai",
@@ -133,6 +155,17 @@
       "last_touch_at": "2026-04-13T19:01:12.750Z",
       "last_touch_source": "attio",
       "next_steps": "Flashed to SMBC; compiling customer feedback",
+      "active_todos": []
+    },
+    {
+      "id": "cmo03jxc0000jxkdkwgmrdwgy",
+      "company_name": "Opti",
+      "domain": "opti.ai",
+      "status": "Partner Screening",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-15T13:39:14.687Z",
+      "last_touch_source": "attio",
+      "next_steps": null,
       "active_todos": []
     },
     {
