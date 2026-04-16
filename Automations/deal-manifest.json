@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-16T14:32:40.731Z",
+  "exported_at": "2026-04-16T15:43:03.512Z",
   "deals": [
     {
       "id": "cmng87irn000bxkx41sdn1c0w",
@@ -40,8 +40,8 @@
       "domain": "backline.ai",
       "status": "Initial Meetings",
       "funnel": "Top of Funnel",
-      "last_touch_at": "2026-04-02T13:52:07.000Z",
-      "last_touch_source": "email",
+      "last_touch_at": "2026-04-16T15:29:44.535Z",
+      "last_touch_source": "attio",
       "next_steps": "Meeting scheduled for two weeks",
       "active_todos": []
     },
@@ -64,8 +64,8 @@
       "domain": "discernsecurity.com",
       "status": "Initial Meetings",
       "funnel": "Top of Funnel",
-      "last_touch_at": "2026-04-15T18:05:07.000Z",
-      "last_touch_source": "email",
+      "last_touch_at": "2026-04-16T15:29:44.552Z",
+      "last_touch_source": "attio",
       "next_steps": "Current raising a Series A ",
       "active_todos": []
     },
@@ -86,7 +86,7 @@
       "domain": "embedsecurity.com",
       "status": "Initial Meetings",
       "funnel": "Top of Funnel",
-      "last_touch_at": "2026-04-13T16:09:17.309Z",
+      "last_touch_at": "2026-04-16T15:29:45.316Z",
       "last_touch_source": "attio",
       "next_steps": "Waiting on founder to send over deck",
       "active_todos": []
@@ -97,8 +97,8 @@
       "domain": "engramme.com",
       "status": "Initial Meetings",
       "funnel": "Top of Funnel",
-      "last_touch_at": "2026-04-14T21:16:01.000Z",
-      "last_touch_source": "email",
+      "last_touch_at": "2026-04-16T15:29:43.372Z",
+      "last_touch_source": "attio",
       "next_steps": "Following up to track the lead conversation",
       "active_todos": []
     },
@@ -193,24 +193,13 @@
       "active_todos": []
     },
     {
-      "id": "cmnp0fal4000wxkwo0pgv7dp1",
-      "company_name": "Relvino",
-      "domain": "relvino.com",
-      "status": "Partner Screening",
-      "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-15T19:34:04.000Z",
-      "last_touch_source": "email",
-      "next_steps": "Currently raising a $3M pre-seed SAFE at $15M cap. $2M left in allocation",
-      "active_todos": []
-    },
-    {
       "id": "cmng87irz000ixkx4upfk5cmd",
       "company_name": "Tonic Security",
       "domain": "tonicsecurity.com",
       "status": "Initial Meetings",
       "funnel": "Top of Funnel",
-      "last_touch_at": "2026-03-31T18:50:59.000Z",
-      "last_touch_source": "email",
+      "last_touch_at": "2026-04-16T15:29:43.378Z",
+      "last_touch_source": "attio",
       "next_steps": "Discuss with the team; Follow up for lead convos",
       "active_todos": []
     },
@@ -242,20 +231,9 @@
       "domain": "zenyard.ai",
       "status": "Initial Meetings",
       "funnel": "Top of Funnel",
-      "last_touch_at": "2026-03-18T20:51:06.000Z",
-      "last_touch_source": "email",
-      "next_steps": null,
-      "active_todos": []
-    },
-    {
-      "id": "cmng87iry000hxkx4y4oayek2",
-      "company_name": "vCluster",
-      "domain": "vcluster.com",
-      "status": "Partner Screening",
-      "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-13T19:01:12.752Z",
+      "last_touch_at": "2026-04-16T15:29:44.558Z",
       "last_touch_source": "attio",
-      "next_steps": "Following up to track the lead conversation",
+      "next_steps": null,
       "active_todos": []
     }
   ]
