@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcripts/Opti - 2026-04-15 Transcript.md",
+                "file": "Transcripts/MetLife - 2026-04-15 Transcript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opti - 2026-04-15 Transcript"
+              "title": "MetLife - 2026-04-15 Transcript"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcripts/Opti - 2026-04-15 Transcript.md",
+                "file": "Transcripts/MetLife - 2026-04-15 Transcript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Opti - 2026-04-15 Transcript"
+              "title": "Backlinks for MetLife - 2026-04-15 Transcript"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcripts/Opti - 2026-04-15 Transcript.md",
+                "file": "Transcripts/MetLife - 2026-04-15 Transcript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Opti - 2026-04-15 Transcript"
+              "title": "Outgoing links from MetLife - 2026-04-15 Transcript"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcripts/Opti - 2026-04-15 Transcript.md",
+                "file": "Transcripts/MetLife - 2026-04-15 Transcript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Opti - 2026-04-15 Transcript"
+              "title": "Outline of MetLife - 2026-04-15 Transcript"
             }
           },
           {
@@ -198,8 +198,18 @@
   },
   "active": "7a8cc0b65153e8a6",
   "lastOpenFiles": [
-    "Misc/Random.md",
+    "Transcripts/Mphora - 2026-04-13 Transcript.md",
+    "Transcripts/MetLife - 2026-04-15 Transcript.md",
+    "Mphora - 2026-04-13 Transcript.md",
+    "Meetings/Mphora - 2026-04-13 Summary.md",
+    "Transcripts/LotLine - 2026-04-14 Transcript.md",
+    "Transcripts/VisionHeight - 2026-04-14 Transcript.md",
+    "Transcripts/PayPath - 2026-04-10 Transcript.md",
+    "Transcripts/Quantum Signals - 2026-04-14 Transcript.md",
+    "Transcripts/QuantumSignals - 2026-04-14 Transcript.md",
+    "Transcripts/Coffee AI - 2026-04-15 Transcript.md",
     "Transcripts/Opti - 2026-04-15 Transcript.md",
+    "Misc/Random.md",
     "Misc/Agent building Ideas.md",
     "Companies/OpenLayer.md",
     "Companies/PayPath.md",
@@ -216,16 +226,6 @@
     "Companies/Keyway.md",
     "System Logs/Deal Staleness Agent.md",
     "System Logs/Granola <> Obsidian Sync Agent.md",
-    "Transcripts/Certa - 2026-04-14 Transcript.md",
-    "Transcripts/Quantum Signals - 2026-04-14 Transcript.md",
-    "People/Yianni Gamvros.md",
-    "People/Reid Roman.md",
-    "People/Matias Recchia.md",
-    "People/Guy Amir.md",
-    "Meetings/VisionHeight - 2026-04-14 Summary.md",
-    "Meetings/Quantum Signals - 2026-04-14 Summary.md",
-    "Meetings/LotLine - 2026-04-14 Summary.md",
-    "Meetings/Keyway - 2026-04-14 Summary.md",
     "System Log",
     "Signals",
     "Automations/deal-manifest.json",

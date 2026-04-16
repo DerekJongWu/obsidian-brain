@@ -1,33 +1,17 @@
 ---
 type: transcript
-<<<<<<< HEAD
 date: 2026-04-13
 company: Mphora
 summary_note: "[[Mphora - 2026-04-13 Summary]]"
 source: Granola
-created: 2026-04-13
-=======
-date: 2026-04-14
-company: 
-summary_note: 
-source: 
-created: 2026-04-14
->>>>>>> main
+created: 2026-04-15
 tags:
   - transcript
 ---
 
-<<<<<<< HEAD
 # Mphora Transcript
 
 > **Summary:** [[Mphora - 2026-04-13 Summary]] | **Source:** Granola
-
-## Transcript
-=======
-# Mphora
-
-> **Summary:** [[]] | **Source:** Granola
-
 ## Transcript
 Meeting Title: 30 Min Meeting between Derek Wu and HyunJoon Jung
 Date: Apr 13
@@ -55,4 +39,6 @@ Them: So one case is that like for example security and safety like do you have 
 Me: Thank you.  
 Them: Thank you so much for your time. Thanks guys. 
 >>>>>>> main
+
+
 
