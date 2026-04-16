@@ -1,17 +1,17 @@
 ---
 type: transcript
 date: 2026-04-15
-company: 
-summary_note: 
-source: 
+company: "Chain Reaction"
+summary_note: "[[Chain Reaction - 2026-04-15 Summary]]"
+source: "Granola"
 created: 2026-04-15
 tags:
   - transcript
 ---
 
-# Chain Reaction
+# Chain Reaction - 2026-04-15 Transcript
 
-> **Summary:** [[]] | **Source:** Granola 
+> **Summary:** [[Chain Reaction - 2026-04-15 Summary]] | **Source:** Granola
 
 ## Transcript
 Meeting Title: 30 Mins Meeting between Fan + Derek and Matt Rosen (Chain Reaction)

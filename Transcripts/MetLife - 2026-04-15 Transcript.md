@@ -1,9 +1,9 @@
 ---
 type: transcript
 date: 2026-04-15
-company:
-summary_note:
-source:
+company: "MetLife"
+summary_note: "[[MetLife - 2026-04-15 Summary]]"
+source: "Granola"
 created: 2026-04-15
 tags:
   - transcript
@@ -11,9 +11,9 @@ tags:
   - MetLife
 ---
 
-# MetLife
+# MetLife - 2026-04-15 Transcript
 
-> **Summary:** [[]] | **Source:** Granola
+> **Summary:** [[MetLife - 2026-04-15 Summary]] | **Source:** Granola
 
 ## Transcript
 Meeting Title: Met.IO 2026 Requirements Discussion - Fin Capital / MetLife

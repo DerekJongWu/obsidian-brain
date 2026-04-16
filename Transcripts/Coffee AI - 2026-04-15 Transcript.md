@@ -1,17 +1,17 @@
 ---
 type: transcript
 date: 2026-04-15
-company: 
-summary_note: 
-source: 
+company: "Coffee AI"
+summary_note: "[[Coffee AI - 2026-04-15 Summary]]"
+source: "Granola"
 created: 2026-04-15
 tags:
   - transcript
 ---
 
-# Untitled
+# Coffee AI - 2026-04-15 Transcript
 
-> **Summary:** [[]] | **Source:** Granola / Zoom / Manual
+> **Summary:** [[Coffee AI - 2026-04-15 Summary]] | **Source:** Granola
 
 ## Transcript
 
