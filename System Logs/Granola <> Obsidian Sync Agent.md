@@ -1,3 +1,21 @@
+## 2026-04-15
+
+**Meetings synced:** 3
+
+- **MetLife** — Met.IO 2026 Requirements Discussion - Fin Capital / MetLife
+  - Created: Company note (MetLife), Meeting summary, Person: Laritza D'Amato
+  - Updated: Transcript frontmatter (MetLife - 2026-04-15 Transcript)
+- **Coffee AI** — Fan Wen and Doug Camplejohn (Cofee AI)
+  - Created: Company note (Coffee AI), Meeting summary, Person: Doug Camplejohn
+  - Updated: Transcript frontmatter (Coffee AI - 2026-04-15 Transcript)
+- **Chain Reaction** — 30 Mins Meeting between Fan + Derek and Matt Rosen (Chain Reaction)
+  - Created: Company note (Chain Reaction), Meeting summary, Person: Matt Rosen
+  - Updated: Transcript frontmatter (Chain Reaction - 2026-04-15 Transcript)
+
+Note: All 3 meetings had external attendees; none were filtered as internal. Harmonic enrichment successful for Coffee AI and Chain Reaction; MetLife created from Granola meeting data (large public company).
+
+---
+
 ## 2026-04-14
 
 **Meetings synced:** 4
