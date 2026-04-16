@@ -1,7 +1,110 @@
 {
   "extracted_at": "2026-04-16T11:15:00.000Z",
-  "items": [],
-  "errors": [
-    "Deal manifest not found at Automations/deal-manifest.json — cannot extract action items. Ensure the deal flow app exports the manifest before this sync runs."
-  ]
+  "items": [
+    {
+      "deal_id": "cmnnapsnd0002xk69k1s10ck4",
+      "company_name": "Entro Security",
+      "title": "Review Entro Security data room (just shared by Itzik)",
+      "context": "Email from itzik.alvas@entro.security on Apr 16: 'Sorry for the late reply. Please find the requested data here.' — shared Google Drive link after multiple follow-ups from Fan.",
+      "source": "email",
+      "source_date": "2026-04-16T12:19:33.000Z"
+    },
+    {
+      "deal_id": "cmnnapsnd0002xk69k1s10ck4",
+      "company_name": "Entro Security",
+      "title": "Schedule call with Itzik Alvas (Entro Security CEO)",
+      "context": "Email from itzik.alvas@entro.security on Apr 16: 'Let me know when you have time to jump on a quick call.' — explicit ask after sharing data room.",
+      "source": "email",
+      "source_date": "2026-04-16T12:19:33.000Z"
+    },
+    {
+      "deal_id": "cmnnapsnd0002xk69k1s10ck4",
+      "company_name": "Entro Security",
+      "title": "Intro Entro Security to Amex security team",
+      "context": "Email from Fan on Apr 6: 'I caught up with a friend at Amex...their security team is conducting a deep evaluation of players in this space. If you haven't connected with them yet, I would be happy to reach out.' Itzik replied: 'an intro would be amazing.'",
+      "source": "email",
+      "source_date": "2026-04-06T17:20:00.000Z"
+    },
+    {
+      "deal_id": "cmng87is8000rxkx4tzh5om8i",
+      "company_name": "Arcade",
+      "title": "Address Matthew's feedback on Arcade investment memo before Pipeline meeting",
+      "context": "Email from matthew@fin.capital on Apr 15: '1. Delete repetitive language in Investment Summary. 2. Complete the investment box criteria section (blank). 3. Add notes supporting the scorecard. 4. If we continue, need to pull an actual memo together.'",
+      "source": "email",
+      "source_date": "2026-04-15T14:32:37.000Z"
+    },
+    {
+      "deal_id": "cmnwi2l0u000rxkj3q3m27np6",
+      "company_name": "Axia Security",
+      "title": "Schedule follow-up with Axia Security to walk through deck and growth plan",
+      "context": "Email from asaf@axiasecurity.io on Apr 13: 'Apologies for not sharing the deck just yet; I prefer to walk through it together before sending it over...I would be happy to walk you through [the growth plan] in more detail in our next meeting.'",
+      "source": "email",
+      "source_date": "2026-04-13T14:58:27.000Z"
+    },
+    {
+      "deal_id": "cmng87irv000fxkx4kklfc27z",
+      "company_name": "Engramme",
+      "title": "Review Engramme data room materials",
+      "context": "Email from gabriel@engramme.com on Apr 14: 'Please find the link to the data room here' — shared Google Drive folder link after initial meetings.",
+      "source": "email",
+      "source_date": "2026-04-14T21:16:01.000Z"
+    },
+    {
+      "deal_id": "cmnxdypzd0003xkunqt2a8xv8",
+      "company_name": "IndyKite",
+      "title": "Review IndyKite Series A materials and Agent Control video",
+      "context": "Email from lasse.andresen@indykite.com on Apr 9: 'Attached are a few decks with more information and a video focusing on the Agent Control part of the platform.'",
+      "source": "email",
+      "source_date": "2026-04-09T19:35:40.000Z"
+    },
+    {
+      "deal_id": "cmng9nvp3000oxk6jm9kfqsw8",
+      "company_name": "Orchid",
+      "title": "Track Orchid fundraising timeline and move quickly once terms are set",
+      "context": "Email from roy@orchid.security on Apr 15: 'We initiated the fundraising and began reaching out to VCs on Friday, meetings are starting to fill up, primarily for next week.' Jake committed to tracking the timeline.",
+      "source": "email",
+      "source_date": "2026-04-15T11:52:18.000Z"
+    },
+    {
+      "deal_id": "cmnp0fal4000wxkwo0pgv7dp1",
+      "company_name": "Relvino",
+      "title": "Confirm Relvino partner meeting with Matthew on Apr 22",
+      "context": "Email from rahul@rubydata.ai on Apr 15: 'We have a scheduled meeting on 04/22 from 12:00 to 12:30 pm PST. I wanted to follow up since we were planning to meet with Matthew. Is that correct or did something change?'",
+      "source": "email",
+      "source_date": "2026-04-15T19:34:04.000Z"
+    },
+    {
+      "deal_id": "cmng87is5000oxkx4e1efggx1",
+      "company_name": "Backline AI",
+      "title": "Prep for Backline AI follow-up meeting with Maor on Apr 20",
+      "context": "Calendar event '30 Mins Meeting between Fan + Derek and Maor Goldberg' scheduled for Apr 20 at 2:00 PM ET with Rina also attending.",
+      "source": "calendar",
+      "source_date": "2026-04-20T18:00:00.000Z"
+    },
+    {
+      "deal_id": "cmnghs8he0006xkl5p238qtdx",
+      "company_name": "Discern Security",
+      "title": "Follow up with Discern Security if no response to deck request",
+      "context": "Email from derek@fin.capital on Apr 15: 'I'd love to check in on how the round is progressing and, if you have a deck or any other materials readily available, would be grateful if you could share them.' — sent to Sai and Evgeniy, no response yet.",
+      "source": "email",
+      "source_date": "2026-04-15T18:05:07.000Z"
+    },
+    {
+      "deal_id": null,
+      "company_name": null,
+      "title": "Prep for Fubon / Taiwan Life LP meeting on Apr 20 at NYC office",
+      "context": "Calendar event 'Meet in NYC: Fubon <> Fin Capital' on Apr 20 at 1:30 PM ET at 114 Crosby Street with Fubon and Taiwan Life attendees (Wei Chen, Annie Chang, David Pan).",
+      "source": "calendar",
+      "source_date": "2026-04-20T17:30:00.000Z"
+    },
+    {
+      "deal_id": null,
+      "company_name": null,
+      "title": "Prep for Torch Security sourcing call with Gal Ron on Apr 17",
+      "context": "Calendar event '30 Mins Meeting between Fan + Derek and Gal Ron' on Apr 17 at 3:00 PM ET — gal@torch.security, new sourcing meeting.",
+      "source": "calendar",
+      "source_date": "2026-04-17T19:00:00.000Z"
+    }
+  ],
+  "errors": []
 }
