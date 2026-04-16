@@ -1,0 +1,7 @@
+{
+  "synced_at": "2026-04-16T11:15:00.000Z",
+  "results": [],
+  "errors": [
+    "Deal manifest not found at Automations/deal-manifest.json — cannot process deal touch signals. Ensure the deal flow app exports the manifest before this sync runs."
+  ]
+}
