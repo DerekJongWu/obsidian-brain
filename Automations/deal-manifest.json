@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-16T17:05:15.118Z",
+  "exported_at": "2026-04-16T17:17:05.859Z",
   "deals": [
     {
       "id": "cmng87irn000bxkx41sdn1c0w",
@@ -46,6 +46,17 @@
       "active_todos": []
     },
     {
+      "id": "cmo1qm9mz000uxkb3hcclcmvb",
+      "company_name": "Coffee AI",
+      "domain": "coffee.ai",
+      "status": "Initial Meetings",
+      "funnel": "Top of Funnel",
+      "last_touch_at": "2026-04-16T17:12:46.136Z",
+      "last_touch_source": "attio",
+      "next_steps": null,
+      "active_todos": []
+    },
+    {
       "id": "cmo03jxbx000ixkdk3ammmomo",
       "company_name": "DBGorilla",
       "domain": "dbgorilla.com",
@@ -64,9 +75,9 @@
       "domain": "discernsecurity.com",
       "status": "Initial Meetings",
       "funnel": "Top of Funnel",
-      "last_touch_at": "2026-04-16T15:29:44.552Z",
+      "last_touch_at": "2026-04-16T17:12:05.830Z",
       "last_touch_source": "attio",
-      "next_steps": "Current raising a Series A ",
+      "next_steps": null,
       "active_todos": []
     },
     {
@@ -120,6 +131,17 @@
       "status": "Partner Screening",
       "funnel": "Mid Funnel",
       "last_touch_at": "2026-04-15T13:39:14.680Z",
+      "last_touch_source": "attio",
+      "next_steps": null,
+      "active_todos": []
+    },
+    {
+      "id": "cmo1qlxo0000rxkb3woyafgwk",
+      "company_name": "Huskeys",
+      "domain": "huskeys.io",
+      "status": "Initial Meetings",
+      "funnel": "Top of Funnel",
+      "last_touch_at": "2026-04-16T17:12:25.775Z",
       "last_touch_source": "attio",
       "next_steps": null,
       "active_todos": []
