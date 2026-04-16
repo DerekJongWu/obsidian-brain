@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-15T19:14:53.186Z",
+  "exported_at": "2026-04-16T14:32:40.731Z",
   "deals": [
     {
       "id": "cmng87irn000bxkx41sdn1c0w",
@@ -18,7 +18,7 @@
       "domain": "arcade.dev",
       "status": "Deep Diligence",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-14T19:47:56.000Z",
+      "last_touch_at": "2026-04-15T14:32:37.000Z",
       "last_touch_source": "email",
       "next_steps": "Discuss with the partners for a final decision",
       "active_todos": []
@@ -51,8 +51,8 @@
       "domain": "dbgorilla.com",
       "status": "Partner Screening",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-15T13:39:14.685Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-04-16T17:00:00.000Z",
+      "last_touch_source": "calendar",
       "next_steps": null,
       "active_todos": [
         "Prep for DBGorilla intro call on Apr 16 (Series A, autonomous database ops)"
@@ -64,7 +64,7 @@
       "domain": "discernsecurity.com",
       "status": "Initial Meetings",
       "funnel": "Top of Funnel",
-      "last_touch_at": "2026-04-01T16:17:16.000Z",
+      "last_touch_at": "2026-04-15T18:05:07.000Z",
       "last_touch_source": "email",
       "next_steps": "Current raising a Series A ",
       "active_todos": []
@@ -108,8 +108,8 @@
       "domain": "entro.security",
       "status": "Partner Screening",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-13T19:01:12.755Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-04-16T12:19:33.000Z",
+      "last_touch_source": "email",
       "next_steps": "Currently raising a $40M Series B - $200M post",
       "active_todos": []
     },
@@ -198,8 +198,8 @@
       "domain": "relvino.com",
       "status": "Partner Screening",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-13T19:01:12.753Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-04-15T19:34:04.000Z",
+      "last_touch_source": "email",
       "next_steps": "Currently raising a $3M pre-seed SAFE at $15M cap. $2M left in allocation",
       "active_todos": []
     },
@@ -220,8 +220,8 @@
       "domain": "unstructured.io",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-13T19:01:12.747Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-04-15T15:36:26.000Z",
+      "last_touch_source": "email",
       "next_steps": "Working on BD (targeting portcos) - wait for Series C",
       "active_todos": []
     },
