@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-16T17:17:05.859Z",
+  "exported_at": "2026-04-17T13:53:37.572Z",
   "deals": [
     {
       "id": "cmng87irn000bxkx41sdn1c0w",
@@ -212,6 +212,17 @@
       "last_touch_at": "2026-04-15T18:46:14.349Z",
       "last_touch_source": "attio",
       "next_steps": "Kicking off Series A process- currently at ~$2.5M ARR + $4M+ in contract",
+      "active_todos": []
+    },
+    {
+      "id": "cmo2yv5ax0013xkb39paudwz0",
+      "company_name": "Sentra",
+      "domain": "sentra.app",
+      "status": "Partner Screening",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-17T13:51:18.680Z",
+      "last_touch_source": "attio",
+      "next_steps": "Get data room and round details",
       "active_todos": []
     },
     {
