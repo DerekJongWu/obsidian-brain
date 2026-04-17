@@ -1,17 +1,17 @@
 ---
 type: transcript
 date: 2026-04-16
-company: 
-summary_note: 
-source: 
+company: "Huskeys"
+summary_note: "[[Huskeys - 2026-04-16 Summary]]"
+source: "Granola"
 created: 2026-04-16
 tags:
   - transcript
 ---
 
-# Huskeys
+# Huskeys - 2026-04-16 Transcript
 
-> **Summary:** [[]] | **Source:** Granola 
+> **Summary:** [[Huskeys - 2026-04-16 Summary]] | **Source:** Granola
 
 ## Transcript
 Meeting Title: Teams: Fin Capital <> Huskeys

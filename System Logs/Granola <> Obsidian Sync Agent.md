@@ -1,3 +1,18 @@
+## 2026-04-16
+
+**Meetings synced:** 2
+
+- **DBGorilla** — Teams: Fin Capital <> DBGorilla
+  - Created: Company note, Meeting summary, Transcript stub, Person: Stephen Nolan, Person: Chris Lalonde
+  - Updated: —
+- **Huskeys** — Teams: Fin Capital <> Huskeys
+  - Created: Company note, Meeting summary, Person: Itai Gafni
+  - Updated: Transcript frontmatter (Huskeys - 2026-04-16 Transcript — already existed with content, updated metadata)
+
+Note: Both meetings had external attendees; none were filtered as internal. Harmonic enrichment successful for both DBGorilla and Huskeys.
+
+---
+
 ## 2026-04-15
 
 **Meetings synced:** 3
