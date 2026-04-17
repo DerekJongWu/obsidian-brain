@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcripts/Huskeys - 2026-04-16 Transcript.md",
+                "file": "Transcripts/Torch Security - 2026-04-17 Transcript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Huskeys - 2026-04-16 Transcript"
+              "title": "Torch Security - 2026-04-17 Transcript"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcripts/Huskeys - 2026-04-16 Transcript.md",
+                "file": "Transcripts/Torch Security - 2026-04-17 Transcript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Huskeys - 2026-04-16 Transcript"
+              "title": "Backlinks for Torch Security - 2026-04-17 Transcript"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcripts/Huskeys - 2026-04-16 Transcript.md",
+                "file": "Transcripts/Torch Security - 2026-04-17 Transcript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Huskeys - 2026-04-16 Transcript"
+              "title": "Outgoing links from Torch Security - 2026-04-17 Transcript"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcripts/Huskeys - 2026-04-16 Transcript.md",
+                "file": "Transcripts/Torch Security - 2026-04-17 Transcript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Huskeys - 2026-04-16 Transcript"
+              "title": "Outline of Torch Security - 2026-04-17 Transcript"
             }
           },
           {
@@ -198,10 +198,12 @@
   },
   "active": "7a8cc0b65153e8a6",
   "lastOpenFiles": [
+    "Meetings/PayPath - 2026-04-10 Summary.md",
+    "Transcripts/Torch Security - 2026-04-17 Transcript.md",
+    "Transcripts/Huskeys - 2026-04-16 Transcript.md",
     "Automations/outlook-touches.json",
     "Automations/outlook-todos.json",
     "Companies/Axia Security.md",
-    "Transcripts/Huskeys - 2026-04-16 Transcript.md",
     "Companies/Chain Reaction.md",
     "Companies/Coffee AI.md",
     "Companies/Keyway.md",
@@ -224,7 +226,6 @@
     "System Log/Deal Staleness.md",
     "System Logs/Deal Staleness - 2026-04-15.md",
     "System Logs/Deal Staleness Agent.md",
-    "Transcripts/Mphora - 2026-04-13 Transcript.md",
     "System Log",
     "Signals",
     "Automations/deal-manifest.json",
