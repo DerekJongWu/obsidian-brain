@@ -1,3 +1,15 @@
+## 2026-04-17
+
+**Meetings synced:** 1
+
+- **Torch Security** — 30 Mins Meeting between Fan + Derek and Gal Ron (Torch Security)
+  - Created: Company note (Torch Security), Meeting summary, Transcript stub, Person: Gal Ron
+  - Updated: —
+
+Note: 1 meeting found from 2026-04-17; no internal-only meetings filtered. Harmonic enrichment successful for Torch Security and Gal Ron.
+
+---
+
 ## 2026-04-15
 
 **Meetings synced:** 3
