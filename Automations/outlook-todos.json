@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-04-19T11:15:00.000Z",
+  "extracted_at": "2026-04-20T11:15:00.000Z",
   "items": [
     {
       "deal_id": "cmnnapsnd0002xk69k1s10ck4",
@@ -29,9 +29,9 @@
       "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
       "company_name": "Opti",
       "title": "Confirm time with Barak for Opti follow-up meeting (Tue 4/21 or Wed 4/22)",
-      "context": "Email from jackie@fin.capital on Apr 16: 'Please, let me know if anything in the below aligns — Tuesday 4/21 - 12:30 - 1:30, 2:30 - 3 (ET), Wednesday 4/22 - 1:30 - 2 (ET).' Scheduling follow-up with Opti CEO Barak Perelman.",
+      "context": "Email from jackie@fin.capital on Apr 16 proposing times. Barak responded positively on Apr 18 (forwarded by Richie on Apr 20): 'Thank you for the kind words...' — need to lock in the meeting slot.",
       "source": "email",
-      "source_date": "2026-04-16T17:24:42.000Z"
+      "source_date": "2026-04-20T02:45:19.000Z"
     },
     {
       "deal_id": "cmnt0fid60000xktw13oasjq1",
@@ -76,8 +76,8 @@
     {
       "deal_id": "cmnnanp300000xk694j8hue9e",
       "company_name": "VanishID",
-      "title": "Follow up with Matt at VanishID for the Logan product update he promised this week",
-      "context": "Email from matt@vanishid.com on Apr 13: 'Yep we should have an update for Logan this week.' Logan is currently trying out the VanishID product.",
+      "title": "Follow up with Matt at VanishID for the Logan product update he promised last week",
+      "context": "Email from matt@vanishid.com on Apr 13: 'Yep we should have an update for Logan this week.' That week has passed — check if the update was sent.",
       "source": "email",
       "source_date": "2026-04-13T19:41:19.000Z"
     },
@@ -139,6 +139,7 @@
     }
   ],
   "errors": [
-    "Calendar search and full email body retrieval (read_resource) failed due to Microsoft Graph API rate limiting (429). Calendar-based todos carried forward from previous sync (2026-04-17). Email todos extracted from search snippets only."
+    "Calendar search and full email body retrieval (read_resource) failed due to Microsoft Graph API rate limiting (429). Calendar-based todos carried forward from previous syncs. Email todos extracted from search snippets only.",
+    "Updated Opti context with new Apr 20 email showing Barak's positive response. Updated VanishID phrasing (promised week has passed)."
   ]
 }

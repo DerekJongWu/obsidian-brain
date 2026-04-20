@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-04-19T11:15:00.000Z",
+  "synced_at": "2026-04-20T11:15:00.000Z",
   "results": [
     {
       "deal_id": "cmng87irn000bxkx41sdn1c0w",
@@ -132,9 +132,9 @@
     {
       "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
       "company_name": "Opti",
-      "outlook_touch_at": "2026-04-16T17:24:42.000Z",
+      "outlook_touch_at": "2026-04-20T02:45:19.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2026-04-16T17:24:42.000Z",
+      "email_touch_at": "2026-04-20T02:45:19.000Z",
       "calendar_touch_at": null
     },
     {
@@ -195,7 +195,8 @@
     }
   ],
   "errors": [
-    "Calendar search failed for all deals due to Microsoft Graph API rate limiting (429 ApplicationThrottled). Calendar touches carried forward from previous sync (2026-04-17).",
-    "Full email body retrieval (read_resource) also rate-limited — to-do extraction used email search snippets only."
+    "Calendar search failed for all deals due to Microsoft Graph API rate limiting (429 ApplicationThrottled). Calendar touches carried forward from previous syncs.",
+    "Full email body retrieval (read_resource) also rate-limited — to-do extraction used email search snippets only.",
+    "Updated Opti email_touch_at from 2026-04-16 to 2026-04-20 (new email found: FW: Follow Up from Richie forwarding Barak's positive response)."
   ]
 }
