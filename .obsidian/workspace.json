@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Companies/Axia Security.md",
+                "file": "Misc/Random.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Axia Security"
+              "title": "Random"
             }
           }
         ]
@@ -198,6 +198,7 @@
   },
   "active": "7a8cc0b65153e8a6",
   "lastOpenFiles": [
+    "Companies/Axia Security.md",
     "Misc/Random.md",
     "Companies/Torch Security.md",
     "People/Gal Ron.md",
@@ -207,7 +208,6 @@
     "Meetings/PayPath - 2026-04-10 Summary.md",
     "Automations/outlook-touches.json",
     "Automations/outlook-todos.json",
-    "Companies/Axia Security.md",
     "Companies/Chain Reaction.md",
     "Companies/Coffee AI.md",
     "Companies/Keyway.md",
