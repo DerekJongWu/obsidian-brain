@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-17T13:53:37.572Z",
+  "exported_at": "2026-04-20T17:12:21.026Z",
   "deals": [
     {
       "id": "cmng87irn000bxkx41sdn1c0w",
@@ -7,7 +7,7 @@
       "domain": "aembit.io",
       "status": "Deep Diligence",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-13T22:16:58.000Z",
+      "last_touch_at": "2026-04-16T17:46:38.000Z",
       "last_touch_source": "email",
       "next_steps": "Evaluate the strategic round details",
       "active_todos": []
@@ -43,7 +43,9 @@
       "last_touch_at": "2026-04-16T15:29:44.535Z",
       "last_touch_source": "attio",
       "next_steps": "Meeting scheduled for two weeks",
-      "active_todos": []
+      "active_todos": [
+        "Prep for Backline AI follow-up meeting with Maor on Apr 20"
+      ]
     },
     {
       "id": "cmo1qm9mz000uxkb3hcclcmvb",
@@ -62,12 +64,10 @@
       "domain": "dbgorilla.com",
       "status": "Partner Screening",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-16T17:00:00.000Z",
-      "last_touch_source": "calendar",
+      "last_touch_at": "2026-04-17T01:42:44.000Z",
+      "last_touch_source": "email",
       "next_steps": null,
-      "active_todos": [
-        "Prep for DBGorilla intro call on Apr 16 (Series A, autonomous database ops)"
-      ]
+      "active_todos": []
     },
     {
       "id": "cmnghs8he0006xkl5p238qtdx",
@@ -78,7 +78,9 @@
       "last_touch_at": "2026-04-16T17:12:05.830Z",
       "last_touch_source": "attio",
       "next_steps": null,
-      "active_todos": []
+      "active_todos": [
+        "Follow up with Discern Security if no response to deck request"
+      ]
     },
     {
       "id": "cmng87is3000mxkx4bg2ln251",
@@ -86,8 +88,8 @@
       "domain": "echelonai.com",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-15T18:46:14.354Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-04-17T05:25:16.000Z",
+      "last_touch_source": "email",
       "next_steps": "Pushing for intro to SMBC (Gordon); Waiting for their round to kick off in May.",
       "active_todos": []
     },
@@ -119,10 +121,12 @@
       "domain": "entro.security",
       "status": "Partner Screening",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-16T12:19:33.000Z",
+      "last_touch_at": "2026-04-17T15:29:23.000Z",
       "last_touch_source": "email",
       "next_steps": "Currently raising a $40M Series B - $200M post",
-      "active_todos": []
+      "active_todos": [
+        "Review Entro Security data room (just shared by Itzik)"
+      ]
     },
     {
       "id": "cmo03jxbt000hxkdkwru29ezh",
@@ -163,12 +167,10 @@
       "domain": "trylotline.com",
       "status": "Partner Screening",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-15T18:46:14.334Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-04-17T20:25:08.000Z",
+      "last_touch_source": "email",
       "next_steps": null,
-      "active_todos": [
-        "Send post-meeting follow-up notes to Sean at LotLine after Apr 14 Teams call"
-      ]
+      "active_todos": []
     },
     {
       "id": "cmm2lrmkv0000xkwa95tu9115",
@@ -187,8 +189,8 @@
       "domain": "opti.ai",
       "status": "Partner Screening",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-15T13:39:14.687Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-04-20T02:45:19.000Z",
+      "last_touch_source": "email",
       "next_steps": null,
       "active_todos": []
     },
@@ -201,7 +203,9 @@
       "last_touch_at": "2026-04-15T11:52:18.000Z",
       "last_touch_source": "email",
       "next_steps": "Just kicked off a fundraising round",
-      "active_todos": []
+      "active_todos": [
+        "Track Orchid fundraising timeline and move quickly once terms are set"
+      ]
     },
     {
       "id": "cmng87is1000kxkx4kxmnpgp0",
@@ -242,7 +246,7 @@
       "domain": "unstructured.io",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-15T15:36:26.000Z",
+      "last_touch_at": "2026-04-17T17:35:34.000Z",
       "last_touch_source": "email",
       "next_steps": "Working on BD (targeting portcos) - wait for Series C",
       "active_todos": []
