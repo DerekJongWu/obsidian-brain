@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Companies/Torch Security.md",
+                "file": "Misc/Random.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Torch Security"
+              "title": "Random"
             }
           }
         ]
@@ -198,9 +198,9 @@
   },
   "active": "7a8cc0b65153e8a6",
   "lastOpenFiles": [
+    "Companies/Torch Security.md",
     "People/Gal Ron.md",
     "Meetings/Torch Security - 2026-04-17 Summary.md",
-    "Companies/Torch Security.md",
     "Transcripts/Torch Security - 2026-04-17 Transcript.md",
     "Transcripts/Huskeys - 2026-04-16 Transcript.md",
     "Meetings/PayPath - 2026-04-10 Summary.md",
