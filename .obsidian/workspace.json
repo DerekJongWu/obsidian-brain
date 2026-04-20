@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcripts/Torch Security - 2026-04-17 Transcript.md",
+                "file": "Companies/Torch Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Torch Security - 2026-04-17 Transcript"
+              "title": "Torch Security"
             }
           }
         ]
@@ -198,9 +198,12 @@
   },
   "active": "7a8cc0b65153e8a6",
   "lastOpenFiles": [
-    "Meetings/PayPath - 2026-04-10 Summary.md",
+    "People/Gal Ron.md",
+    "Meetings/Torch Security - 2026-04-17 Summary.md",
+    "Companies/Torch Security.md",
     "Transcripts/Torch Security - 2026-04-17 Transcript.md",
     "Transcripts/Huskeys - 2026-04-16 Transcript.md",
+    "Meetings/PayPath - 2026-04-10 Summary.md",
     "Automations/outlook-touches.json",
     "Automations/outlook-todos.json",
     "Companies/Axia Security.md",
@@ -223,9 +226,6 @@
     "Meetings/Coffee AI - 2026-04-15 Summary.md",
     "Meetings/Chain Reaction - 2026-04-15 Summary.md",
     "System Logs/Granola <> Obsidian Sync Agent.md",
-    "System Log/Deal Staleness.md",
-    "System Logs/Deal Staleness - 2026-04-15.md",
-    "System Logs/Deal Staleness Agent.md",
     "System Log",
     "Signals",
     "Automations/deal-manifest.json",
