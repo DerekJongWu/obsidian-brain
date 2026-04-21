@@ -14,7 +14,7 @@ pitchbook: https://pitchbook.com/profiles/company/770265-10
 deck_link:
 data_room:
 lighthouse_link:
-last_touch: 2026-04-14
+last_touch: 2026-04-20
 created: 2026-04-14
 tags:
   - company
@@ -43,7 +43,7 @@ tags:
 | Role | Person | Background |
 |------|--------|------------|
 | Co-Founder | [[Reid Roman]] | Previously Founder at Ruckus; Backend Lead at Atom Finance; Engineering Manager at Opendoor; USC BS |
-| Co-Founder | Sean Larson | Previously VP of Sales at Fuse Inventory; Director of Strategic Accounts at Startgrid; UC Berkeley |
+| Co-Founder | [[Sean Larson]] | Previously VP of Sales at Fuse Inventory; Director of Strategic Accounts at Startgrid; UC Berkeley |
 
 ---
 
@@ -60,9 +60,9 @@ tags:
 
 ## Market & Competition
 
-- **Market size:**
+- **Market size:** $3B annually for cost segregation (as of 2026-04-20)
 - **Key competitors:** Traditional cost seg consultants ($10–20K/study)
-- **Differentiation:** AI-native automation enabling sub-$5K pricing; 80% automated workflow; modular platform extending beyond cost seg to full fund-level tax modeling
+- **Differentiation:** AI-native automation enabling sub-$5K pricing; 80% automated workflow; computer vision + detailed property data for higher accuracy vs industry estimate-based approaches (as of 2026-04-20); modular platform extending beyond cost seg to full fund-level tax modeling
 
 ---
 
@@ -70,8 +70,14 @@ tags:
 
 - **Buyer persona:** Investment funds ($500M–$1B AUM) acquiring 10–20 properties annually; 5–7 year hold strategies create repeat transactions
 - **Pricing model:** Sub-$5K per cost seg study; target $60K annual revenue per customer across multiple services
-- **ACV:** Target $60K annual revenue per customer
+- **ACV:** Target $60K annual revenue per customer; long-term goal $120K average annual spend across 5–6 services (as of 2026-04-20)
 - **Contract structure:** Per-study pricing, expanding to annual engagements
+
+**Product expansion roadmap (as of 2026-04-20):**
+1. Repair studies — differentiates capital improvements vs repairs (100% deductible year one); opens access to institutional players (Tishman Speyer, Crow Holdings); already in conversations with Tishman Speyer
+2. Property tax appeals (commission-based pricing)
+3. 1031 exchanges
+4. Energy tax credits (administration-dependent)
 
 **Distribution strategy:**
 1. Direct sales to larger firms (current focus, no education needed)
@@ -85,6 +91,7 @@ tags:
 - **ARR:** ~$150K pipeline at introductory pricing (as of 2026-04-14); goal of $500K annualized cost seg revenue by April 2025 target
 - **Growth:** 17 paid studies completed since December launch
 - **Key customers:** [[Westlake Realty]] (5th property contracted), [[Frontera Realty]], [[Maven Commercial]]
+- **Target margins:** 60–80% revenue profit per study with 90% automation (as of 2026-04-20)
 - **Retention / NRR:**
 
 ---
@@ -96,9 +103,13 @@ tags:
 | 2025-03-28 | Pre-Seed | $145K | Forum Ventures |
 
 **Current round:**
-- Raising: $1.5M–$2M seed (as of 2026-04-14)
+- Raising: $1.5M–$2M seed (as of 2026-04-14); referred to as "Series A" in 2026-04-20 follow-up
 - Terms:
 - Timeline: 24+ month runway planned with lean team
+- Multiple firms in due diligence, no term sheet yet (as of 2026-04-20)
+- Soft commits from follow-on investors secured (as of 2026-04-20)
+- Seeking real estate investor participation for strategic value
+- Lead identified by end of April, round completion ~2 weeks after (as of 2026-04-20)
 
 ---
 
@@ -128,3 +139,5 @@ SORT date DESC
 - [ ] Jake to consult with Jackson at MetaProp
 - [ ] Derek to follow up on personal cost seg opportunity
 - [ ] Fin team investment decision early-mid next week
+- [ ] Derek to connect LotLine with Neotax team via Fawn (as of 2026-04-20)
+- [ ] Fin team to discuss internally and continue due diligence (as of 2026-04-20)

@@ -6,7 +6,7 @@ linkedin: https://linkedin.com/in/reidroman
 email: reid@trylotline.com
 location: San Francisco Bay Area
 relationship:
-last_contact: 2026-04-14
+last_contact: 2026-04-20
 created: 2026-04-14
 tags:
   - person

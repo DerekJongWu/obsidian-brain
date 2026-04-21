@@ -1,3 +1,15 @@
+## 2026-04-20
+
+**Meetings synced:** 2
+
+- **LotLine** — LotLine <> Fin Capital
+  - Created: Meeting summary, Transcript stub, Person: Sean Larson
+  - Updated: Company note (last_touch, Market & Competition with $3B market size, GTM with product expansion roadmap and $120K target ACV, Traction with target margins, Financing with due diligence status, Next Steps, Team table wikilink for Sean Larson), Reid Roman (last_contact)
+- **Flowstate** — Teams : Flowstate <> Fin Capital
+  - Created: Company note (Flowstate), Meeting summary, Transcript stub, Person: Oliver Beach
+
+---
+
 ## 2026-04-19
 
 **Meetings synced:** 0
