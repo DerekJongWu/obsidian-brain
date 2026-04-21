@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-21T17:30:19.352Z",
+  "exported_at": "2026-04-21T22:14:54.694Z",
   "deals": [
     {
       "id": "cmng87irn000bxkx41sdn1c0w",
@@ -143,9 +143,9 @@
       "id": "cmo1qlxo0000rxkb3woyafgwk",
       "company_name": "Huskeys",
       "domain": "huskeys.io",
-      "status": "Partner Screening",
+      "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-21T17:30:19.342Z",
+      "last_touch_at": "2026-04-21T17:33:27.178Z",
       "last_touch_source": "attio",
       "next_steps": "Setting up meeting for Logan to meet CEO in SF",
       "active_todos": []
@@ -165,9 +165,9 @@
       "id": "cmnt0fid60000xktw13oasjq1",
       "company_name": "LotLine",
       "domain": "trylotline.com",
-      "status": "Partner Screening",
+      "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-21T17:30:19.328Z",
+      "last_touch_at": "2026-04-21T22:09:52.154Z",
       "last_touch_source": "attio",
       "next_steps": null,
       "active_todos": []
@@ -184,14 +184,25 @@
       "active_todos": []
     },
     {
+      "id": "cmo96m3vo0046xkb3jfz18dgt",
+      "company_name": "Optery",
+      "domain": "optery.com",
+      "status": "Partner Meetings",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-21T22:14:50.914Z",
+      "last_touch_source": "attio",
+      "next_steps": null,
+      "active_todos": []
+    },
+    {
       "id": "cmo03jxc0000jxkdkwgmrdwgy",
       "company_name": "Opti",
       "domain": "opti.ai",
-      "status": "Partner Screening",
+      "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-21T17:30:19.324Z",
+      "last_touch_at": "2026-04-21T17:33:05.322Z",
       "last_touch_source": "attio",
-      "next_steps": null,
+      "next_steps": "Meeting with Logan on 4/21",
       "active_todos": []
     },
     {
@@ -204,7 +215,8 @@
       "last_touch_source": "email",
       "next_steps": "Just kicked off a fundraising round",
       "active_todos": [
-        "Track Orchid fundraising timeline and move quickly once terms are set"
+        "Track Orchid fundraising timeline and move quickly once terms are set",
+        "Review Orchid Security's inline answers to diligence questions"
       ]
     },
     {
