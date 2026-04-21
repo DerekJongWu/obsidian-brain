@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-20T18:55:51.882Z",
+  "exported_at": "2026-04-21T17:30:19.352Z",
   "deals": [
     {
       "id": "cmng87irn000bxkx41sdn1c0w",
@@ -7,7 +7,7 @@
       "domain": "aembit.io",
       "status": "Deep Diligence",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-16T17:46:38.000Z",
+      "last_touch_at": "2026-04-21T00:48:35.000Z",
       "last_touch_source": "email",
       "next_steps": "Evaluate the strategic round details",
       "active_todos": []
@@ -143,20 +143,20 @@
       "id": "cmo1qlxo0000rxkb3woyafgwk",
       "company_name": "Huskeys",
       "domain": "huskeys.io",
-      "status": "Initial Meetings",
-      "funnel": "Top of Funnel",
-      "last_touch_at": "2026-04-16T17:12:25.775Z",
+      "status": "Partner Screening",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-21T17:30:19.342Z",
       "last_touch_source": "attio",
-      "next_steps": null,
+      "next_steps": "Setting up meeting for Logan to meet CEO in SF",
       "active_todos": []
     },
     {
       "id": "cmnxdypzd0003xkunqt2a8xv8",
       "company_name": "IndyKite",
       "domain": "indykite.ai",
-      "status": "Partner Screening",
+      "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-13T19:01:12.745Z",
+      "last_touch_at": "2026-04-21T17:29:28.014Z",
       "last_touch_source": "attio",
       "next_steps": null,
       "active_todos": []
@@ -167,8 +167,8 @@
       "domain": "trylotline.com",
       "status": "Partner Screening",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-17T20:25:08.000Z",
-      "last_touch_source": "email",
+      "last_touch_at": "2026-04-21T17:30:19.328Z",
+      "last_touch_source": "attio",
       "next_steps": null,
       "active_todos": []
     },
@@ -189,8 +189,8 @@
       "domain": "opti.ai",
       "status": "Partner Screening",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-20T02:45:19.000Z",
-      "last_touch_source": "email",
+      "last_touch_at": "2026-04-21T17:30:19.324Z",
+      "last_touch_source": "attio",
       "next_steps": null,
       "active_todos": []
     },
@@ -222,9 +222,9 @@
       "id": "cmo2yv5ax0013xkb39paudwz0",
       "company_name": "Sentra",
       "domain": "sentra.app",
-      "status": "Partner Screening",
+      "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-17T13:51:18.680Z",
+      "last_touch_at": "2026-04-21T17:29:53.770Z",
       "last_touch_source": "attio",
       "next_steps": "Get data room and round details",
       "active_todos": []
@@ -271,6 +271,17 @@
       "last_touch_at": "2026-04-16T15:29:44.558Z",
       "last_touch_source": "attio",
       "next_steps": null,
+      "active_todos": []
+    },
+    {
+      "id": "cmo8wg7c9003wxkb3xohvsj4d",
+      "company_name": "flowstate",
+      "domain": "flowstate.inc",
+      "status": "Partner Screening",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-21T17:30:19.303Z",
+      "last_touch_source": "attio",
+      "next_steps": "Team to schedule follow-up meeting and share DD questions",
       "active_todos": []
     }
   ]
