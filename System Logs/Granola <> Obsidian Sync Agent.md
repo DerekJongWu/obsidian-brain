@@ -1,3 +1,18 @@
+## 2026-04-21
+
+**Meetings synced:** 2
+
+- **Opti** — Teams: OPTI <> Fin Capital
+  - Created: Company note (Opti), Meeting summary, Transcript stub, Person: Barak Perelman
+  - Updated: —
+- **Sentra** — Sentra <> Fin Capital
+  - Created: Company note (Sentra), Meeting summary, Transcript stub, Person: Ashwin Gopinath
+  - Updated: —
+
+Note: Both meetings had external (non-@fin.capital) attendees; none filtered as internal. Harmonic enrichment successful for both Opti and Sentra.
+
+---
+
 ## 2026-04-20
 
 **Meetings synced:** 2
