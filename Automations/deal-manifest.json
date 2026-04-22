@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-21T22:14:54.694Z",
+  "exported_at": "2026-04-22T13:31:49.607Z",
   "deals": [
     {
       "id": "cmng87irn000bxkx41sdn1c0w",
@@ -156,9 +156,9 @@
       "domain": "indykite.ai",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-21T17:29:28.014Z",
+      "last_touch_at": "2026-04-22T13:31:49.578Z",
       "last_touch_source": "attio",
-      "next_steps": null,
+      "next_steps": "Waiting for a lead",
       "active_todos": []
     },
     {
@@ -189,9 +189,9 @@
       "domain": "optery.com",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-21T22:14:50.914Z",
+      "last_touch_at": "2026-04-22T13:31:49.583Z",
       "last_touch_source": "attio",
-      "next_steps": null,
+      "next_steps": "Upcoming call with Logan",
       "active_todos": []
     },
     {
@@ -211,8 +211,8 @@
       "domain": "orchid.security",
       "status": "Partner Screening",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-15T11:52:18.000Z",
-      "last_touch_source": "email",
+      "last_touch_at": "2026-04-22T13:31:49.575Z",
+      "last_touch_source": "attio",
       "next_steps": "Just kicked off a fundraising round",
       "active_todos": [
         "Track Orchid fundraising timeline and move quickly once terms are set",
