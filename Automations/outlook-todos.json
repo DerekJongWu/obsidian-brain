@@ -1,0 +1,78 @@
+{
+  "extracted_at": "2026-04-22T11:15:00.000Z",
+  "items": [
+    {
+      "deal_id": "cmo2yv5ax0013xkb39paudwz0",
+      "company_name": "Sentra",
+      "title": "Connect Sentra CEO with Amex AI partnerships team",
+      "context": "Email from fan@fin.capital on Apr 20: 'I just heard back from my friend who leads AI investments and partnerships at Amex, and she is very interested in learning more about the product. I will connect you with the Amex team shortly.'",
+      "source": "email",
+      "source_date": "2026-04-21T13:13:46.000Z"
+    },
+    {
+      "deal_id": "cmo2yv5ax0013xkb39paudwz0",
+      "company_name": "Sentra",
+      "title": "Make LP and strategic partner intros for Sentra",
+      "context": "Email from fan@fin.capital on Apr 20: 'I will share the solution with some LPs/strategic partners that you might want to meet and make intros wherever there's a mutual fit.' Ashwin replied: 'I'm looking forward to the introductions to your LPs and strategic partners.'",
+      "source": "email",
+      "source_date": "2026-04-21T13:13:46.000Z"
+    },
+    {
+      "deal_id": "cmng87is8000rxkx4tzh5om8i",
+      "company_name": "Arcade",
+      "title": "Review Arcade valuation analysis model shared by Daria",
+      "context": "Email from daria@fin.capital on Apr 22: 'We have created a valuation analysis model, please review and let us know if you have any questions.' Sent to Logan and SMBC team for Series A decision.",
+      "source": "email",
+      "source_date": "2026-04-22T10:11:05.000Z"
+    },
+    {
+      "deal_id": "cmo8wg7c9003wxkb3xohvsj4d",
+      "company_name": "flowstate",
+      "title": "Review flowstate DD Q&A responses and determine next steps",
+      "context": "Email from oliver@flowstate.inc on Apr 19 answering DD questions on team location, traction, pricing model, and financing. Oliver noted data room will be shared once round opens. Follow-up meeting held Apr 20.",
+      "source": "email",
+      "source_date": "2026-04-20T18:59:59.000Z"
+    },
+    {
+      "deal_id": "cmo03jxbx000ixkdk3ammmomo",
+      "company_name": "DBGorilla",
+      "title": "Sync internally on DBGorilla after initial meeting and decide on next steps",
+      "context": "Email from chris@dbgorilla.com on Apr 17: 'It was great meeting you both today. Thanks again for making the time... We understand you'll be syncing internally, but if any questions come up, please don't hesitate to reach out.' Updated deck attached.",
+      "source": "email",
+      "source_date": "2026-04-17T01:42:44.000Z"
+    },
+    {
+      "deal_id": "cmng87irs000dxkx4qgi53fq5",
+      "company_name": "Unstructured",
+      "title": "Follow up with Unstructured on Series C timing after end of April",
+      "context": "Email from brian@unstructured.io on Apr 17: 'I'm hoping to have an update on timing once we close out our Q1 at the end of April.' Fan replied acknowledging the timeline.",
+      "source": "email",
+      "source_date": "2026-04-17T17:35:34.000Z"
+    },
+    {
+      "deal_id": "cmng87is3000mxkx4bg2ln251",
+      "company_name": "Echelon AI",
+      "title": "Follow up on NatWest <> Echelon AI intro outcome",
+      "context": "Email from fan@fin.capital on Apr 21 introducing Echelon AI to Cathy at NatWest (14,000 ServiceNow users). Fan said: 'I'll leave it to you to connect with her and take it from there.' Track whether meeting is scheduled.",
+      "source": "email",
+      "source_date": "2026-04-21T19:59:50.000Z"
+    },
+    {
+      "deal_id": null,
+      "company_name": null,
+      "title": "Prep for Morgan Stanley meeting on Apr 23",
+      "context": "Calendar event 'Morgan Stanley <> Fin Capital' on Apr 23 at 2:30 PM ET with Akshay Seebaluck from Morgan Stanley, Fan, Derek, and Logan attending via Zoom.",
+      "source": "calendar",
+      "source_date": "2026-04-23T18:30:00.000Z"
+    },
+    {
+      "deal_id": null,
+      "company_name": null,
+      "title": "Prep schedule and materials for NYC Fintech Week (Apr 27 - May 1)",
+      "context": "Calendar event 'NYC FINTECH WEEK' is an all-day event from Apr 27 through May 1 with full Fin Capital team attending.",
+      "source": "calendar",
+      "source_date": "2026-04-27T00:00:00.000Z"
+    }
+  ],
+  "errors": []
+}
