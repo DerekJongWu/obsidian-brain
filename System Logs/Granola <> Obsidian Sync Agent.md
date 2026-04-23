@@ -1,3 +1,14 @@
+## 2026-04-22
+
+**Meetings synced:** 1
+
+- **InquireAI** — 30 Min Meeting between Derek Wu and Anthony Beverina
+  - Created: Company note (InquireAI), Meeting summary, Transcript stub, Person: Anthony Beverina
+  - Updated: —
+  - Errors: Harmonic lists the inquireai.io entity as "Coverage IQ" with no funding/location/headcount data — company note created with Granola-derived info plus Harmonic founder background; name retained as "InquireAI" to match founder email domain and meeting narrative
+
+---
+
 ## 2026-04-21
 
 **Meetings synced:** 2
