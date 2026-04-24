@@ -1,93 +1,109 @@
 {
-  "extracted_at": "2026-04-23T11:15:00.000Z",
+  "extracted_at": "2026-04-24T11:15:00.000Z",
   "items": [
     {
-      "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
-      "company_name": "Opti",
-      "title": "Review Opti sales materials and circle back with next steps",
-      "context": "Email from barakp@opti.ai on Apr 22: Barak shared sales deck, WM CISO demo recording, and AWS pitch video. Richie replied 'We'll circle back with some next steps shortly.'",
+      "deal_id": "cmng87is3000mxkx4bg2ln251",
+      "company_name": "Echelon AI",
+      "title": "Coordinate Echelon AI + Morgan Stanley meeting at Knowledge26",
+      "context": "Email from Tunde at Morgan Stanley on Apr 24: 'I am going to be at Knowledge26 in 2 weeks so happy to connect briefly out there if you would be there as well?' — directed at Rahul and Eddie (Echelon AI co-founders).",
       "source": "email",
-      "source_date": "2026-04-23T02:13:19.000Z"
+      "source_date": "2026-04-24T10:55:46.000Z"
     },
     {
-      "deal_id": "cmnnanp300000xk694j8hue9e",
-      "company_name": "VanishID",
-      "title": "Respond to Matt Polak about Logan's product trial status",
-      "context": "Email from matt@vanishid.com on Apr 22: 'Logan -- just making sure you are all set with my team. I understand Elizabeth already had her session.'",
+      "deal_id": "cmnnapsnd0002xk69k1s10ck4",
+      "company_name": "Entro Security",
+      "title": "Follow up with Lauren at Amex for Entro Security evaluation feedback",
+      "context": "Email from Fan on Apr 16: 'I followed up with Lauren at Amex again today for her feedback. I haven't heard back yet, but I will keep you posted.' No confirmation of response received yet.",
       "source": "email",
-      "source_date": "2026-04-22T22:01:01.000Z"
+      "source_date": "2026-04-17T15:27:41.000Z"
+    },
+    {
+      "deal_id": "cmnnapsnd0002xk69k1s10ck4",
+      "company_name": "Entro Security",
+      "title": "Get Entro Series B round terms (price, lead investor) for IC discussion",
+      "context": "Email from Fan on Apr 16: 'have you already signed a term sheet? Could you share the latest dynamics - such as price and lead - so that I can include those details in our IC discussion?'",
+      "source": "email",
+      "source_date": "2026-04-17T15:27:41.000Z"
+    },
+    {
+      "deal_id": "cmnnapsnd0002xk69k1s10ck4",
+      "company_name": "Entro Security",
+      "title": "Leverage Fin network for Entro pipeline deals (Morgan Stanley, Edward Jones, PNC, Fidelity)",
+      "context": "Email from Fan on Apr 16: 'I noticed several familiar names... including Morgan Stanley, Edward Jones, Cox Automotive, PNC, and Fidelity. I would like to bring this to our IC discussion and leverage our team's network.' Itzik asked to align on B round status before outreach.",
+      "source": "email",
+      "source_date": "2026-04-17T15:27:41.000Z"
     },
     {
       "deal_id": "cmo96m3vo0046xkb3jfz18dgt",
       "company_name": "Optery",
-      "title": "Check with Martin from Array on potential Optery conflict and circle back",
-      "context": "Email from derek@fin.capital on Apr 22: 'We're also checking with Martin from Array on conflict and will circle back shortly.'",
+      "title": "Check with Martin from Array on Optery conflict and circle back to Lawrence",
+      "context": "Email from Derek on Apr 22: 'We're also checking with Martin from Array on conflict and will circle back shortly.'",
       "source": "email",
       "source_date": "2026-04-22T22:10:03.000Z"
     },
     {
+      "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
+      "company_name": "Opti",
+      "title": "Review Opti sales materials and Gong demo recordings from Barak",
+      "context": "Email from Barak Perelman (CEO, Opti) on Apr 23: shared sales deck, demo recording with WM's CISO, and AWS pitch/demo recording via Gong links.",
+      "source": "email",
+      "source_date": "2026-04-23T13:39:30.000Z"
+    },
+    {
       "deal_id": "cmo2yv5ax0013xkb39paudwz0",
       "company_name": "Sentra",
-      "title": "Connect Ashwin Gopinath (Sentra) with Amex team",
-      "context": "Email thread Apr 20-21: Fan committed 'I will connect you with the Amex team shortly' and Ashwin replied 'I'm also looking forward to the introductions to your LPs and strategic partners.'",
+      "title": "Send Sentra intro to Amex AI investments team",
+      "context": "Email from Fan on Apr 20: 'I just heard back from my friend who leads AI investments and partnerships at Amex, and she is very interested in learning more about the product. I will connect you with the Amex team shortly.' Ashwin replied: 'Love to get connected to the Amex Team.'",
       "source": "email",
       "source_date": "2026-04-21T13:13:46.000Z"
     },
     {
-      "deal_id": "cmng87is8000rxkx4tzh5om8i",
-      "company_name": "Arcade",
-      "title": "Review Arcade valuation analysis model and provide feedback to Logan",
-      "context": "Email from daria@fin.capital on Apr 22: Shared a valuation analysis model for Arcade Series A — 'please review and let us know if you have any questions.'",
+      "deal_id": "cmo2yv5ax0013xkb39paudwz0",
+      "company_name": "Sentra",
+      "title": "Make LP and strategic partner intros for Sentra",
+      "context": "Email from Fan on Apr 20: 'I will share the solution with some LPs/strategic partners that you might want to meet and make intros wherever there's a mutual fit.' Ashwin replied: 'looking forward to the introductions to your LPs and strategic partners.'",
       "source": "email",
-      "source_date": "2026-04-22T10:11:05.000Z"
+      "source_date": "2026-04-21T13:13:46.000Z"
     },
     {
-      "deal_id": "cmo8wg7c9003wxkb3xohvsj4d",
-      "company_name": "flowstate",
-      "title": "Review flowstate DD Q&A responses from Oliver Beach",
-      "context": "Email from oliver@flowstate.inc on Apr 19 (forwarded internally Apr 20): Oliver shared detailed answers to Shiv's diligence questions on team, traction, business model, financing, and competitive moat.",
+      "deal_id": "cmnnanp300000xk694j8hue9e",
+      "company_name": "VanishID",
+      "title": "Follow up on Logan's VanishID product trial and Elizabeth's session results",
+      "context": "Email from Matt Polak on Apr 22: 'Logan -- just making sure you are all set with my team. I understand Elizabeth already had her session.'",
       "source": "email",
-      "source_date": "2026-04-20T18:59:59.000Z"
-    },
-    {
-      "deal_id": "cmng87irv000fxkx4kklfc27z",
-      "company_name": "Engramme",
-      "title": "RSVP for Engramme's invite-only Memory Singularity event on Apr 27",
-      "context": "Email from gabriel@engramme.com on Apr 23: 'We are hosting an invite-only event to come experience Large Memory Models live.' Event is Apr 27 at 785 Market St, San Francisco.",
-      "source": "email",
-      "source_date": "2026-04-23T06:41:17.000Z"
+      "source_date": "2026-04-22T22:01:01.000Z"
     },
     {
       "deal_id": null,
       "company_name": null,
-      "title": "Prep for meeting with Raj Kadiyala (sre.ai) on Apr 24",
-      "context": "Calendar event 'Priority Meeting between Raj Kadiyala and Fan Wen' on Apr 24 at 1:30 PM ET with raj@sre.ai, fan@fin.capital, derek@fin.capital.",
+      "title": "Prep for Blaise intro meeting with Roy Confino on Apr 27",
+      "context": "Calendar event 'Jake Fuchs / Shiv Wadhwani (Fin Capital) / Roy Confino (Blaise)' on Apr 27 at 9:00 AM ET — new company meeting with pluto.security founder.",
       "source": "calendar",
-      "source_date": "2026-04-24T17:30:00.000Z"
+      "source_date": "2026-04-27T13:00:00.000Z"
+    },
+    {
+      "deal_id": null,
+      "company_name": null,
+      "title": "Prep for Prism Layer intro meeting on Apr 27",
+      "context": "Calendar event 'Teams: Prism Layer <> Fin Capital' on Apr 27 at 10:00 AM ET with simone@prismlayer.ai — new deal screening call.",
+      "source": "calendar",
+      "source_date": "2026-04-27T14:00:00.000Z"
+    },
+    {
+      "deal_id": null,
+      "company_name": null,
+      "title": "Prep for Lab0.ai intro meeting on Apr 27",
+      "context": "Calendar event 'Video | Lab0.ai <> Fin Capital' on Apr 27 at 1:00 PM ET with sujay@lab0.ai — new company meeting.",
+      "source": "calendar",
+      "source_date": "2026-04-27T17:00:00.000Z"
     },
     {
       "deal_id": null,
       "company_name": null,
       "title": "Prep for Pluto Security meeting with Shahar Bahat on Apr 28",
-      "context": "Calendar event 'Fin Capital and Shahar Bahat' on Apr 28 — 30-min meeting with shahar@pluto.security, jake@fin.capital, fan@fin.capital, derek@fin.capital.",
+      "context": "Calendar event 'Fin Capital and Shahar Bahat' on Apr 28 at 12:30 PM ET — Pluto Security 30-min intro meeting via Zoom.",
       "source": "calendar",
       "source_date": "2026-04-28T16:30:00.000Z"
-    },
-    {
-      "deal_id": null,
-      "company_name": null,
-      "title": "Prep for NYU Building Venture Scale Startups judging panel on Apr 29",
-      "context": "Calendar event 'NYU - Building Venture Scale Startups, Judge' on Apr 29 at NYU Stern School of Business with Andrew Chang (Lynx Collective).",
-      "source": "calendar",
-      "source_date": "2026-04-29T13:45:00.000Z"
-    },
-    {
-      "deal_id": null,
-      "company_name": null,
-      "title": "Prepare for NYC Fintech Week (Apr 27 - May 1)",
-      "context": "All-day calendar event 'NYC FINTECH WEEK' spanning Apr 27 through May 1 — full team event.",
-      "source": "calendar",
-      "source_date": "2026-04-27T00:00:00.000Z"
     }
   ],
   "errors": []
