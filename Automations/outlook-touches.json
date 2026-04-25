@@ -1,12 +1,12 @@
 {
-  "synced_at": "2026-04-24T11:15:00.000Z",
+  "synced_at": "2026-04-25T11:15:00.000Z",
   "results": [
     {
       "deal_id": "cmng87irn000bxkx41sdn1c0w",
       "company_name": "Aembit",
-      "outlook_touch_at": "2026-04-21T00:48:35.000Z",
+      "outlook_touch_at": "2026-04-24T22:28:11.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2026-04-21T00:48:35.000Z",
+      "email_touch_at": "2026-04-24T22:28:11.000Z",
       "calendar_touch_at": "2026-03-23T21:30:00.000Z"
     },
     {
@@ -23,15 +23,7 @@
       "outlook_touch_at": "2026-04-13T14:58:27.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-04-13T14:58:27.000Z",
-      "calendar_touch_at": null
-    },
-    {
-      "deal_id": "cmng87is5000oxkx4e1efggx1",
-      "company_name": "Backline AI",
-      "outlook_touch_at": "2026-02-03T21:00:00.000Z",
-      "outlook_touch_source": "calendar",
-      "email_touch_at": null,
-      "calendar_touch_at": "2026-02-03T21:00:00.000Z"
+      "calendar_touch_at": "2026-04-13T14:00:00.000Z"
     },
     {
       "deal_id": "cmo03jxbx000ixkdk3ammmomo",
@@ -52,10 +44,10 @@
     {
       "deal_id": "cmng87is3000mxkx4bg2ln251",
       "company_name": "Echelon AI",
-      "outlook_touch_at": "2026-04-24T10:55:46.000Z",
+      "outlook_touch_at": "2026-04-24T17:49:31.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2026-04-24T10:55:46.000Z",
-      "calendar_touch_at": "2026-04-01T19:30:00.000Z"
+      "email_touch_at": "2026-04-24T17:49:31.000Z",
+      "calendar_touch_at": "2026-01-30T23:00:00.000Z"
     },
     {
       "deal_id": "cmnxe16gv0007xkun6e56eg0z",
@@ -63,7 +55,7 @@
       "outlook_touch_at": "2026-04-07T14:28:12.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-04-07T14:28:12.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-02-25T21:30:00.000Z"
     },
     {
       "deal_id": "cmng87irv000fxkx4kklfc27z",
@@ -71,14 +63,14 @@
       "outlook_touch_at": "2026-04-23T06:41:17.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-04-23T06:41:17.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-04-02T00:30:00.000Z"
     },
     {
       "deal_id": "cmnnapsnd0002xk69k1s10ck4",
       "company_name": "Entro Security",
-      "outlook_touch_at": "2026-04-17T15:27:41.000Z",
-      "outlook_touch_source": "email",
-      "email_touch_at": "2026-04-17T15:27:41.000Z",
+      "outlook_touch_at": "2026-04-03T14:30:00.000Z",
+      "outlook_touch_source": "calendar",
+      "email_touch_at": null,
       "calendar_touch_at": "2026-04-03T14:30:00.000Z"
     },
     {
@@ -86,7 +78,7 @@
       "company_name": "Huskeys",
       "outlook_touch_at": "2026-04-24T22:00:00.000Z",
       "outlook_touch_source": "calendar",
-      "email_touch_at": "2026-04-23T18:34:08.000Z",
+      "email_touch_at": "2026-04-24T21:44:21.000Z",
       "calendar_touch_at": "2026-04-24T22:00:00.000Z"
     },
     {
@@ -130,14 +122,6 @@
       "calendar_touch_at": null
     },
     {
-      "deal_id": "cmng9nvp3000oxk6jm9kfqsw8",
-      "company_name": "Orchid",
-      "outlook_touch_at": "2026-04-15T08:25:30.000Z",
-      "outlook_touch_source": "email",
-      "email_touch_at": "2026-04-15T08:25:30.000Z",
-      "calendar_touch_at": null
-    },
-    {
       "deal_id": "cmng87is1000kxkx4kxmnpgp0",
       "company_name": "Overwatch",
       "outlook_touch_at": "2026-04-02T12:42:25.000Z",
@@ -159,7 +143,7 @@
       "outlook_touch_at": "2026-03-31T18:50:59.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-03-31T18:50:59.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-03-23T18:00:00.000Z"
     },
     {
       "deal_id": "cmng87irs000dxkx4qgi53fq5",
@@ -167,14 +151,14 @@
       "outlook_touch_at": "2026-04-17T17:35:34.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-04-17T17:35:34.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-02-10T17:30:00.000Z"
     },
     {
       "deal_id": "cmnnanp300000xk694j8hue9e",
       "company_name": "VanishID",
-      "outlook_touch_at": "2026-04-22T22:01:01.000Z",
+      "outlook_touch_at": "2026-04-25T00:34:20.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2026-04-22T22:01:01.000Z",
+      "email_touch_at": "2026-04-25T00:34:20.000Z",
       "calendar_touch_at": "2026-04-06T18:00:00.000Z"
     },
     {
@@ -183,7 +167,7 @@
       "outlook_touch_at": "2026-03-18T20:51:06.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-03-18T20:51:06.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-03-17T15:00:00.000Z"
     },
     {
       "deal_id": "cmo8wg7c9003wxkb3xohvsj4d",
@@ -194,7 +178,5 @@
       "calendar_touch_at": "2026-04-20T18:45:00.000Z"
     }
   ],
-  "errors": [
-    "Calendar searches initially rate-limited (HTTP 429 MailboxConcurrency) for several deals; retried key deals but calendar data may be incomplete for: Axia Security, Discern Security, Embed Security, Engramme, Orchid, Tonic Security, Unstructured, Zenyard AI, Opti, Optery"
-  ]
+  "errors": []
 }
