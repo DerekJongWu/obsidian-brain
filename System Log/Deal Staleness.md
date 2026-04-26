@@ -1,30 +1,30 @@
 ---
 type: sync-log
-date: 2026-04-25
+date: 2026-04-26
 deals_scanned: 26
-deals_with_outlook_signal: 22
-todos_extracted: 11
+deals_with_outlook_signal: 25
+todos_extracted: 12
 ---
 
-# Deal Staleness Report — 2026-04-25
+# Deal Staleness Report — 2026-04-26
 
 ## Needs Attention
 
 | Company | Status | Days Since Touch | Source | Next Steps |
 |---|---|---|---|---|
-| [[Nametag]] | Deep Diligence | 12 | attio | Flashed to SMBC; compiling customer feedback |
-| [[Overwatch]] | Deep Diligence | 10 | attio | Kicking off Series A process- currently at ~$2.5M ARR + $4M+ in contract |
-| [[Axia Security]] | Partner Screening | 12 | email | Just launched a seed round |
-| [[Freeflow]] | Partner Screening | 10 | attio | — |
-| [[Backline AI]] | Initial Meetings | 9 | attio | Meeting scheduled for two weeks |
-| [[Coffee AI]] | Initial Meetings | 9 | attio | — |
-| [[Discern Security]] | Initial Meetings | 9 | attio | — |
-| [[Embed Security]] | Initial Meetings | 9 | attio | Waiting on founder to send over deck |
-| [[Tonic Security]] | Initial Meetings | 9 | attio | Discuss with the team; Follow up for lead convos |
-| [[Zenyard AI]] | Initial Meetings | 9 | attio | — |
-| [[DBGorilla]] | Partner Screening | 8 | email | — |
-| [[Entro Security]] | Partner Screening | 8 | email | Currently raising a $40M Series B - $200M post |
-| [[Unstructured]] | Partner Meetings | 8 | email | Working on BD (targeting portcos) - wait for Series C |
+| [[Nametag]] | Deep Diligence | 13 | attio | Flashed to SMBC; compiling customer feedback |
+| [[Overwatch]] | Deep Diligence | 11 | attio | Kicking off Series A process- currently at ~$2.5M ARR + $4M+ in contract |
+| [[Axia Security]] | Partner Screening | 13 | email | Just launched a seed round |
+| [[Freeflow]] | Partner Screening | 11 | attio | — |
+| [[DBGorilla]] | Partner Screening | 9 | email | — |
+| [[Entro Security]] | Partner Screening | 9 | email | Currently raising a $40M Series B - $200M post |
+| [[Backline AI]] | Initial Meetings | 10 | attio | Meeting scheduled for two weeks |
+| [[Coffee AI]] | Initial Meetings | 10 | attio | — |
+| [[Discern Security]] | Initial Meetings | 10 | attio | — |
+| [[Embed Security]] | Initial Meetings | 10 | attio | Waiting on founder to send over deck |
+| [[Tonic Security]] | Initial Meetings | 10 | attio | Discuss with the team; Follow up for lead convos |
+| [[Zenyard AI]] | Initial Meetings | 10 | attio | — |
+| [[Unstructured]] | Partner Meetings | 9 | email | Working on BD (targeting portcos) - wait for Series C |
 
 ## Recently Touched
 
@@ -46,15 +46,12 @@ todos_extracted: 11
 
 ## No Outlook Signal
 
-- [[Backline AI]] — domain: backline.ai
 - [[Coffee AI]] — domain: coffee.ai
-- [[Freeflow]] — domain: freeflow.ai
-- [[Orchid]] — domain: orchid.security
 
 ## Sync Summary
 
 - Deals in manifest: 26
-- Outlook signals found: 22 (email: 18, calendar: 17)
-- No Outlook signal: 4
-- To-do items extracted: 11
+- Outlook signals found: 25 (email: 21, calendar: 21)
+- No Outlook signal: 1
+- To-do items extracted: 12
 - Errors: 0

@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-04-25T11:15:00.000Z",
+  "synced_at": "2026-04-26T11:15:00.000Z",
   "results": [
     {
       "deal_id": "cmng87irn000bxkx41sdn1c0w",
@@ -26,6 +26,14 @@
       "calendar_touch_at": "2026-04-13T14:00:00.000Z"
     },
     {
+      "deal_id": "cmng87is5000oxkx4e1efggx1",
+      "company_name": "Backline AI",
+      "outlook_touch_at": "2026-02-03T21:00:00.000Z",
+      "outlook_touch_source": "calendar",
+      "email_touch_at": null,
+      "calendar_touch_at": "2026-02-03T21:00:00.000Z"
+    },
+    {
       "deal_id": "cmo03jxbx000ixkdk3ammmomo",
       "company_name": "DBGorilla",
       "outlook_touch_at": "2026-04-17T01:42:44.000Z",
@@ -47,7 +55,7 @@
       "outlook_touch_at": "2026-04-24T17:49:31.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-04-24T17:49:31.000Z",
-      "calendar_touch_at": "2026-01-30T23:00:00.000Z"
+      "calendar_touch_at": "2026-04-01T19:30:00.000Z"
     },
     {
       "deal_id": "cmnxe16gv0007xkun6e56eg0z",
@@ -72,6 +80,14 @@
       "outlook_touch_source": "calendar",
       "email_touch_at": null,
       "calendar_touch_at": "2026-04-03T14:30:00.000Z"
+    },
+    {
+      "deal_id": "cmo03jxbt000hxkdkwru29ezh",
+      "company_name": "Freeflow",
+      "outlook_touch_at": "2025-12-18T20:23:26.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2025-12-18T20:23:26.000Z",
+      "calendar_touch_at": null
     },
     {
       "deal_id": "cmo1qlxo0000rxkb3woyafgwk",
@@ -120,6 +136,14 @@
       "outlook_touch_source": "email",
       "email_touch_at": "2026-04-23T13:39:30.000Z",
       "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmng9nvp3000oxk6jm9kfqsw8",
+      "company_name": "Orchid",
+      "outlook_touch_at": "2026-03-30T18:00:00.000Z",
+      "outlook_touch_source": "calendar",
+      "email_touch_at": null,
+      "calendar_touch_at": "2026-03-30T18:00:00.000Z"
     },
     {
       "deal_id": "cmng87is1000kxkx4kxmnpgp0",
