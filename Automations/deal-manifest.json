@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-22T13:31:49.607Z",
+  "exported_at": "2026-04-27T15:50:00.837Z",
   "deals": [
     {
       "id": "cmng87irn000bxkx41sdn1c0w",
@@ -7,9 +7,20 @@
       "domain": "aembit.io",
       "status": "Deep Diligence",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-21T00:48:35.000Z",
+      "last_touch_at": "2026-04-24T22:28:11.000Z",
       "last_touch_source": "email",
       "next_steps": "Evaluate the strategic round details",
+      "active_todos": []
+    },
+    {
+      "id": "cmohdibfo000ixkwktbqjrvgx",
+      "company_name": "Agentix",
+      "domain": "agentix.pro",
+      "status": "Partner Screening",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-27T15:50:00.803Z",
+      "last_touch_source": "attio",
+      "next_steps": null,
       "active_todos": []
     },
     {
@@ -18,7 +29,7 @@
       "domain": "arcade.dev",
       "status": "Deep Diligence",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-15T14:32:37.000Z",
+      "last_touch_at": "2026-04-24T09:10:19.000Z",
       "last_touch_source": "email",
       "next_steps": "Discuss with the partners for a final decision",
       "active_todos": []
@@ -43,9 +54,7 @@
       "last_touch_at": "2026-04-16T15:29:44.535Z",
       "last_touch_source": "attio",
       "next_steps": "Meeting scheduled for two weeks",
-      "active_todos": [
-        "Prep for Backline AI follow-up meeting with Maor on Apr 20"
-      ]
+      "active_todos": []
     },
     {
       "id": "cmo1qm9mz000uxkb3hcclcmvb",
@@ -78,9 +87,7 @@
       "last_touch_at": "2026-04-16T17:12:05.830Z",
       "last_touch_source": "attio",
       "next_steps": null,
-      "active_todos": [
-        "Follow up with Discern Security if no response to deck request"
-      ]
+      "active_todos": []
     },
     {
       "id": "cmng87is3000mxkx4bg2ln251",
@@ -88,7 +95,7 @@
       "domain": "echelonai.com",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-17T05:25:16.000Z",
+      "last_touch_at": "2026-04-24T17:49:31.000Z",
       "last_touch_source": "email",
       "next_steps": "Pushing for intro to SMBC (Gordon); Waiting for their round to kick off in May.",
       "active_todos": []
@@ -110,8 +117,8 @@
       "domain": "engramme.com",
       "status": "Initial Meetings",
       "funnel": "Top of Funnel",
-      "last_touch_at": "2026-04-16T15:29:43.372Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-04-23T06:41:17.000Z",
+      "last_touch_source": "email",
       "next_steps": "Following up to track the lead conversation",
       "active_todos": []
     },
@@ -124,9 +131,7 @@
       "last_touch_at": "2026-04-17T15:29:23.000Z",
       "last_touch_source": "email",
       "next_steps": "Currently raising a $40M Series B - $200M post",
-      "active_todos": [
-        "Review Entro Security data room (just shared by Itzik)"
-      ]
+      "active_todos": []
     },
     {
       "id": "cmo03jxbt000hxkdkwru29ezh",
@@ -145,8 +150,8 @@
       "domain": "huskeys.io",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-21T17:33:27.178Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-04-24T22:00:00.000Z",
+      "last_touch_source": "calendar",
       "next_steps": "Setting up meeting for Logan to meet CEO in SF",
       "active_todos": []
     },
@@ -156,20 +161,20 @@
       "domain": "indykite.ai",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-22T13:31:49.578Z",
+      "last_touch_at": "2026-04-27T15:50:00.818Z",
       "last_touch_source": "attio",
-      "next_steps": "Waiting for a lead",
+      "next_steps": "Waiting for a lead, meeting scheduled in 2 weeks",
       "active_todos": []
     },
     {
-      "id": "cmnt0fid60000xktw13oasjq1",
-      "company_name": "LotLine",
-      "domain": "trylotline.com",
-      "status": "Partner Meetings",
+      "id": "cmohdibfr000jxkwkzuqu6lh1",
+      "company_name": "Keyway",
+      "domain": "keyway.ai",
+      "status": "Partner Screening",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-21T22:09:52.154Z",
+      "last_touch_at": "2026-04-27T15:50:00.806Z",
       "last_touch_source": "attio",
-      "next_steps": null,
+      "next_steps": "Doing more product validation work - Jake to run by a large bank CRE lender in his network",
       "active_todos": []
     },
     {
@@ -189,8 +194,8 @@
       "domain": "optery.com",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-22T13:31:49.583Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-04-22T22:10:03.000Z",
+      "last_touch_source": "email",
       "next_steps": "Upcoming call with Logan",
       "active_todos": []
     },
@@ -198,9 +203,9 @@
       "id": "cmo03jxc0000jxkdkwgmrdwgy",
       "company_name": "Opti",
       "domain": "opti.ai",
-      "status": "Partner Meetings",
+      "status": "Deep Diligence",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-21T17:33:05.322Z",
+      "last_touch_at": "2026-04-27T15:50:00.813Z",
       "last_touch_source": "attio",
       "next_steps": "Meeting with Logan on 4/21",
       "active_todos": []
@@ -214,10 +219,7 @@
       "last_touch_at": "2026-04-22T13:31:49.575Z",
       "last_touch_source": "attio",
       "next_steps": "Just kicked off a fundraising round",
-      "active_todos": [
-        "Track Orchid fundraising timeline and move quickly once terms are set",
-        "Review Orchid Security's inline answers to diligence questions"
-      ]
+      "active_todos": []
     },
     {
       "id": "cmng87is1000kxkx4kxmnpgp0",
@@ -236,8 +238,8 @@
       "domain": "sentra.app",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-21T17:29:53.770Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-04-21T18:00:00.000Z",
+      "last_touch_source": "calendar",
       "next_steps": "Get data room and round details",
       "active_todos": []
     },
@@ -269,7 +271,7 @@
       "domain": "vanishid.com",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-13T19:41:19.000Z",
+      "last_touch_at": "2026-04-25T00:34:20.000Z",
       "last_touch_source": "email",
       "next_steps": "Review data room and discuss with the team",
       "active_todos": []
@@ -289,11 +291,11 @@
       "id": "cmo8wg7c9003wxkb3xohvsj4d",
       "company_name": "flowstate",
       "domain": "flowstate.inc",
-      "status": "Partner Screening",
+      "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-21T17:30:19.303Z",
+      "last_touch_at": "2026-04-27T15:50:00.833Z",
       "last_touch_source": "attio",
-      "next_steps": "Team to schedule follow-up meeting and share DD questions",
+      "next_steps": "Reviewed with MM; team to circle up",
       "active_todos": []
     }
   ]

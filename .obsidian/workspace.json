@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcripts/Prism Layer - 2026-04-27 Transcript.md",
+                "file": "Dashboards/Thesis Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prism Layer - 2026-04-27 Transcript"
+              "title": "Thesis Overview"
             }
           }
         ]
@@ -198,8 +198,10 @@
   },
   "active": "7a8cc0b65153e8a6",
   "lastOpenFiles": [
-    "Misc/Random.md",
+    "Dashboards/Pipeline Dashboard.md",
+    "Dashboards/Thesis Overview.md",
     "Transcripts/Prism Layer - 2026-04-27 Transcript.md",
+    "Misc/Random.md",
     "Transcripts/InquireAI - 2026-04-22 Transcript.md",
     "People/Anthony Beverina.md",
     "Meetings/InquireAI - 2026-04-22 Summary.md",
@@ -224,8 +226,6 @@
     "Companies/Axia Security.md",
     "Companies/Torch Security.md",
     "People/Gal Ron.md",
-    "Meetings/Torch Security - 2026-04-17 Summary.md",
-    "Transcripts/Torch Security - 2026-04-17 Transcript.md",
     "System Log",
     "Signals",
     "Automations/deal-manifest.json",
