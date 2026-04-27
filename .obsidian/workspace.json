@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Random.md",
+                "file": "Transcripts/Prism Layer - 2026-04-27 Transcript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random"
+              "title": "Prism Layer - 2026-04-27 Transcript"
             }
           }
         ]
@@ -198,6 +198,8 @@
   },
   "active": "7a8cc0b65153e8a6",
   "lastOpenFiles": [
+    "Misc/Random.md",
+    "Transcripts/Prism Layer - 2026-04-27 Transcript.md",
     "Transcripts/InquireAI - 2026-04-22 Transcript.md",
     "People/Anthony Beverina.md",
     "Meetings/InquireAI - 2026-04-22 Summary.md",
@@ -220,12 +222,10 @@
     "Meetings/Flowstate - 2026-04-20 Summary.md",
     "Companies/Flowstate.md",
     "Companies/Axia Security.md",
-    "Misc/Random.md",
     "Companies/Torch Security.md",
     "People/Gal Ron.md",
     "Meetings/Torch Security - 2026-04-17 Summary.md",
     "Transcripts/Torch Security - 2026-04-17 Transcript.md",
-    "Transcripts/Huskeys - 2026-04-16 Transcript.md",
     "System Log",
     "Signals",
     "Automations/deal-manifest.json",
