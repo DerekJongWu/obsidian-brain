@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-04-26T11:15:00.000Z",
+  "synced_at": "2026-04-27T11:15:00.000Z",
   "results": [
     {
       "deal_id": "cmng87irn000bxkx41sdn1c0w",
@@ -26,12 +26,12 @@
       "calendar_touch_at": "2026-04-13T14:00:00.000Z"
     },
     {
-      "deal_id": "cmng87is5000oxkx4e1efggx1",
-      "company_name": "Backline AI",
-      "outlook_touch_at": "2026-02-03T21:00:00.000Z",
-      "outlook_touch_source": "calendar",
-      "email_touch_at": null,
-      "calendar_touch_at": "2026-02-03T21:00:00.000Z"
+      "deal_id": "cmo1qm9mz000uxkb3hcclcmvb",
+      "company_name": "Coffee AI",
+      "outlook_touch_at": "2026-04-14T04:04:52.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-14T04:04:52.000Z",
+      "calendar_touch_at": null
     },
     {
       "deal_id": "cmo03jxbx000ixkdk3ammmomo",
@@ -55,7 +55,7 @@
       "outlook_touch_at": "2026-04-24T17:49:31.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-04-24T17:49:31.000Z",
-      "calendar_touch_at": "2026-04-01T19:30:00.000Z"
+      "calendar_touch_at": "2026-01-30T23:00:00.000Z"
     },
     {
       "deal_id": "cmnxe16gv0007xkun6e56eg0z",
@@ -111,7 +111,7 @@
       "outlook_touch_at": "2026-04-20T12:52:53.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-04-20T12:52:53.000Z",
-      "calendar_touch_at": "2026-04-14T18:30:00.000Z"
+      "calendar_touch_at": "2026-04-17T18:00:00.000Z"
     },
     {
       "deal_id": "cmm2lrmkv0000xkwa95tu9115",
@@ -135,15 +135,7 @@
       "outlook_touch_at": "2026-04-23T13:39:30.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-04-23T13:39:30.000Z",
-      "calendar_touch_at": null
-    },
-    {
-      "deal_id": "cmng9nvp3000oxk6jm9kfqsw8",
-      "company_name": "Orchid",
-      "outlook_touch_at": "2026-03-30T18:00:00.000Z",
-      "outlook_touch_source": "calendar",
-      "email_touch_at": null,
-      "calendar_touch_at": "2026-03-30T18:00:00.000Z"
+      "calendar_touch_at": "2026-04-21T18:30:00.000Z"
     },
     {
       "deal_id": "cmng87is1000kxkx4kxmnpgp0",
