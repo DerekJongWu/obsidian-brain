@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboards/Thesis Overview.md",
+                "file": "Misc/Random.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thesis Overview"
+              "title": "Random"
             }
           }
         ]
@@ -198,8 +198,8 @@
   },
   "active": "7a8cc0b65153e8a6",
   "lastOpenFiles": [
-    "Dashboards/Pipeline Dashboard.md",
     "Dashboards/Thesis Overview.md",
+    "Dashboards/Pipeline Dashboard.md",
     "Transcripts/Prism Layer - 2026-04-27 Transcript.md",
     "Misc/Random.md",
     "Transcripts/InquireAI - 2026-04-22 Transcript.md",
