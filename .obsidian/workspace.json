@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcripts/SuperLinked.md",
+                "file": "Misc/Random.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SuperLinked"
+              "title": "Random"
             }
           }
         ]
@@ -198,10 +198,10 @@
   },
   "active": "7a8cc0b65153e8a6",
   "lastOpenFiles": [
+    "Transcripts/SuperLinked.md",
     "Automations/outlook-touches.json",
     "Automations/outlook-todos.json",
     "Misc/Random.md",
-    "Transcripts/SuperLinked.md",
     "Dashboards/Thesis Overview.md",
     "Dashboards/Pipeline Dashboard.md",
     "Transcripts/Prism Layer - 2026-04-27 Transcript.md",

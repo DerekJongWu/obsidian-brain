@@ -1,7 +1,2 @@
 Box Codes: 
 4A31Q7ZYBRLN71S,KEMXPL9RZD7Z4NO,B62V4K2FHGD2EG1
-
-
-
-
-Not the core of the strategic base
