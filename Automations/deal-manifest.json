@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-28T14:36:35.186Z",
+  "exported_at": "2026-04-28T14:44:27.399Z",
   "deals": [
     {
       "id": "cmng87irn000bxkx41sdn1c0w",
@@ -35,6 +35,17 @@
       "active_todos": []
     },
     {
+      "id": "cmoiqlv1d001mxkwkdagx1ozo",
+      "company_name": "Cobalt",
+      "domain": "getcobalt.ai",
+      "status": "Partner Screening",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-28T14:44:27.361Z",
+      "last_touch_source": "attio",
+      "next_steps": null,
+      "active_todos": []
+    },
+    {
       "id": "cmo1qm9mz000uxkb3hcclcmvb",
       "company_name": "Coffee AI",
       "domain": "coffee.ai",
@@ -62,9 +73,9 @@
       "domain": "echelonai.com",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-24T17:49:31.000Z",
-      "last_touch_source": "email",
-      "next_steps": "Pushing for intro to SMBC (Gordon); Waiting for their round to kick off in May.",
+      "last_touch_at": "2026-04-28T14:44:27.391Z",
+      "last_touch_source": "attio",
+      "next_steps": "Pushing for intro to SMBC (Gordon); Waiting for their round to kick off in early May.",
       "active_todos": []
     },
     {
@@ -117,8 +128,8 @@
       "domain": "huskeys.io",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-24T22:00:00.000Z",
-      "last_touch_source": "calendar",
+      "last_touch_at": "2026-04-28T14:44:27.389Z",
+      "last_touch_source": "attio",
       "next_steps": "Setting up meeting for Logan to meet CEO in SF",
       "active_todos": []
     },
@@ -128,9 +139,9 @@
       "domain": "indykite.ai",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-27T15:50:00.818Z",
+      "last_touch_at": "2026-04-28T14:44:27.380Z",
       "last_touch_source": "attio",
-      "next_steps": "Waiting for a lead, meeting scheduled in 2 weeks",
+      "next_steps": "Waiting for a lead",
       "active_todos": []
     },
     {
@@ -161,9 +172,9 @@
       "domain": "optery.com",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-27T18:05:50.841Z",
+      "last_touch_at": "2026-04-28T14:44:27.383Z",
       "last_touch_source": "attio",
-      "next_steps": "Had call with Logan - offered intros. ",
+      "next_steps": "Had call with Logan - offered intros.",
       "active_todos": []
     },
     {
@@ -172,7 +183,7 @@
       "domain": "opti.ai",
       "status": "Deep Diligence",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-27T15:50:00.813Z",
+      "last_touch_at": "2026-04-28T14:44:27.370Z",
       "last_touch_source": "attio",
       "next_steps": "Meeting with Logan on 4/21",
       "active_todos": []
@@ -205,9 +216,9 @@
       "domain": "sentra.app",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-21T18:00:00.000Z",
-      "last_touch_source": "calendar",
-      "next_steps": "Get data room and round details",
+      "last_touch_at": "2026-04-28T14:44:27.390Z",
+      "last_touch_source": "attio",
+      "next_steps": "Waiting for a lead - checking in on Apr 28",
       "active_todos": []
     },
     {
