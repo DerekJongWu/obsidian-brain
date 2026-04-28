@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-27T15:50:00.837Z",
+  "exported_at": "2026-04-28T14:36:35.186Z",
   "deals": [
     {
       "id": "cmng87irn000bxkx41sdn1c0w",
@@ -24,28 +24,6 @@
       "active_todos": []
     },
     {
-      "id": "cmng87is8000rxkx4tzh5om8i",
-      "company_name": "Arcade",
-      "domain": "arcade.dev",
-      "status": "Deep Diligence",
-      "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-24T09:10:19.000Z",
-      "last_touch_source": "email",
-      "next_steps": "Discuss with the partners for a final decision",
-      "active_todos": []
-    },
-    {
-      "id": "cmnwi2l0u000rxkj3q3m27np6",
-      "company_name": "Axia Security",
-      "domain": "axiasecurity.io",
-      "status": "Partner Screening",
-      "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-13T19:01:12.763Z",
-      "last_touch_source": "attio",
-      "next_steps": "Just launched a seed round",
-      "active_todos": []
-    },
-    {
       "id": "cmng87is5000oxkx4e1efggx1",
       "company_name": "Backline AI",
       "domain": "backline.ai",
@@ -64,17 +42,6 @@
       "funnel": "Top of Funnel",
       "last_touch_at": "2026-04-16T17:12:46.136Z",
       "last_touch_source": "attio",
-      "next_steps": null,
-      "active_todos": []
-    },
-    {
-      "id": "cmo03jxbx000ixkdk3ammmomo",
-      "company_name": "DBGorilla",
-      "domain": "dbgorilla.com",
-      "status": "Partner Screening",
-      "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-17T01:42:44.000Z",
-      "last_touch_source": "email",
       "next_steps": null,
       "active_todos": []
     },
@@ -194,9 +161,9 @@
       "domain": "optery.com",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-22T22:10:03.000Z",
-      "last_touch_source": "email",
-      "next_steps": "Upcoming call with Logan",
+      "last_touch_at": "2026-04-27T18:05:50.841Z",
+      "last_touch_source": "attio",
+      "next_steps": "Had call with Logan - offered intros. ",
       "active_todos": []
     },
     {
