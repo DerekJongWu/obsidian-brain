@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-28T14:44:27.399Z",
+  "exported_at": "2026-04-28T15:34:16.143Z",
   "deals": [
     {
       "id": "cmng87irn000bxkx41sdn1c0w",
@@ -164,6 +164,17 @@
       "last_touch_at": "2026-04-13T19:01:12.750Z",
       "last_touch_source": "attio",
       "next_steps": "Flashed to SMBC; compiling customer feedback",
+      "active_todos": []
+    },
+    {
+      "id": "cmoisd7dz001oxkwk89odc8v7",
+      "company_name": "Octane",
+      "domain": "octane.security",
+      "status": "Partner Screening",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-28T15:34:16.125Z",
+      "last_touch_source": "attio",
+      "next_steps": null,
       "active_todos": []
     },
     {
