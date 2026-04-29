@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Random.md",
+                "file": "System Logs/Deal Staleness - 2026-04-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random"
+              "title": "Deal Staleness - 2026-04-15"
             }
           }
         ]
@@ -198,6 +198,10 @@
   },
   "active": "7a8cc0b65153e8a6",
   "lastOpenFiles": [
+    "System Logs/Deal Staleness Agent.md",
+    "System Logs/Deal Staleness - 2026-04-15.md",
+    "System Log/Deal Staleness.md",
+    "Misc/Random.md",
     "Transcripts/Spectrum Security - 2026-04-28 Transcript.md",
     "Transcripts/Pluto Security - 2026-04-28 Transcript.md",
     "Transcripts/LoopIQ - 2026-04-28 Transcript.md",
@@ -213,7 +217,6 @@
     "Automations/outlook-touches.json",
     "Automations/outlook-todos.json",
     "Transcripts/SuperLinked.md",
-    "Misc/Random.md",
     "Dashboards/Thesis Overview.md",
     "Dashboards/Pipeline Dashboard.md",
     "Transcripts/Prism Layer - 2026-04-27 Transcript.md",
@@ -223,9 +226,6 @@
     "Companies/InquireAI.md",
     "Transcripts/Sentra - 2026-04-21 Transcript.md",
     "Transcripts/Opti - 2026-04-21 Transcript.md",
-    "People/Barak Perelman.md",
-    "People/Ashwin Gopinath.md",
-    "Meetings/Sentra - 2026-04-21 Summary.md",
     "System Log",
     "Signals",
     "Automations/deal-manifest.json",
