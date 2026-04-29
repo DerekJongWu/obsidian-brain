@@ -1,3 +1,21 @@
+## 2026-04-28
+
+**Meetings synced:** 3
+
+- **Spectrum Security** — Introduction | Spectrum Security <> Fin Capital
+  - Created: Company note (Spectrum Security), Meeting summary, Transcript stub, Person: Meny Har
+  - Updated: —
+- **Pluto Security** — Fin Capital and Shahar Bahat
+  - Created: Company note (Pluto Security), Meeting summary, Transcript stub, Person: Shahar Bahat
+  - Updated: —
+- **LoopIQ** — LoopIQ Discovery Call With Derek Wu
+  - Created: Company note (LoopIQ), Meeting summary, Transcript stub, Person: Ashwin Kondapalli
+  - Updated: —
+
+Note: All 3 meetings had external (non-@fin.capital) attendees; none filtered as internal. Harmonic enrichment successful for Spectrum Security (Meny Har), Pluto Security (Shahar Bahat), and LoopIQ (Ashwin Kondapalli).
+
+---
+
 ## 2026-04-26
 
 **Meetings synced:** 0
