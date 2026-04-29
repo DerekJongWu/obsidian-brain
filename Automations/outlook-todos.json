@@ -1,0 +1,70 @@
+{
+  "extracted_at": "2026-04-29T11:15:00.000Z",
+  "items": [
+    {
+      "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
+      "company_name": "Opti",
+      "title": "Complete reference call with Karl Mattson about Opti on Thursday",
+      "context": "Email from Richie@fin.capital on Apr 28: 'Our Managing Partner is close with Karl Mattson. We have a call scheduled this Thursday with him.'",
+      "source": "email",
+      "source_date": "2026-04-28T17:27:50.000Z"
+    },
+    {
+      "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
+      "company_name": "Opti",
+      "title": "Get customer-facing materials from Barak (Opti) for Strategic LP outreach",
+      "context": "Email from Richie@fin.capital on Apr 28: 'Could you please share customer facing materials that we can pass along to leaders inside of those orgs? Let us know if the attached sales deck is the best version to send.'",
+      "source": "email",
+      "source_date": "2026-04-28T17:27:50.000Z"
+    },
+    {
+      "deal_id": "cmoisd7dz001oxkwk89odc8v7",
+      "company_name": "Octane",
+      "title": "Follow up with Gio (Octane) on 7 data room diligence questions",
+      "context": "Email from gio@octane.security on Apr 29: 'Thanks for sharing. Will follow up on this' — in reply to Stephanie's 7 detailed questions on AI commoditization, migration, ICP expansion, GTM, TAM, pricing, and competitive positioning.",
+      "source": "email",
+      "source_date": "2026-04-29T04:54:28.000Z"
+    },
+    {
+      "deal_id": "cmnnanp300000xk694j8hue9e",
+      "company_name": "VanishID",
+      "title": "Respond to Matt Polak (VanishID) on preemption interest",
+      "context": "Email from matt@vanishid.com on Apr 28: 'A few investors shared that they are waiting for our quarterly results... We expect a strong result and anticipate term sheets in the coming weeks. Are you interested in preempting?'",
+      "source": "email",
+      "source_date": "2026-04-28T22:36:38.000Z"
+    },
+    {
+      "deal_id": "cmo96m3vo0046xkb3jfz18dgt",
+      "company_name": "Optery",
+      "title": "Check with Martin from Array on Optery conflict and circle back with Lawrence",
+      "context": "Email from derek@fin.capital on Apr 22: 'We're also checking with Martin from Array on conflict and will circle back shortly.'",
+      "source": "email",
+      "source_date": "2026-04-22T22:10:03.000Z"
+    },
+    {
+      "deal_id": "cmo2yv5ax0013xkb39paudwz0",
+      "company_name": "Sentra",
+      "title": "Get update from Sentra CEO (Ashwin) before sharing with IC",
+      "context": "Email from fan@fin.capital on Apr 26: 'I was planning to get an update from the Sentra CEO next week before sharing this with IC.'",
+      "source": "email",
+      "source_date": "2026-04-26T22:54:51.000Z"
+    },
+    {
+      "deal_id": null,
+      "company_name": null,
+      "title": "Prep for Fin Capital // Blast Security meeting on May 4",
+      "context": "Calendar event 'Fin Capital // Blast Security' on May 4 with boris@blast.security and Richie — new deal screening meeting.",
+      "source": "calendar",
+      "source_date": "2026-05-04T17:00:00.000Z"
+    },
+    {
+      "deal_id": null,
+      "company_name": null,
+      "title": "Prep for Blu Ventures Conference on May 6",
+      "context": "All-day calendar event 'Blu Ventures Conference' on May 6 — may need agenda review and meeting scheduling.",
+      "source": "calendar",
+      "source_date": "2026-05-06T00:00:00.000Z"
+    }
+  ],
+  "errors": []
+}
