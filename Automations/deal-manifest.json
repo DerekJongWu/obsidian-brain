@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-28T15:34:16.143Z",
+  "exported_at": "2026-04-29T17:51:27.343Z",
   "deals": [
     {
       "id": "cmng87irn000bxkx41sdn1c0w",
@@ -18,9 +18,9 @@
       "domain": "agentix.pro",
       "status": "Partner Screening",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-27T15:50:00.803Z",
+      "last_touch_at": "2026-04-29T17:51:27.316Z",
       "last_touch_source": "attio",
-      "next_steps": null,
+      "next_steps": "Reviewing deck, leaning towards pass",
       "active_todos": []
     },
     {
@@ -35,14 +35,25 @@
       "active_todos": []
     },
     {
+      "id": "cmokcq7290028xkwkvy4yhde7",
+      "company_name": "Blast Security",
+      "domain": "blast.security",
+      "status": "Partner Screening",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-29T17:51:27.296Z",
+      "last_touch_source": "attio",
+      "next_steps": "RC and DW meeting Founder",
+      "active_todos": []
+    },
+    {
       "id": "cmoiqlv1d001mxkwkdagx1ozo",
       "company_name": "Cobalt",
       "domain": "getcobalt.ai",
       "status": "Partner Screening",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-28T14:44:27.361Z",
+      "last_touch_at": "2026-04-29T17:51:27.339Z",
       "last_touch_source": "attio",
-      "next_steps": null,
+      "next_steps": "Had product demo; kicking off Series A",
       "active_todos": []
     },
     {
@@ -68,14 +79,25 @@
       "active_todos": []
     },
     {
+      "id": "cmokcq72i002bxkwkccaz5y8s",
+      "company_name": "Dux",
+      "domain": "dux.io",
+      "status": "Partner Meetings",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-29T17:51:27.305Z",
+      "last_touch_source": "attio",
+      "next_steps": "LA reaching out to Karl Mattson for Intro",
+      "active_todos": []
+    },
+    {
       "id": "cmng87is3000mxkx4bg2ln251",
       "company_name": "Echelon AI",
       "domain": "echelonai.com",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-28T14:44:27.391Z",
+      "last_touch_at": "2026-04-29T17:51:27.336Z",
       "last_touch_source": "attio",
-      "next_steps": "Pushing for intro to SMBC (Gordon); Waiting for their round to kick off in early May.",
+      "next_steps": "Waiting for their round to kick off in early May (after ServiceNow Knowledge Conference in May 5-7); Pushing for intro to SMBC (Gordon).",
       "active_todos": []
     },
     {
@@ -93,11 +115,11 @@
       "id": "cmng87irv000fxkx4kklfc27z",
       "company_name": "Engramme",
       "domain": "engramme.com",
-      "status": "Initial Meetings",
-      "funnel": "Top of Funnel",
-      "last_touch_at": "2026-04-23T06:41:17.000Z",
-      "last_touch_source": "email",
-      "next_steps": "Following up to track the lead conversation",
+      "status": "Partner Screening",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-29T17:51:27.326Z",
+      "last_touch_source": "attio",
+      "next_steps": "Round size updated to $50M (at $500M post per the founder). Khosla potentially leading. Waiting for founders to confirm TS first.",
       "active_todos": []
     },
     {
@@ -139,9 +161,9 @@
       "domain": "indykite.ai",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-28T14:44:27.380Z",
+      "last_touch_at": "2026-04-29T17:51:27.324Z",
       "last_touch_source": "attio",
-      "next_steps": "Waiting for a lead",
+      "next_steps": "Received DR, reviewing DR, and waiting for a lead",
       "active_todos": []
     },
     {
@@ -172,8 +194,8 @@
       "domain": "octane.security",
       "status": "Partner Screening",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-28T15:34:16.125Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-04-29T04:54:28.000Z",
+      "last_touch_source": "email",
       "next_steps": null,
       "active_todos": []
     },
@@ -194,8 +216,8 @@
       "domain": "opti.ai",
       "status": "Deep Diligence",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-28T14:44:27.370Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-04-28T17:27:50.000Z",
+      "last_touch_source": "email",
       "next_steps": "Meeting with Logan on 4/21",
       "active_todos": []
     },
@@ -222,14 +244,36 @@
       "active_todos": []
     },
     {
+      "id": "cmokcq72e0029xkwk4mn7zbgl",
+      "company_name": "Prism Layer",
+      "domain": "prismlayer.ai",
+      "status": "Partner Screening",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-29T17:51:27.301Z",
+      "last_touch_source": "attio",
+      "next_steps": null,
+      "active_todos": []
+    },
+    {
       "id": "cmo2yv5ax0013xkb39paudwz0",
       "company_name": "Sentra",
       "domain": "sentra.app",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-28T14:44:27.390Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-04-28T18:37:24.000Z",
+      "last_touch_source": "email",
       "next_steps": "Waiting for a lead - checking in on Apr 28",
+      "active_todos": []
+    },
+    {
+      "id": "cmokcq72g002axkwk8hsfbucj",
+      "company_name": "Spectrum",
+      "domain": "spectrum.security",
+      "status": "Partner Screening",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-04-29T17:51:27.304Z",
+      "last_touch_source": "attio",
+      "next_steps": null,
       "active_todos": []
     },
     {
@@ -249,9 +293,9 @@
       "domain": "unstructured.io",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-17T17:35:34.000Z",
-      "last_touch_source": "email",
-      "next_steps": "Working on BD (targeting portcos) - wait for Series C",
+      "last_touch_at": "2026-04-29T17:51:27.325Z",
+      "last_touch_source": "attio",
+      "next_steps": "Series C will kick off after closing Q1 (Apr)",
       "active_todos": []
     },
     {
@@ -260,7 +304,7 @@
       "domain": "vanishid.com",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-25T00:34:20.000Z",
+      "last_touch_at": "2026-04-28T22:36:38.000Z",
       "last_touch_source": "email",
       "next_steps": "Review data room and discuss with the team",
       "active_todos": []
