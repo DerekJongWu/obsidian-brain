@@ -1,0 +1,70 @@
+{
+  "extracted_at": "2026-04-30T11:15:00.000Z",
+  "items": [
+    {
+      "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
+      "company_name": "Opti",
+      "title": "Reach out to Strategic LP banks/FIs with Opti customer-facing materials",
+      "context": "Email from Richie on Apr 28: 'We're planning to reach out to a handful of large banks / financial institutions that could serve as potential clients. Could you please share customer facing materials?' Barak replied Apr 29 with one-pager and intro paragraph ready to use.",
+      "source": "email",
+      "source_date": "2026-04-29T21:15:41.000Z"
+    },
+    {
+      "deal_id": "cmnnanp300000xk694j8hue9e",
+      "company_name": "VanishID",
+      "title": "Respond to Matt's preemption question on VanishID round",
+      "context": "Email from matt@vanishid.com on Apr 28: 'A few investors shared that they are waiting for our quarterly results... We expect a strong result and anticipate term sheets in the coming weeks... Are you interested in preempting?'",
+      "source": "email",
+      "source_date": "2026-04-28T22:36:38.000Z"
+    },
+    {
+      "deal_id": "cmokcq72e0029xkwk4mn7zbgl",
+      "company_name": "Prism Layer",
+      "title": "Follow up with Simone for pitch deck and materials",
+      "context": "Email from Jake on Apr 28: 'When you get a chance, can you please share the materials for our review?' after initial meeting with Simone on Apr 27.",
+      "source": "email",
+      "source_date": "2026-04-28T22:12:14.000Z"
+    },
+    {
+      "deal_id": "cmoisd7dz001oxkwk89odc8v7",
+      "company_name": "Octane",
+      "title": "Follow up with Gio on 7 data room diligence questions",
+      "context": "Email from Stephanie on Apr 28 with 7 detailed questions (AI commoditization risk, migration process, ICP expansion, GTM segmentation, TAM, pricing, competitive comp). Gio replied Apr 29: 'Will follow up on this.'",
+      "source": "email",
+      "source_date": "2026-04-29T04:54:28.000Z"
+    },
+    {
+      "deal_id": "cmokcq7290028xkwkvy4yhde7",
+      "company_name": "Blast Security",
+      "title": "Prep for May 4 intro meeting with Boris Vaynberg",
+      "context": "Calendar event 'Fin Capital // Blast Security' on May 4 at 1pm ET on Teams with boris@blast.security and borisv@blast.security. Boris rescheduled from original slot on Apr 28.",
+      "source": "calendar",
+      "source_date": "2026-05-04T17:00:00.000Z"
+    },
+    {
+      "deal_id": "cmnxdypzd0003xkunqt2a8xv8",
+      "company_name": "IndyKite",
+      "title": "Prep for May 6 IndyKite follow-up meeting with Lasse and Clare",
+      "context": "Calendar event 'Teams: Indy Kite <> Fin Capital' on May 6 at 4:30pm ET with lasse.andresen@indykite.com and clare.liebenberg@indykite.com. Currently reviewing data room and waiting for a lead.",
+      "source": "calendar",
+      "source_date": "2026-05-06T20:30:00.000Z"
+    },
+    {
+      "deal_id": "cmng87is3000mxkx4bg2ln251",
+      "company_name": "Echelon AI",
+      "title": "Coordinate in-person meeting with Eddie and Rahul at ServiceNow Knowledge (May 5-7)",
+      "context": "Email from eddie@echelonai.com on Apr 24: 'Rahul and I would love to meet up in person. Here's a link to my calendar; I'd love to get some time.' ServiceNow Knowledge Conference is May 5-7.",
+      "source": "email",
+      "source_date": "2026-04-24T17:49:31.000Z"
+    },
+    {
+      "deal_id": null,
+      "company_name": null,
+      "title": "Prep for NTT Data catch-up on May 7",
+      "context": "Calendar event 'Catch-up: NTT Data <> Fin Capital' on May 7 at 4pm ET with yanni.zhou@nttdata.com and kousuke.mitsuoka@nttdata.com — LP/strategic partner quarterly sync.",
+      "source": "calendar",
+      "source_date": "2026-05-07T20:00:00.000Z"
+    }
+  ],
+  "errors": []
+}
