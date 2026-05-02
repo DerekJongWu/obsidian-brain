@@ -1,59 +1,67 @@
 {
-  "extracted_at": "2026-05-01T11:15:00.000Z",
+  "extracted_at": "2026-05-02T11:15:00.000Z",
   "items": [
     {
-      "deal_id": "cmnnanp300000xk694j8hue9e",
-      "company_name": "VanishID",
-      "title": "Respond to VanishID on preemption interest — term sheets expected in coming weeks",
-      "context": "Email from matt@vanishid.com on Apr 28: 'Are you interested in preempting?' Insiders want 50%+ of round, strong quarterly results expected. Logan said he'd dig in over the weekend but hasn't responded.",
+      "deal_id": "cmoisd7dz001oxkwk89odc8v7",
+      "company_name": "Octane",
+      "title": "Follow up with Gio on 7 diligence questions from Stephanie",
+      "context": "Email from stephanie@fin.capital on Apr 28: Sent 7 detailed DD questions after data room review (AI commoditization, migration, ICP expansion, GTM, TAM, pricing, comp breakdown vs Almanax/Olympix). Gio replied Apr 29: 'Will follow up on this.'",
       "source": "email",
-      "source_date": "2026-04-28T22:36:38.000Z"
-    },
-    {
-      "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
-      "company_name": "Opti",
-      "title": "Send strategic LP intro emails for Opti using Barak's sales deck and one-pager",
-      "context": "Email from Richie on Apr 29: 'Derek and I are going to get started with potential strategic intros.' Barak shared one-pager and tailored intro paragraphs for financial services outreach.",
-      "source": "email",
-      "source_date": "2026-04-29T22:46:55.000Z"
-    },
-    {
-      "deal_id": "cmnt0fid60000xktw13oasjq1",
-      "company_name": "LotLine",
-      "title": "Respond to Sean Larson — schedule call with Matthew re: round timing",
-      "context": "Email from sean@trylotline.com on Apr 29 (unread): Offered continued pilot pricing for family properties and asked about scheduling a call with Matthew. Previous thread discussed round timing.",
-      "source": "email",
-      "source_date": "2026-04-29T20:16:36.000Z"
-    },
-    {
-      "deal_id": "cmng87is3000mxkx4bg2ln251",
-      "company_name": "Echelon AI",
-      "title": "Follow up on Morgan Stanley <> Echelon AI intro — confirm if meeting was scheduled",
-      "context": "Email from eddie@echelonai.com on Apr 24: Fan intro'd Echelon to Tunde at Morgan Stanley. Eddie proposed meeting times (Apr 28, Apr 30, May 11-13). No confirmation visible yet.",
-      "source": "email",
-      "source_date": "2026-04-24T17:49:31.000Z"
+      "source_date": "2026-04-29T04:54:28.000Z"
     },
     {
       "deal_id": "cmnxdypzd0003xkunqt2a8xv8",
       "company_name": "IndyKite",
-      "title": "Prep for IndyKite <> Fin Capital partner meeting on May 6",
-      "context": "Calendar event 'Teams: Indy Kite <> Fin Capital' on May 6 at 1:30 PM PT with Clare Liebenberg and Lasse Andresen. Matthew organizing.",
+      "title": "Prep for May 6 partner meeting with IndyKite team",
+      "context": "Calendar event 'Teams: Indy Kite <> Fin Capital' on May 6 with Clare Liebenberg and Lasse Andresen from IndyKite, plus Matthew, Fan, and Jackie from Fin.",
       "source": "calendar",
       "source_date": "2026-05-06T20:30:00.000Z"
+    },
+    {
+      "deal_id": "cmo2yv5ax0013xkb39paudwz0",
+      "company_name": "Sentra",
+      "title": "Track outcomes from Synchrony and NextEra Energy intros for Sentra",
+      "context": "Fan connected Ashwin (Sentra) with Kelly/Abir at Synchrony on Apr 29 and Brian at NextEra Energy on Apr 28. Both intros pending coordination of meetings.",
+      "source": "email",
+      "source_date": "2026-04-29T16:59:29.000Z"
+    },
+    {
+      "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
+      "company_name": "Opti",
+      "title": "Track responses from BD intro outreach for Opti",
+      "context": "Rina introduced Opti to Donna and Rani on May 1. Jake introduced Opti to Parthiv on May 1. Both outreach emails sent with cyber identity positioning and Opti deck attached.",
+      "source": "email",
+      "source_date": "2026-05-01T21:15:55.000Z"
+    },
+    {
+      "deal_id": "cmokcq72e0029xkwk4mn7zbgl",
+      "company_name": "Prism Layer",
+      "title": "Review Prism Layer materials and newsletter post-meeting",
+      "context": "Jake replied 'review?' after Apr 27 meeting with Simone (Prism Layer). Simone shared their newsletter with product/market content. Initial meeting held Apr 27.",
+      "source": "email",
+      "source_date": "2026-04-28T22:12:14.000Z"
+    },
+    {
+      "deal_id": "cmnnapsnd0002xk69k1s10ck4",
+      "company_name": "Entro Security",
+      "title": "Follow through on BD help commitment to Entro post-pass",
+      "context": "Fan passed on investment Apr 29 but committed to staying helpful on BD. Earlier thread (Apr 16) identified pipeline overlap with Morgan Stanley, Edward Jones, Cox Automotive, PNC, and Fidelity for potential network leverage.",
+      "source": "email",
+      "source_date": "2026-04-29T23:50:03.000Z"
     },
     {
       "deal_id": null,
       "company_name": null,
       "title": "Prep for Blu Ventures Conference on May 6",
-      "context": "Calendar event 'Blu Ventures Conference' on May 6 — all-day event with no details or deck attached.",
+      "context": "All-day calendar event 'Blu Ventures Conference' on May 6 -- no agenda or materials attached yet.",
       "source": "calendar",
       "source_date": "2026-05-06T00:00:00.000Z"
     },
     {
       "deal_id": null,
       "company_name": null,
-      "title": "Prep for coffee with Evan Henley (Capital One) on May 6",
-      "context": "Calendar event 'Coffee' on May 6 at 8:00 AM PT with evan.henley@capitalone.com — location TBD, no agenda attached.",
+      "title": "Prep for coffee meeting with Evan Henley (Capital One) on May 6",
+      "context": "Calendar event 'Coffee' with evan.henley@capitalone.com on May 6 at 11am ET. Location listed as TBD.",
       "source": "calendar",
       "source_date": "2026-05-06T15:00:00.000Z"
     },
@@ -61,7 +69,7 @@
       "deal_id": null,
       "company_name": null,
       "title": "Prep for NTT Data <> Fin Capital catch-up on May 7",
-      "context": "Calendar event 'Catch-up: NTT Data <> Fin Capital' on May 7 at 1:00 PM PT with Yanni Zhou and Kousuke Mitsuoka — strategic LP/partner meeting.",
+      "context": "Calendar event with Yanni Zhou and Kousuke Mitsuoka from NTT Data on May 7 at 1pm PT. Daria and Rina from Fin also attending.",
       "source": "calendar",
       "source_date": "2026-05-07T20:00:00.000Z"
     },
@@ -69,7 +77,7 @@
       "deal_id": null,
       "company_name": null,
       "title": "Prep for Hitachi Ventures <> Fin Capital catch-up on May 8",
-      "context": "Calendar event 'Catch-up: Hitachi Ventures <> Fin Capital' on May 8 at 9:30 AM PT with Gayathri — strategic LP/partner meeting.",
+      "context": "Calendar event with Gayathri from Hitachi Ventures on May 8 at 9:30am PT via Teams.",
       "source": "calendar",
       "source_date": "2026-05-08T16:30:00.000Z"
     }
