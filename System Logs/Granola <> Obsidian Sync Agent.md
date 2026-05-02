@@ -1,3 +1,15 @@
+## 2026-05-01
+
+**Meetings synced:** 1
+
+- **Rein** — Teams: Fin Capital<> Rein
+  - Created: Company note (Rein), Meeting summary, Transcript stub, Person: Matan Bar-Efrat
+  - Updated: —
+
+Note: 1 external meeting found; no internal-only meetings filtered. Harmonic enrichment successful for Rein Security and Matan Bar-Efrat (founder/CEO).
+
+---
+
 ## 2026-04-30
 
 **Meetings synced:** 0
