@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-05-03T11:15:00.000Z",
+  "synced_at": "2026-05-04T11:15:00.000Z",
   "results": [
     {
       "deal_id": "cmng87irn000bxkx41sdn1c0w",
@@ -18,28 +18,12 @@
       "calendar_touch_at": null
     },
     {
-      "deal_id": "cmng87is5000oxkx4e1efggx1",
-      "company_name": "Backline AI",
-      "outlook_touch_at": "2026-04-20T20:24:26.000Z",
-      "outlook_touch_source": "email",
-      "email_touch_at": "2026-04-20T20:24:26.000Z",
-      "calendar_touch_at": "2026-04-20T18:00:00.000Z"
-    },
-    {
       "deal_id": "cmokcq7290028xkwkvy4yhde7",
       "company_name": "Blast Security",
       "outlook_touch_at": "2026-05-04T17:00:00.000Z",
       "outlook_touch_source": "calendar",
       "email_touch_at": "2026-04-29T17:18:59.000Z",
       "calendar_touch_at": "2026-05-04T17:00:00.000Z"
-    },
-    {
-      "deal_id": "cmo1qm9mz000uxkb3hcclcmvb",
-      "company_name": "Coffee AI",
-      "outlook_touch_at": "2026-04-15T19:33:18.000Z",
-      "outlook_touch_source": "email",
-      "email_touch_at": "2026-04-15T19:33:18.000Z",
-      "calendar_touch_at": null
     },
     {
       "deal_id": "cmnghs8he0006xkl5p238qtdx",
@@ -118,7 +102,7 @@
       "company_name": "Nametag",
       "outlook_touch_at": "2026-02-27T17:30:00.000Z",
       "outlook_touch_source": "calendar",
-      "email_touch_at": "2026-02-10T20:51:59.000Z",
+      "email_touch_at": null,
       "calendar_touch_at": "2026-02-27T17:30:00.000Z"
     },
     {
@@ -140,10 +124,18 @@
     {
       "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
       "company_name": "Opti",
-      "outlook_touch_at": "2026-05-01T21:15:55.000Z",
+      "outlook_touch_at": "2026-05-03T21:33:24.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2026-05-01T21:15:55.000Z",
+      "email_touch_at": "2026-05-03T21:33:24.000Z",
       "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmng9nvp3000oxk6jm9kfqsw8",
+      "company_name": "Orchid",
+      "outlook_touch_at": "2026-03-30T18:00:00.000Z",
+      "outlook_touch_source": "calendar",
+      "email_touch_at": null,
+      "calendar_touch_at": "2026-03-30T18:00:00.000Z"
     },
     {
       "deal_id": "cmng87is1000kxkx4kxmnpgp0",
@@ -164,9 +156,9 @@
     {
       "deal_id": "cmo2yv5ax0013xkb39paudwz0",
       "company_name": "Sentra",
-      "outlook_touch_at": "2026-04-29T16:59:29.000Z",
+      "outlook_touch_at": "2026-05-04T06:39:00.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2026-04-29T16:59:29.000Z",
+      "email_touch_at": "2026-05-04T06:39:00.000Z",
       "calendar_touch_at": "2026-04-21T18:00:00.000Z"
     },
     {
