@@ -1,3 +1,15 @@
+## 2026-05-04
+
+**Meetings synced:** 1
+
+- **Blast Security** — Fin Capital // Blast Security
+  - Created: Company note (Blast Security), Meeting summary, Transcript stub, Person: Boris Vaynberg
+  - Updated: —
+
+Note: 1 external meeting found; no internal-only meetings filtered. Harmonic enrichment successful for Blast Security and founder Boris Vaynberg.
+
+---
+
 ## 2026-05-03
 
 **Meetings synced:** 0
