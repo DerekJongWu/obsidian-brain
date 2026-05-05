@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Logs/Deal Staleness - 2026-04-15.md",
+                "file": "System Log/Deal Staleness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deal Staleness - 2026-04-15"
+              "title": "Deal Staleness"
             }
           }
         ]
@@ -198,6 +198,11 @@
   },
   "active": "7a8cc0b65153e8a6",
   "lastOpenFiles": [
+    "Transcripts/Blast Security - 2026-05-04 Transcript.md",
+    "People/Boris Vaynberg.md",
+    "Meetings/Blast Security - 2026-05-04 Summary.md",
+    "Companies/Blast Security.md",
+    "System Logs/Deal Staleness - 2026-04-15.md",
     "Transcripts/Rein - 2026-05-01 Transcript.md",
     "People/Matan Bar-Efrat.md",
     "Meetings/Rein - 2026-05-01 Summary.md",
@@ -207,7 +212,6 @@
     "Automations/outlook-touches.json",
     "Automations/outlook-todos.json",
     "System Logs/Deal Staleness Agent.md",
-    "System Logs/Deal Staleness - 2026-04-15.md",
     "System Log/Deal Staleness.md",
     "Misc/Random.md",
     "Transcripts/Spectrum Security - 2026-04-28 Transcript.md",
@@ -222,10 +226,6 @@
     "Companies/Spectrum Security.md",
     "Companies/Pluto Security.md",
     "Companies/LoopIQ.md",
-    "Transcripts/SuperLinked.md",
-    "Dashboards/Thesis Overview.md",
-    "Dashboards/Pipeline Dashboard.md",
-    "Transcripts/Prism Layer - 2026-04-27 Transcript.md",
     "System Log",
     "Signals",
     "Automations/deal-manifest.json",
