@@ -1,14 +1,14 @@
 {
-  "exported_at": "2026-04-29T17:51:27.343Z",
+  "exported_at": "2026-05-05T14:40:15.136Z",
   "deals": [
     {
       "id": "cmng87irn000bxkx41sdn1c0w",
       "company_name": "Aembit",
       "domain": "aembit.io",
-      "status": "Deep Diligence",
-      "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-24T22:28:11.000Z",
-      "last_touch_source": "email",
+      "status": "Track",
+      "funnel": "Top of Funnel",
+      "last_touch_at": "2026-05-05T14:39:50.825Z",
+      "last_touch_source": "attio",
       "next_steps": "Evaluate the strategic round details",
       "active_todos": []
     },
@@ -16,11 +16,11 @@
       "id": "cmohdibfo000ixkwktbqjrvgx",
       "company_name": "Agentix",
       "domain": "agentix.pro",
-      "status": "Partner Screening",
-      "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-29T17:51:27.316Z",
+      "status": "Track",
+      "funnel": "Pre-Funnel",
+      "last_touch_at": "2026-05-05T14:39:52.174Z",
       "last_touch_source": "attio",
-      "next_steps": "Reviewing deck, leaning towards pass",
+      "next_steps": "Still very very early. Track for next round",
       "active_todos": []
     },
     {
@@ -29,7 +29,7 @@
       "domain": "backline.ai",
       "status": "Initial Meetings",
       "funnel": "Top of Funnel",
-      "last_touch_at": "2026-04-16T15:29:44.535Z",
+      "last_touch_at": "2026-05-05T14:39:50.836Z",
       "last_touch_source": "attio",
       "next_steps": "Meeting scheduled for two weeks",
       "active_todos": []
@@ -40,8 +40,8 @@
       "domain": "blast.security",
       "status": "Partner Screening",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-29T17:51:27.296Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-05-04T17:00:00.000Z",
+      "last_touch_source": "calendar",
       "next_steps": "RC and DW meeting Founder",
       "active_todos": []
     },
@@ -60,9 +60,9 @@
       "id": "cmo1qm9mz000uxkb3hcclcmvb",
       "company_name": "Coffee AI",
       "domain": "coffee.ai",
-      "status": "Initial Meetings",
-      "funnel": "Top of Funnel",
-      "last_touch_at": "2026-04-16T17:12:46.136Z",
+      "status": "Track",
+      "funnel": "Pre-Funnel",
+      "last_touch_at": "2026-05-05T14:39:52.169Z",
       "last_touch_source": "attio",
       "next_steps": null,
       "active_todos": []
@@ -123,17 +123,6 @@
       "active_todos": []
     },
     {
-      "id": "cmnnapsnd0002xk69k1s10ck4",
-      "company_name": "Entro Security",
-      "domain": "entro.security",
-      "status": "Partner Screening",
-      "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-17T15:29:23.000Z",
-      "last_touch_source": "email",
-      "next_steps": "Currently raising a $40M Series B - $200M post",
-      "active_todos": []
-    },
-    {
       "id": "cmo03jxbt000hxkdkwru29ezh",
       "company_name": "Freeflow",
       "domain": "freeflow.ai",
@@ -181,11 +170,11 @@
       "id": "cmm2lrmkv0000xkwa95tu9115",
       "company_name": "Nametag",
       "domain": "getnametag.com",
-      "status": "Deep Diligence",
-      "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-13T19:01:12.750Z",
+      "status": "Track",
+      "funnel": "Pre-Funnel",
+      "last_touch_at": "2026-05-05T14:39:50.818Z",
       "last_touch_source": "attio",
-      "next_steps": "Flashed to SMBC; compiling customer feedback",
+      "next_steps": "Tracking - enough risks to stand down on Series A",
       "active_todos": []
     },
     {
@@ -200,23 +189,12 @@
       "active_todos": []
     },
     {
-      "id": "cmo96m3vo0046xkb3jfz18dgt",
-      "company_name": "Optery",
-      "domain": "optery.com",
-      "status": "Partner Meetings",
-      "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-28T14:44:27.383Z",
-      "last_touch_source": "attio",
-      "next_steps": "Had call with Logan - offered intros.",
-      "active_todos": []
-    },
-    {
       "id": "cmo03jxc0000jxkdkwgmrdwgy",
       "company_name": "Opti",
       "domain": "opti.ai",
       "status": "Deep Diligence",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-28T17:27:50.000Z",
+      "last_touch_at": "2026-05-05T00:29:52.000Z",
       "last_touch_source": "email",
       "next_steps": "Meeting with Logan on 4/21",
       "active_todos": []
@@ -255,25 +233,25 @@
       "active_todos": []
     },
     {
+      "id": "cmosq9nxf002pxkwk05g31oln",
+      "company_name": "Rein Security",
+      "domain": "reinsec.io",
+      "status": "Initial Meetings",
+      "funnel": "Top of Funnel",
+      "last_touch_at": "2026-05-05T14:32:40.034Z",
+      "last_touch_source": "attio",
+      "next_steps": null,
+      "active_todos": []
+    },
+    {
       "id": "cmo2yv5ax0013xkb39paudwz0",
       "company_name": "Sentra",
       "domain": "sentra.app",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-28T18:37:24.000Z",
+      "last_touch_at": "2026-05-04T06:39:00.000Z",
       "last_touch_source": "email",
       "next_steps": "Waiting for a lead - checking in on Apr 28",
-      "active_todos": []
-    },
-    {
-      "id": "cmokcq72g002axkwk8hsfbucj",
-      "company_name": "Spectrum",
-      "domain": "spectrum.security",
-      "status": "Partner Screening",
-      "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-29T17:51:27.304Z",
-      "last_touch_source": "attio",
-      "next_steps": null,
       "active_todos": []
     },
     {
@@ -302,10 +280,10 @@
       "id": "cmnnanp300000xk694j8hue9e",
       "company_name": "VanishID",
       "domain": "vanishid.com",
-      "status": "Partner Meetings",
+      "status": "Deep Diligence",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-28T22:36:38.000Z",
-      "last_touch_source": "email",
+      "last_touch_at": "2026-05-05T14:36:30.044Z",
+      "last_touch_source": "attio",
       "next_steps": "Review data room and discuss with the team",
       "active_todos": []
     },
