@@ -1,0 +1,62 @@
+{
+  "extracted_at": "2026-05-06T11:15:00.000Z",
+  "items": [
+    {
+      "deal_id": "cmoisd7dz001oxkwk89odc8v7",
+      "company_name": "Octane",
+      "title": "Follow up with Gio on remaining diligence question answers",
+      "context": "Email from gio@octane.security on May 6: 'See below for answers to half of the questions. Will get the rest done soon.' Gio answered questions on AI commoditization, differentiation, and architecture analysis but still owes remaining answers.",
+      "source": "email",
+      "source_date": "2026-05-06T04:40:17.000Z"
+    },
+    {
+      "deal_id": "cmnnanp300000xk694j8hue9e",
+      "company_name": "VanishID",
+      "title": "Discuss internally whether to preempt VanishID round",
+      "context": "Email from matt@vanishid.com on Apr 28: 'Are you interested in preempting?' Matt shared Q1 FY27 results — $1.17M new ARR (148% of forecast), ending ARR $5.92M, 125% YoY growth, NRR at 136%. Bullish insiders want 50%+ of the round.",
+      "source": "email",
+      "source_date": "2026-05-05T14:21:03.000Z"
+    },
+    {
+      "deal_id": "cmnnanp300000xk694j8hue9e",
+      "company_name": "VanishID",
+      "title": "Track VanishID lead investor search and term sheet timeline",
+      "context": "Email from matt@vanishid.com on May 1: 'I am focused on finding a lead and will keep you posted.' Derek expressed interest in participating as syndicate pending terms and a lead.",
+      "source": "email",
+      "source_date": "2026-05-05T14:21:03.000Z"
+    },
+    {
+      "deal_id": "cmng87irn000bxkx41sdn1c0w",
+      "company_name": "Aembit",
+      "title": "Prep for Aembit <> CTC meeting on May 14 at 4pm PT",
+      "context": "Email from kdiaz@aembit.io on May 1: confirmed meeting time of 4pm PT on May 14th with CTC (Takahashi). Aembit team was travelling and delayed responding.",
+      "source": "email",
+      "source_date": "2026-05-01T15:49:54.000Z"
+    },
+    {
+      "deal_id": "cmnxdypzd0003xkunqt2a8xv8",
+      "company_name": "IndyKite",
+      "title": "Prep for IndyKite <> Fin Capital meeting today (May 6 at 4:30pm ET)",
+      "context": "Calendar event 'Teams: Indy Kite <> Fin Capital' on May 6 at 4:30pm with Clare Liebenberg and Lasse Andresen from IndyKite, plus Matthew, Fan, Derek, and Jackie from Fin.",
+      "source": "calendar",
+      "source_date": "2026-05-06T20:30:00.000Z"
+    },
+    {
+      "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
+      "company_name": "Opti",
+      "title": "Monitor US Bank <> Opti intro progress for next Tuesday meeting",
+      "context": "Email from david.ridgway@usbank.com on May 5: 'Sent over an invite to connect next Tues. Looking forward to hearing more!' Derek introduced Barak Perelman (Opti CEO) to David Ridgway who leads US Bank's identity and security portfolio.",
+      "source": "email",
+      "source_date": "2026-05-05T12:45:45.000Z"
+    },
+    {
+      "deal_id": null,
+      "company_name": null,
+      "title": "Prep for coffee meeting with Evan Henley (Capital One)",
+      "context": "Calendar event 'Coffee' on May 6 at 11am ET with evan.henley@capitalone.com — location TBD. Strategic LP/network relationship.",
+      "source": "calendar",
+      "source_date": "2026-05-06T15:00:00.000Z"
+    }
+  ],
+  "errors": []
+}
