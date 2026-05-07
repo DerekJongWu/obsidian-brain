@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-05-07T15:03:07.547Z",
+  "exported_at": "2026-05-07T20:19:33.026Z",
   "deals": [
     {
       "id": "cmng87irn000bxkx41sdn1c0w",
@@ -38,11 +38,11 @@
       "id": "cmokcq7290028xkwkvy4yhde7",
       "company_name": "Blast Security",
       "domain": "blast.security",
-      "status": "Partner Screening",
+      "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-05-04T17:00:00.000Z",
-      "last_touch_source": "calendar",
-      "next_steps": "RC and DW meeting Founder",
+      "last_touch_at": "2026-05-07T20:19:33.005Z",
+      "last_touch_source": "attio",
+      "next_steps": "RC and DW had meeting with founder - currently raising",
       "active_todos": []
     },
     {
@@ -134,17 +134,6 @@
       "active_todos": []
     },
     {
-      "id": "cmo1qlxo0000rxkb3woyafgwk",
-      "company_name": "Huskeys",
-      "domain": "huskeys.io",
-      "status": "Partner Meetings",
-      "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-28T14:44:27.389Z",
-      "last_touch_source": "attio",
-      "next_steps": "Setting up meeting for Logan to meet CEO in SF",
-      "active_todos": []
-    },
-    {
       "id": "cmnxdypzd0003xkunqt2a8xv8",
       "company_name": "IndyKite",
       "domain": "indykite.ai",
@@ -205,7 +194,7 @@
       "domain": "overwatchdata.io",
       "status": "Deep Diligence",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-15T18:46:14.349Z",
+      "last_touch_at": "2026-05-07T20:19:33.007Z",
       "last_touch_source": "attio",
       "next_steps": "Kicking off Series A process- currently at ~$2.5M ARR + $4M+ in contract",
       "active_todos": []
@@ -216,9 +205,9 @@
       "domain": "prismlayer.ai",
       "status": "Partner Screening",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-29T17:51:27.301Z",
+      "last_touch_at": "2026-05-07T20:19:33.019Z",
       "last_touch_source": "attio",
-      "next_steps": null,
+      "next_steps": "Send note to LA - incl mention of Thoropass",
       "active_todos": []
     },
     {
@@ -252,6 +241,17 @@
       "last_touch_at": "2026-04-16T15:29:43.378Z",
       "last_touch_source": "attio",
       "next_steps": "Discuss with the team; Follow up for lead convos",
+      "active_todos": []
+    },
+    {
+      "id": "cmovxjgmw004kxkwkw8qfpw55",
+      "company_name": "Unknown",
+      "domain": "katharos.co",
+      "status": "Partner Screening",
+      "funnel": "Mid Funnel",
+      "last_touch_at": "2026-05-07T20:19:32.982Z",
+      "last_touch_source": "attio",
+      "next_steps": "Intro from a16z, setting up meeting",
       "active_todos": []
     },
     {
@@ -293,9 +293,9 @@
       "domain": "flowstate.inc",
       "status": "Partner Meetings",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-27T15:50:00.833Z",
+      "last_touch_at": "2026-05-07T20:19:33.016Z",
       "last_touch_source": "attio",
-      "next_steps": "Reviewed with MM; team to circle up",
+      "next_steps": "Jake to review material + map the market",
       "active_todos": []
     }
   ]
