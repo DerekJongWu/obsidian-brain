@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-05-05T14:40:15.136Z",
+  "exported_at": "2026-05-07T15:03:07.547Z",
   "deals": [
     {
       "id": "cmng87irn000bxkx41sdn1c0w",
@@ -7,8 +7,8 @@
       "domain": "aembit.io",
       "status": "Track",
       "funnel": "Top of Funnel",
-      "last_touch_at": "2026-05-05T14:39:50.825Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-05-07T08:14:04.000Z",
+      "last_touch_source": "email",
       "next_steps": "Evaluate the strategic round details",
       "active_todos": []
     },
@@ -156,17 +156,6 @@
       "active_todos": []
     },
     {
-      "id": "cmohdibfr000jxkwkzuqu6lh1",
-      "company_name": "Keyway",
-      "domain": "keyway.ai",
-      "status": "Partner Screening",
-      "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-27T15:50:00.806Z",
-      "last_touch_source": "attio",
-      "next_steps": "Doing more product validation work - Jake to run by a large bank CRE lender in his network",
-      "active_todos": []
-    },
-    {
       "id": "cmm2lrmkv0000xkwa95tu9115",
       "company_name": "Nametag",
       "domain": "getnametag.com",
@@ -183,7 +172,7 @@
       "domain": "octane.security",
       "status": "Partner Screening",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-29T04:54:28.000Z",
+      "last_touch_at": "2026-05-06T21:48:15.000Z",
       "last_touch_source": "email",
       "next_steps": null,
       "active_todos": []
@@ -194,9 +183,9 @@
       "domain": "opti.ai",
       "status": "Deep Diligence",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-05-05T00:29:52.000Z",
-      "last_touch_source": "email",
-      "next_steps": "Meeting with Logan on 4/21",
+      "last_touch_at": "2026-05-07T15:03:07.533Z",
+      "last_touch_source": "attio",
+      "next_steps": "Facilitating intros to P1 LPs, positioning for round",
       "active_todos": []
     },
     {
@@ -205,8 +194,8 @@
       "domain": "orchid.security",
       "status": "Partner Screening",
       "funnel": "Mid Funnel",
-      "last_touch_at": "2026-04-22T13:31:49.575Z",
-      "last_touch_source": "attio",
+      "last_touch_at": "2026-05-06T20:55:29.000Z",
+      "last_touch_source": "email",
       "next_steps": "Just kicked off a fundraising round",
       "active_todos": []
     },
