@@ -1,0 +1,70 @@
+{
+  "extracted_at": "2026-05-08T11:15:00.000Z",
+  "items": [
+    {
+      "deal_id": "cmoisd7dz001oxkwk89odc8v7",
+      "company_name": "Octane",
+      "title": "Draft IC extended email for Octane covering founder profile and cap table",
+      "context": "Email from Stephanie on May 6: 'Can you help me draft an email to IC extended in advance of the weekend. I want to get a feel for Logan's comfort with founder profile and cap table before doing too much.'",
+      "source": "email",
+      "source_date": "2026-05-06T21:48:15.000Z"
+    },
+    {
+      "deal_id": "cmoisd7dz001oxkwk89odc8v7",
+      "company_name": "Octane",
+      "title": "Assess Octane competitor landscape in detail",
+      "context": "Email from Stephanie on May 6: 'I've not assessed their competitors in much detail to assess how thorough their comp analysis is. Let me know what you think.'",
+      "source": "email",
+      "source_date": "2026-05-06T21:48:15.000Z"
+    },
+    {
+      "deal_id": "cmng9nvp3000oxk6jm9kfqsw8",
+      "company_name": "Orchid",
+      "title": "Follow up with Orchid on new term sheet updates after Roy's travel ends late May",
+      "context": "Email from Roy Katmor on May 6: 'We passed on a TS this week as the terms didn't align with our backers, but I'm expecting a few more to crop up in the coming weeks. Travel over the next two weeks will slow things down a bit.'",
+      "source": "email",
+      "source_date": "2026-05-06T20:55:29.000Z"
+    },
+    {
+      "deal_id": "cmnnanp300000xk694j8hue9e",
+      "company_name": "VanishID",
+      "title": "Discuss internally whether to preempt VanishID round given strong Q1 results",
+      "context": "Email from Matt Polak on Apr 28: 'Are you interested in preempting?' Q1 FY27 actuals: $1.17M new ARR (148% of forecast), ending ARR $5.92M, 125% YoY growth, 136% NRR. Matt says 'bullish insiders have asked for 50% or more of the round.'",
+      "source": "email",
+      "source_date": "2026-05-05T14:21:03.000Z"
+    },
+    {
+      "deal_id": "cmo2yv5ax0013xkb39paudwz0",
+      "company_name": "Sentra",
+      "title": "Ensure Ashwin sends Brian Sykes (NextEra) a booking link for post-vacation meeting",
+      "context": "Email from Brian Sykes (NextEra) on May 4: 'I'll be on vacation starting Tuesday but would be happy to chat once I'm back. Do you have a link where I can book time?'",
+      "source": "email",
+      "source_date": "2026-05-04T06:39:00.000Z"
+    },
+    {
+      "deal_id": "cmng87irn000bxkx41sdn1c0w",
+      "company_name": "Aembit",
+      "title": "Prep for Aembit <> CTC meeting on May 14 at 4pm PT",
+      "context": "Email thread on May 7 re: 'Aembit <> CTC' — meeting confirmed for May 14 at 4pm PT between Aembit (Katlyn Diaz) and CTC (Takahashi).",
+      "source": "email",
+      "source_date": "2026-05-07T08:14:04.000Z"
+    },
+    {
+      "deal_id": null,
+      "company_name": null,
+      "title": "Prep for Fin Capital & U.S. Bank Quarterly Leadership Call on May 11",
+      "context": "Calendar event 'Fin Capital & U.S. Bank | Quarterly Leadership Call' on May 11 at 3-4pm ET with 26+ attendees from both teams including senior leadership.",
+      "source": "calendar",
+      "source_date": "2026-05-11T19:00:00.000Z"
+    },
+    {
+      "deal_id": null,
+      "company_name": null,
+      "title": "Prep for GetReal & FinCapital Investor Briefing on May 11",
+      "context": "Calendar event 'GetReal & FinCapital | Investor Briefing' on May 11 at 1-2pm ET with GetReal leadership team (CEO Matt Moynahan, CSO Hany Farid, CRO Jim).",
+      "source": "calendar",
+      "source_date": "2026-05-11T17:00:00.000Z"
+    }
+  ],
+  "errors": []
+}
