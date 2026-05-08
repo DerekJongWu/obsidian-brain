@@ -1,3 +1,16 @@
+## 2026-05-07
+
+**Meetings synced:** 1
+
+- **Segmental AI** — 30 Mins Meeting between Fan + Derek and Jim Yuan
+  - Created: Company note (Segmental AI), Meeting summary, Transcript stub, Person: Jim Yuan
+  - Updated: —
+  - Errors: Granola summary listed Jim Yuan as "CTO"; Harmonic + LinkedIn show Founder & CEO since Jan 2026 — used Harmonic title and flagged in Deal Team Notes. Company referenced under both "Segmental" (canonical Harmonic record at segmental.ai) and "Fusionite" (fusionite.ai email domain on second attendee) — used "Segmental AI" as canonical filename per Harmonic.
+
+Note: 2 meetings found from 2026-05-07. The second ("30 Min Meeting between Derek Wu and Jason Garcia", attendee jason.ryan.garcia@gmail.com) was external by email but had no Granola summary and no company name in the title — skipped (no company could be extracted).
+
+---
+
 ## 2026-05-06
 
 **Meetings synced:** 0
