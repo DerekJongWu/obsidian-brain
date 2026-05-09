@@ -1,3 +1,30 @@
+## 2026-05-08
+
+**Meetings synced:** 5
+
+- **Vectorial AI** — Daria Davydenko and Rahul Garg
+  - Created: Company note (Vectorial AI), Meeting summary, Transcript stub, Person: Rahul Garg
+  - Updated: —
+- **Bauplan** — Daria Davydenko and Ciro Greco
+  - Created: Company note (Bauplan), Meeting summary, Transcript stub, Person: Ciro Greco
+  - Updated: —
+- **Polyguard** — Logan Allin and Joshua McKenty + Khadem Badiyan
+  - Created: Company note (Polyguard), Meeting summary, Transcript stub, Person: Joshua McKenty
+  - Updated: —
+  - Errors: Granola attendee list captured only Khadem Badiyan (CTO); Joshua McKenty (CEO per Harmonic) named in meeting title and used as primary founder note. Founder said fundraise timing was "July–August 2024" — likely a misstatement, flagged in company Next Steps to reconfirm.
+- **Reach Security** — Reach Security <> Fin Capital
+  - Created: Company note (Reach Security), Meeting summary, Transcript stub, Person: Garrett Hamilton
+  - Updated: —
+  - Errors: Granola did not generate an AI summary for this meeting — only competitive-landscape private notes captured. Meeting body is sparse; transcript needs manual paste. Company-level traction (ARR, customer count) not captured and flagged in company Next Steps.
+- **WealthReach** — Teams: Fin Capital <> WealthReach
+  - Created: Company note (WealthReach), Meeting summary, Transcript stub, Person: Michael Barrasso
+  - Updated: —
+  - Errors: Two non-@fin.capital attendees (Michael Barrasso, David DeCelle); used Michael as primary per Harmonic CEO designation despite the meeting summary describing him as "main technical co-founder." Third co-founder "Dan" mentioned in summary without surname — flagged in Next Steps.
+
+Note: All 5 meetings on 2026-05-08 had external attendees; none filtered as internal. Harmonic enrichment successful for all 5 companies (Vectorial AI, Bauplan, Polyguard, Reach Security, WealthReach).
+
+---
+
 ## 2026-05-07
 
 **Meetings synced:** 1
