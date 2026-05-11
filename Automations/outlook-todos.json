@@ -1,69 +1,53 @@
 {
-  "extracted_at": "2026-05-09T11:15:00.000Z",
+  "extracted_at": "2026-05-11T11:15:00.000Z",
   "items": [
     {
       "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
       "company_name": "Opti",
-      "title": "Schedule catch-up call with Barak Perelman this weekend",
-      "context": "Email from Richie on May 8: 'I wanted to reach out to see if you're free to catch up on Sunday or Monday? It would be great to touch base on process and share more about how we're thinking about partnership.'",
+      "title": "Follow up after Barak's meeting with David @ US Bank on Tuesday",
+      "context": "Email from barakp@opti.ai on May 10: 'BTW I'm meeting David @ US Bank on Tue Morning' — may surface customer interest or co-investment signal worth tracking.",
       "source": "email",
-      "source_date": "2026-05-08T19:16:30.000Z"
-    },
-    {
-      "deal_id": "cmoisd7dz001oxkwk89odc8v7",
-      "company_name": "Octane",
-      "title": "Get Logan's feedback on Octane founder profile and cap table",
-      "context": "Email from Derek on May 8 (IC-Extended draft): 'I want to get a feel for Logan's comfort with founder profile and cap table before doing too much.'",
-      "source": "email",
-      "source_date": "2026-05-08T18:15:44.000Z"
-    },
-    {
-      "deal_id": "cmoisd7dz001oxkwk89odc8v7",
-      "company_name": "Octane",
-      "title": "Complete competitor assessment for Octane",
-      "context": "Email from Stephanie on May 6: 'I've not assessed their competitors in much detail to assess how thorough their comp analysis is.'",
-      "source": "email",
-      "source_date": "2026-05-06T21:48:15.000Z"
-    },
-    {
-      "deal_id": "cmokcq72e0029xkwk4mn7zbgl",
-      "company_name": "Prism Layer",
-      "title": "Follow up with Prism Layer for seed deck next week",
-      "context": "Email from simone@prismlayer.ai on May 8: 'You'll be first on the list for our seed deck, which we'll have finished next week.'",
-      "source": "email",
-      "source_date": "2026-05-08T16:04:15.000Z"
-    },
-    {
-      "deal_id": "cmnnanp300000xk694j8hue9e",
-      "company_name": "VanishID",
-      "title": "Review updated slides from VanishID",
-      "context": "Email from matt@vanishid.com on May 5 sharing updated slides with Derek, cc'd Fan and Logan.",
-      "source": "email",
-      "source_date": "2026-05-05T14:21:03.000Z"
+      "source_date": "2026-05-11T01:48:03.000Z"
     },
     {
       "deal_id": "cmng9nvp3000oxk6jm9kfqsw8",
       "company_name": "Orchid",
-      "title": "Follow up with Roy on round status after his travel (~May 20)",
-      "context": "Email from roy@orchid.security on May 6: 'We passed on a TS this week... Travel over the next two weeks will slow things down a bit, but we're making good progress.'",
+      "title": "Check in with Roy Katmor on new term sheets around May 20",
+      "context": "Email from roy@orchid.security on May 6: 'We passed on a TS this week as the terms didn't align with our backers, but I'm expecting a few more to crop up in the coming weeks. Travel over the next two weeks will slow things down a bit.'",
       "source": "email",
       "source_date": "2026-05-06T20:55:29.000Z"
     },
     {
-      "deal_id": null,
-      "company_name": null,
-      "title": "Prep for U.S. Bank Quarterly Leadership Call on May 11",
-      "context": "Calendar event 'Fin Capital & U.S. Bank | Quarterly Leadership Call' on May 11 with 26 attendees from U.S. Bank and Fin Capital leadership.",
-      "source": "calendar",
-      "source_date": "2026-05-11T19:00:00.000Z"
+      "deal_id": "cmokcq72e0029xkwk4mn7zbgl",
+      "company_name": "Prism Layer",
+      "title": "Follow up on Prism Layer seed deck expected this week",
+      "context": "Email from simone@prismlayer.ai on May 8: 'You'll be first on the list for our seed deck, which we'll have finished next week.'",
+      "source": "email",
+      "source_date": "2026-05-08T16:00:38.000Z"
+    },
+    {
+      "deal_id": "cmnnanp300000xk694j8hue9e",
+      "company_name": "VanishID",
+      "title": "Monitor VanishID lead search progress and follow up on round terms",
+      "context": "Email from matt@vanishid.com on May 4: Q1 FY27 hit $1.17M new ARR (148% of forecast), ending ARR $5.92M. Matt said 'I am focused on finding a lead and will keep you posted.' Insiders asked for 50%+ of round.",
+      "source": "email",
+      "source_date": "2026-05-05T14:21:03.000Z"
+    },
+    {
+      "deal_id": "cmo2yv5ax0013xkb39paudwz0",
+      "company_name": "Sentra",
+      "title": "Check if Sentra and NextEra Energy connected after intro",
+      "context": "Email thread from May 4: Fan made intro between ashwin.gopinath@sentra.app and Brian.Sykes@nexteraenergy.com. Brian replied but no confirmation of meeting scheduled yet.",
+      "source": "email",
+      "source_date": "2026-05-04T06:39:00.000Z"
     },
     {
       "deal_id": null,
       "company_name": null,
-      "title": "Prep for GetReal Labs Investor Briefing on May 11",
-      "context": "Calendar event 'GetReal & FinCapital | Investor Briefing' on May 11 with GetReal Labs team (Matt Moynahan, Varun Kohli, Jim, Hany).",
+      "title": "Prep for Fin Capital & U.S. Bank Quarterly Leadership Call",
+      "context": "Calendar event 'Fin Capital & U.S. Bank | Quarterly Leadership Call' on May 11 at 3:00 PM ET with 18+ attendees from US Bank leadership including Dominic Venturo, Meghan Kober, and others.",
       "source": "calendar",
-      "source_date": "2026-05-11T17:00:00.000Z"
+      "source_date": "2026-05-11T19:00:00.000Z"
     }
   ],
   "errors": []
