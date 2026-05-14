@@ -1,3 +1,49 @@
+## 2026-05-13
+
+**Meetings synced:** 8
+
+- **Tenstorrent** — Fin Capital <> Tenstorrent
+  - Created: Company note (Tenstorrent), Meeting summary, Transcript stub, Person: Walker Stamps
+  - Updated: —
+  - Errors: Tenstorrent is a portfolio-stage company (Series D, $1B+ raised, Fidelity-led $300M convertible in progress) but task instructions require status="sourcing" for new company notes — used "sourcing" per instructions. None of the meeting's external attendees (Walker Stamps, Bob Grim, Isaac Salameh) are founders or CEO in Harmonic; created person note for Walker Stamps as primary external attendee with role left blank.
+
+- **SuperNet AI** — Daria Davydenko and Juan Bruce + Ethan J SuperNet AI
+  - Created: Company note (SuperNet AI), Meeting summary, Transcript stub, Person: Juan Bruce, Person: Ethan Joffe (referenced in body wikilinks)
+  - Updated: —
+
+- **Graphon AI** — Fin Capital / Graphon AI
+  - Created: Company note (Graphon AI), Meeting summary, Transcript stub, Person: Arbaaz Khan (Founder/CEO), Person: Deepak Mishra (Cofounder/COO)
+  - Updated: —
+
+- **GhostEye** — Teams: Fin Capital <> Ghosteye
+  - Created: Company note (GhostEye), Meeting summary, Transcript stub, Person: Mohammad Eshan
+  - Updated: —
+  - Errors: Granola title used "Ghosteye"; Harmonic canonical name is "GhostEye" — used GhostEye for note filename.
+
+- **Hub.xyz** — stephanie perez and Armin K Hub - Hub.xyz
+  - Created: Company note (Hub.xyz), Meeting summary, Transcript stub, Person: Armin Hub
+  - Updated: —
+  - Errors: Meeting attendee listed as "Armin Hub <zastra@hub.xyz>"; Harmonic record shows "Armin K." as co-founder with LinkedIn slug armin-k-3439033ab. Used "Armin Hub" as person filename to match attendee identifier.
+
+- **Forestrat** — Teams: Fin Capital <> Forestrat
+  - Created: Company note (Forestrat), Meeting summary, Transcript stub, Person: Anand Chavan
+  - Updated: —
+  - Errors: Granola meeting summary names a "Jake Fuchs" as a Forestrat co-founder with 30 years of quant-trading experience — distinct from Fin Capital's Jake Fuchs (Fin partner / meeting attendee). Flagged in Deal Team Notes; naming overlap to be confirmed.
+
+- **Onit Security** — 30 min with Elad (Jake Fuchs) Onit Security
+  - Created: Company note (Onit Security), Meeting summary, Transcript stub, Person: Elad Ben Meir
+  - Updated: —
+  - Errors: Granola summary renders CEO name as "Elad Gil"; Harmonic + email elad@onit.security confirm Elad Ben Meir. Granola also rendered "SCADAfence" as "Skate Defense" and "Portnox" as "Port Knox". All flagged in note.
+
+- **Felix** — Teams: Jake / Tomas
+  - Created: Company note (Felix), Meeting summary, Transcript stub, Person: Tomas Scavnicky
+  - Updated: —
+  - Errors: Harmonic Felix company record lists only Mato Vetrak as co-founder; meeting attendee Tomas Scavnicky is described as a co-founder in the Granola summary. Tomas's Harmonic profile (as "Stealth Company") confirms co-founder status starting March 2025 (matches Felix founding date).
+
+Note: All 8 of yesterday's meetings had at least one non-@fin.capital attendee, so all 8 were treated as external and processed. No meetings were filtered as internal-only.
+
+---
+
 ## 2026-05-07
 
 **Meetings synced:** 1
