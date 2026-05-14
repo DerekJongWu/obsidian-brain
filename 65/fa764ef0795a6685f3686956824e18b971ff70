@@ -1,0 +1,25 @@
+Companies/Huskeys.md
+  ai_agent 1-105
+"Meetings/Huskeys - 2026-04-16 Summary.md"
+  ai_agent 1-56
+"People/Stephen Nolan.md"
+  ai_agent 1-44
+"Meetings/DBGorilla - 2026-04-16 Summary.md"
+  ai_agent 1-56
+"People/Itai Gafni.md"
+  ai_agent 1-44
+Companies/DBGorilla.md
+  ai_agent 1-100
+"Transcripts/DBGorilla - 2026-04-16 Transcript.md"
+  ai_agent 1-17
+"Transcripts/Huskeys - 2026-04-16 Transcript.md"
+  ai_agent 4-6,12,14
+"People/Chris Lalonde.md"
+  ai_agent 1-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "65fa764ef0795a6685f3686956824e18b971ff70",
+  "prompts": {}
+}
