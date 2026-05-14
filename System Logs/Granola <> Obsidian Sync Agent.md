@@ -1,3 +1,20 @@
+## 2026-05-11
+
+**Meetings synced:** 3
+
+- **Eclypsium** — Eclypsium <> Fin Capital
+  - Created: Company note (Eclypsium), Meeting summary, Transcript stub, Person: Yuriy Bulygin
+  - Updated: —
+- **Guard0** — 30 Min Meeting between Derek Wu and Jayesh Ahire
+  - Created: Company note (Guard0), Meeting summary, Transcript stub, Person: Jayesh Ahire
+  - Updated: —
+- **U.S. Bank** — Fin Capital & U.S. Bank | Quarterly Leadership Call
+  - Created: Company note (U.S. Bank), Meeting summary, Transcript stub, Person: Dominic Venturo
+  - Updated: —
+  - Errors: Not a founder meeting — this is a quarterly LP leadership call with ~20 U.S. Bank attendees focused on AI cyber + fraud themes; processed per filter rule (external attendees present) but classified as LP relationship rather than deal flow. U.S. Bank set to status "monitoring"; primary contact Dominic Venturo (Sr. EVP & Chief Digital Officer) chosen as most senior bank participant — no founder/CEO exists for this entity. Harmonic typeahead search for "Guard Zero" returned no results; resolved via website_domain lookup (guard0.ai → "Guard0") and canonical filename uses Harmonic name "Guard0".
+
+---
+
 ## 2026-05-09
 
 **Meetings synced:** 0
