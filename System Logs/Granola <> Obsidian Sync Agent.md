@@ -1,3 +1,28 @@
+## 2026-05-12
+
+**Meetings synced:** 4
+
+- **Primitive** — 30 Min Meeting between Derek Wu and derek white
+  - Created: Company note (Primitive), Meeting summary, Transcript stub, Person: Derek White
+  - Updated: —
+  - Errors: Granola did not generate an AI summary for this meeting; meeting summary note flags this and lists Harmonic-derived company context for manual follow-up
+- **Veris** — 30 Min chat between Derek + Daria and Andi Partovi
+  - Created: Company note (Veris), Meeting summary, Transcript stub, Person: Andi Partovi
+  - Updated: —
+  - Errors: Funding discrepancy noted in company Financing section — Granola summary cites $10.5M Series A (Crew Capital, Susa Ventures); Harmonic records show $8.5M Seed (June 2025) from Decibel, House Fund, Acrew, Rocket Money + angels. Both kept with date annotations for diligence verification.
+- **Common Defense** — Teams: Fin Capital <> Common Defense
+  - Created: Company note (Common Defense), Meeting summary, Transcript stub, Person: Richard Ma (CEO)
+  - Updated: —
+  - Errors: Krishna Sriram (Co-Founder) was also a meeting attendee; only the primary CEO (Richard Ma) was created per task spec, with Krishna listed in the company Team table and meeting attendees.
+- **Mindgard** — Teams: Fin Capital <> Mindgard Ai
+  - Created: Company note (Mindgard), Meeting summary, Transcript stub, Person: James Brear (CEO since Sept 2025)
+  - Updated: —
+  - Errors: Funding figures vary between Granola ($8M at $28M post, 406 Ventures lead) and Harmonic ($11.77M cumulative across 2 rounds with 8 investors); both kept in Financing table for transparency. Witness AI conflict flagged in Deal Team Notes.
+
+Note: All 4 Granola meetings on 2026-05-12 had at least one external (non-@fin.capital) attendee; none filtered as internal. Harmonic enrichment successful for all 4 companies.
+
+---
+
 ## 2026-05-11
 
 **Meetings synced:** 3
