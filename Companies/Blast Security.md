@@ -14,7 +14,7 @@ pitchbook: "https://pitchbook.com/profiles/company/791786-71"
 deck_link:
 data_room:
 lighthouse_link:
-last_touch: 2026-05-04
+last_touch: 2026-05-14
 created: 2026-05-04
 tags:
   - company
@@ -55,6 +55,16 @@ tags:
 - **Problem:** Existing cloud security stacks (CSPM, CNAPP, posture management) are reactive — they detect misconfigurations and risks after the fact, leaving 85–90% of preventable security gaps to be patched downstream by overstretched security teams.
 - **Product:** Preemptive cloud security platform that programs cloud-native guardrails (AWS resource control policies, service control policies, KMS key policies; Azure / Kubernetes equivalents) using AI-generated security policies. Integrates with existing tools (Orca, Palo Alto, Wiz, Upwind) instead of replacing them. Covers infrastructure security and AI/agentic workloads (Bedrock, SageMaker guardrails).
 - **Wedge / entry point:** Sit alongside existing CSPM/CNAPP deployments and turn detected risks into enforced cloud-native controls — addresses ~85–90% of security gaps via prevention.
+- **Product capabilities (as of 2026-05-14, from demo):**
+  - Generates guardrails based on existing infrastructure/services with defense-coverage % across organization units
+  - Four enforcement methods: console, Terraform PR, direct deployment, Jira tickets
+  - Operational impact simulation analyzes 6+ months of CloudTrail / log data to show historical effect of a proposed guardrail; auto-exclusions for Blast collector, manual exclusion rules with expiration
+  - Multi-cloud (10 of 12 accounts monitored in demo environment)
+  - Fetches violations from existing tools (e.g., Wiz, Upwind, Palo Alto) and maps guardrails to close ~200 Wiz violations with few clicks
+  - Threat landscape coverage grouped by risk (ransomware, lateral movement, privilege escalation); MITRE ATT&CK framework mapping; coverage measurement for active threat campaigns
+- **Concrete guardrail examples (as of 2026-05-14):**
+  - Prevent S3 uploads with customer-provided encryption keys → stops ransomware attacks that encrypt data with external keys (53% defense coverage shown across partial enforcement)
+  - Prevent AWS accounts from leaving organization — zero violations detected today but critical severity (could result in complete environment loss if exploited)
 
 ---
 
@@ -66,6 +76,7 @@ tags:
   - Preemptive (prevention via cloud-native guardrails) vs. reactive detection
   - Integrates with — rather than replaces — existing CSPM/CNAPP tools, lowering rip-and-replace risk
   - Coverage extends to AI/agentic workloads (Bedrock, SageMaker guardrails)
+- **Positioning sharpened (as of 2026-05-14):** Not exposure/vulnerability management — prevention platform. Makes cloud environments preventative through efficient guardrail deployment. Targets orgs moving beyond remediation cycles; continuous defense platform vs. manual months-long implementations.
 
 ---
 
@@ -112,6 +123,7 @@ tags:
 - Prior exit (Solebit → Mimecast): $10M ARR, customers including Cisco and Akamai
 - Potential partnership angle via Fin's financial-services LP network (BlackStone, Citigroup, US Bank, MetLife)
 - Adjacent Fin portfolio context: Witness AI (agentic security), Symphony (Sequoia-backed, confidential)
+- 2026-05-14 product demo with [[Boris Vaynberg]] (CEO); Derek Wu and [[Richie Chaikof]] on Fin side. See [[Blast Security - 2026-05-14 Summary]]. Demo walked through guardrail authoring, operational-impact simulation, Wiz violation mapping, and MITRE ATT&CK coverage view.
 
 ---
 
@@ -128,7 +140,9 @@ SORT date DESC
 
 ## Next Steps
 
-- [ ] Schedule product demo this week
+- [x] Product demo completed 2026-05-14
 - [ ] Boris to send off-the-shelf diligence materials
 - [ ] Evaluate partnership fit against Fin's financial-services LP base (CISO intros)
 - [ ] Map competitive overlap vs. [[Witness AI]] and Symphony in agentic-security pillar
+- [ ] Drill into 6-competitor landscape — which are pre-product vs. shipping?
+- [ ] Validate Wiz / Upwind / Palo Alto integration paths (channel + co-sell potential)

@@ -1,3 +1,28 @@
+## 2026-05-14
+
+**Meetings synced:** 3
+
+- **Dome Systems** — Dome Systems <> Fin Capital
+  - Created: Company note (Dome Systems), Meeting summary, Transcript stub, Person: David McJannet (Co-Founder & CEO)
+  - Updated: —
+  - Errors: Granola summary renders the founder name as "David McJ" — resolved via attendee email davemcj@domesystems.ai and Harmonic LinkedIn lookup (linkedin.com/in/dmcjannet) to canonical "David McJannet" (former HashiCorp CEO). Harmonic surfaces Marc Holmes (former HashiCorp CMO) as a co-founder; added to Team table though he was not on the call.
+
+- **Reach Security** — [ZOOM] Follow-up: Reach Security <> Fin Capital
+  - Created: Meeting summary (2026-05-14), Transcript stub
+  - Updated: Reach Security company note (last_touch → 2026-05-14, Market & Competition with 2026-05-14 buyer/differentiator detail, GTM & Business Model with four-channel breakdown + buyer personas + customer examples + FedRAMP/DOD timing, Traction with ARR ~$5M / 28–29 customers / $15–16M EOY forecast / FS customer list / Palo Alto office, Financing with Ballistic-led Series A row + current round details, Deal Team Notes with 2026-05-14 follow-up entry, Next Steps with ARR/customer item closed and new partner-meeting + FedRAMP diligence items); Garrett Hamilton person note (last_contact, Relationship Notes)
+
+- **Blast Security** — Teams: Fin Capital <> Blast Security
+  - Created: Meeting summary (2026-05-14), Transcript stub
+  - Updated: Blast Security company note (last_touch → 2026-05-14, Business Description with 2026-05-14 product capabilities + concrete guardrail examples, Market & Competition with sharpened positioning note, Deal Team Notes with 2026-05-14 demo entry, Next Steps — demo task closed, two new diligence items added); Boris Vaynberg person note (last_contact, Relationship Notes)
+
+Note: 5 Granola meetings on 2026-05-14; all 5 had at least one non-@fin.capital attendee, so none filtered as internal. Two were not processed as founder meetings:
+- "30 Min chat between Derek + Daria and Jason Sun" (jasonsun@stanford.edu) — Stanford founder pre-company (compute allocation marketplace, $1.5M pre-seed); no company name extractable from title or summary. Skipped — could not assign a company filename.
+- "Todd (M12) <> Fan/Derek (Fin Capital)" (todd@m12.vc) — VC-to-VC catch-up with M12 (Microsoft's Venture Fund); no Granola summary generated; not a founder meeting. Skipped — no portfolio-pipeline content to capture.
+
+Harmonic enrichment successful for Dome Systems (canonical record matched via domesystems.ai) and David McJannet (resolved via LinkedIn slug dmcjannet). No retries required.
+
+---
+
 ## 2026-05-13
 
 **Meetings synced:** 8

@@ -6,7 +6,7 @@ linkedin: https://linkedin.com/in/vaynberg
 email: borisv@blast.security
 location:
 relationship:
-last_contact: 2026-05-04
+last_contact: 2026-05-14
 created: 2026-05-04
 tags:
   - person
@@ -38,6 +38,7 @@ tags:
 - Met via intro call on 2026-05-04 with [[Derek Wu]] and [[Richie Chaikof]] from Fin
 - Repeat security operator; previously sold Solebit to Mimecast
 - Founding team (Boris, Roi Panai, Ido Bukra) has worked together 11+ years, including 9 months of IDF reserve duty post-Oct 7
+- 2026-05-14 product demo with [[Derek Wu]] and [[Richie Chaikof]] (Fin) over Teams — see [[Blast Security - 2026-05-14 Summary]]. Walked through guardrail authoring, operational-impact simulation, Wiz violation mapping, MITRE ATT&CK coverage view.
 
 ---
 
