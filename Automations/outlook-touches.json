@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-05-15T11:15:00.000Z",
+  "synced_at": "2026-05-16T11:15:00.000Z",
   "results": [
     {
       "deal_id": "cmng87irn000bxkx41sdn1c0w",
       "company_name": "Aembit",
-      "outlook_touch_at": "2026-05-15T00:17:21.000Z",
+      "outlook_touch_at": "2026-05-15T18:54:57.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2026-05-15T00:17:21.000Z",
-      "calendar_touch_at": null
+      "email_touch_at": "2026-05-15T18:54:57.000Z",
+      "calendar_touch_at": "2026-03-23T21:30:00.000Z"
     },
     {
       "deal_id": "cmohdibfo000ixkwktbqjrvgx",
@@ -18,12 +18,28 @@
       "calendar_touch_at": null
     },
     {
+      "deal_id": "cmng87is5000oxkx4e1efggx1",
+      "company_name": "Backline AI",
+      "outlook_touch_at": "2026-04-20T20:24:26.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-20T20:24:26.000Z",
+      "calendar_touch_at": null
+    },
+    {
       "deal_id": "cmokcq7290028xkwkvy4yhde7",
       "company_name": "Blast Security",
       "outlook_touch_at": "2026-05-14T13:30:00.000Z",
       "outlook_touch_source": "calendar",
-      "email_touch_at": null,
+      "email_touch_at": "2026-05-11T19:58:37.000Z",
       "calendar_touch_at": "2026-05-14T13:30:00.000Z"
+    },
+    {
+      "deal_id": "cmo1qm9mz000uxkb3hcclcmvb",
+      "company_name": "Coffee AI",
+      "outlook_touch_at": "2026-04-15T19:33:18.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-15T19:33:18.000Z",
+      "calendar_touch_at": null
     },
     {
       "deal_id": "cmnghs8he0006xkl5p238qtdx",
@@ -71,7 +87,7 @@
       "outlook_touch_at": "2026-05-13T14:58:19.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-05-13T14:58:19.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-04-09T19:00:00.000Z"
     },
     {
       "deal_id": "cmoisd7dz001oxkwk89odc8v7",
@@ -84,10 +100,10 @@
     {
       "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
       "company_name": "Opti",
-      "outlook_touch_at": "2026-05-11T17:30:00.000Z",
-      "outlook_touch_source": "calendar",
-      "email_touch_at": "2026-05-11T01:48:03.000Z",
-      "calendar_touch_at": "2026-05-11T17:30:00.000Z"
+      "outlook_touch_at": "2026-05-16T02:22:44.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-05-16T02:22:44.000Z",
+      "calendar_touch_at": null
     },
     {
       "deal_id": "cmng9nvp3000oxk6jm9kfqsw8",
@@ -95,7 +111,7 @@
       "outlook_touch_at": "2026-05-06T20:55:29.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-05-06T20:55:29.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-03-30T18:00:00.000Z"
     },
     {
       "deal_id": "cmng87is1000kxkx4kxmnpgp0",
@@ -103,14 +119,14 @@
       "outlook_touch_at": "2026-04-02T12:42:25.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-04-02T12:42:25.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-03-27T18:00:00.000Z"
     },
     {
       "deal_id": "cmokcq72e0029xkwk4mn7zbgl",
       "company_name": "Prism Layer",
-      "outlook_touch_at": "2026-05-11T18:11:43.000Z",
+      "outlook_touch_at": "2026-05-15T16:27:03.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2026-05-11T18:11:43.000Z",
+      "email_touch_at": "2026-05-15T16:27:03.000Z",
       "calendar_touch_at": null
     },
     {
@@ -127,7 +143,7 @@
       "outlook_touch_at": "2026-05-04T06:39:00.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-05-04T06:39:00.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-04-21T18:00:00.000Z"
     },
     {
       "deal_id": "cmng87irz000ixkx4upfk5cmd",
@@ -143,7 +159,7 @@
       "outlook_touch_at": "2026-05-05T14:21:03.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-05-05T14:21:03.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-04-06T18:00:00.000Z"
     },
     {
       "deal_id": "cmnnhgazs000rxky8z7ggqsnd",
@@ -163,7 +179,6 @@
     }
   ],
   "errors": [
-    "Calendar search rate-limited (HTTP 429) for initial batch queries — calendar signals may be incomplete for some deals",
-    "Calendar search timed out for Aembit query"
+    "Calendar queries throttled (HTTP 429) for initial batch — retried successfully for subset of deals; some deals may be missing calendar signal"
   ]
 }
