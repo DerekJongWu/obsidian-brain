@@ -1,3 +1,19 @@
+## 2026-05-15
+
+**Meetings synced:** 1
+
+- **Noah Labs** — 30 Min chat between Derek + Daria and Murat Isik
+  - Created: Company note (Noah Labs), Meeting summary, Transcript stub, Person: Murat Isik (Founder)
+  - Updated: —
+  - Errors: Granola summary says "Murat Isik (PhD Electrical Engineering, Stanford)"; Harmonic record shows PhD candidate at Drexel University + Stanford Research Scholar (2023–2026). Both noted in person background and flagged in company Next Steps to confirm with founder. Harmonic location "Alto, California" normalized to "Palo Alto, CA". Founder filename uses meeting attendee form "Murat Isik" rather than Harmonic canonical "Murat Can Işık".
+
+Note: 2 Granola meetings on 2026-05-15; both had non-@fin.capital attendees so neither filtered as internal. Only 1 processed as a founder meeting:
+- "Video | Davis (Innovation Endeavors) <> Fin Capital" (davis@innovationendeavors.com) — VC-to-VC catch-up where Davis (Innovation Endeavors partner) shared his thesis and intel on Bowplan (his seed-stage portfolio company, $6M raised, data-branching OLAP platform). Davis is not a founder/CEO of a sourceable company; Innovation Endeavors is a VC firm, not a deal-flow company. Skipped per "founder meetings" task scope. Substantive Bowplan intel (Snowflake-workload migration anecdote, $10–20B outcome thesis, technical moat analysis) available in Granola for manual addition to the existing [[Bauplan]] note if desired — note that the spelling "Bowplan" in this summary may be a Granola rendering of "Bauplan" (existing portfolio note at Companies/Bauplan.md).
+
+Harmonic enrichment successful for Noah Labs (matched via noahlabs.ai domain) and founder Murat Isik. No retries required.
+
+---
+
 ## 2026-05-14
 
 **Meetings synced:** 3
