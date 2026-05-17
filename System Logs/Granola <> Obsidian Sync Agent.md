@@ -1,3 +1,16 @@
+## 2026-05-16
+
+**Meetings synced:** 1
+
+- **Lightfield** — Lightfield <> Fin Capital
+  - Created: Company note (Lightfield), Meeting summary, Transcript stub, Person: Yi Li (Chief of Staff)
+  - Updated: —
+  - Errors: No founder/CEO on the call — Yi Li (Chief of Staff, yi@lightfield.app) was the only non-@fin.capital attendee, so she was the primary external contact and got the person note. Lightfield's four co-founders (Keith Peiris, Henri Liriani, Pete Nichols, Jack Reed — the ex-Tome team per Harmonic) are listed in the company Team table but no person notes created for them since they were not on the call. Keith Peiris flagged as the likely CEO based on prior Tome CEO role, but not confirmed in Granola — added to Next Steps to verify. Harmonic shows $0 in tracked funding rounds for Lightfield but lists Greylock Partners, Coatue Management, and Chapter One as investors; Granola summary captured the active $25–30M Series A at $200M post-money preempted by Maverick Ventures — both reflected in the Financing section.
+
+Harmonic enrichment successful for Lightfield (matched via lightfield.app domain) and Yi Li (matched via user-connection record). No retries required.
+
+---
+
 ## 2026-05-15
 
 **Meetings synced:** 1
