@@ -1,3 +1,11 @@
+## 2026-05-17
+
+**Meetings synced:** 0
+
+- **No external meetings found**
+
+---
+
 ## 2026-05-16
 
 **Meetings synced:** 1
