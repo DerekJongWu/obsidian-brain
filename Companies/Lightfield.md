@@ -14,7 +14,7 @@ pitchbook:
 deck_link:
 data_room:
 lighthouse_link:
-last_touch: 2026-05-16
+last_touch: 2026-05-18
 created: 2026-05-16
 tags:
   - company
@@ -46,7 +46,7 @@ tags:
 
 | Role | Person | Background |
 |------|--------|------------|
-| Co-Founder (likely CEO) | Keith Peiris | Co-Founder & CEO at Tome (2020–Apr 2025); Greylock EIR; Head of Product at Citizen; Product Lead, Messaging & Camera AR at Instagram; PM Manager at Facebook; BASc University of Waterloo |
+| Co-Founder (likely CEO) | [[Keith Peiris]] | Co-Founder & CEO at Tome (2020–Apr 2025); Greylock EIR; Head of Product at Citizen; Product Lead, Messaging & Camera AR at Instagram; PM Manager at Facebook; BASc University of Waterloo |
 | Co-Founder, CPO | Henri Liriani | Co-Founder/CPO at Tome (2020–present, overlapping); Head of Product, Messenger Human Interfaces at Facebook; Product Design Manager at Facebook Messenger Business; Co-Founder Craaave; Boston College |
 | Co-Founder & VP, Engineering | Pete Nichols | VP Engineering at Tome (2023–2025); SVP Engineering at Divvy Homes; Head of Pinterest Developer Platform / Core Product Engineering / Core Experience at Pinterest; multiple EA executive roles; B.S. CS Stanford |
 | Founder, Engineering | Jack Reed | Principal Engineer at Tome (2021–2025); SWE at Stanford University (2014–2021); MS Georgia Tech |
@@ -96,6 +96,8 @@ tags:
 ## Traction
 
 - **ARR (as of 2026-05-16):** $1M, targeting $1.5M by end of May 2026
+- **ARR (as of 2026-05-18):** $1.25M current; 84% growth last month, targeting 90% this month
+- **Year-end ARR forecast (as of 2026-05-18):** $9.3M
 - **Customers (as of 2026-05-16):** ~900 active companies; 500–600 monthly signups; largest single customer is 50–100 sales reps
 - **Pipeline Generation Agents (as of 2026-05-16):** 10–12 paying customers at $20–25K ACV
 - **Headcount (per Harmonic, as of 2026-05-16):** 35 — Eng 12, Sales 3, Marketing 3, Design 3, People 3, Ops 5, Data 2, Product 1, Other 5
@@ -107,7 +109,9 @@ tags:
 | Date | Round | Amount | Investors |
 |------|-------|--------|-----------|
 | Prior | Seed / early (per Harmonic investor list) | — | Greylock Partners, Coatue Management, Chapter One |
-| In progress (May 2026) | Series A | $25–30M at **$200M post-money** | **Lead: Maverick Ventures (Ryan, ex-Felicis)** |
+| Prior — Tome (per Granola, as of 2026-05-18) | Cumulative across Tome (predecessor co.) | $81M (~half spent on Tome, converted to common) | Lightfield spend stays as preferred |
+| In progress (May 2026, as of 2026-05-16) | Series A | $25–30M at **$200M post-money** | **Lead: Maverick Ventures (Ryan, ex-Felicis)** |
+| In progress (May 2026, as of 2026-05-18) | Series A — refined structure | **$30M at $200M post-money** | **Lead: Maverick ($15M, Ryan joining board); Insiders $5M (Greylock, Kleiner, K2 committed; Lightspeed pending); $10M remaining for strategics** |
 
 **Current round (as of 2026-05-16):**
 - Preempted ~1 month ago; term sheet from Maverick Ventures already in hand
@@ -115,6 +119,14 @@ tags:
 - ~$5–7M allocation remaining for additional investors
 - Target close: sign lead + fill round by end of next week (~2026-05-22 to 2026-05-29 window)
 - Fin: 90% confidence on investment interest after this call
+
+**Current round (as of 2026-05-18):**
+- Confirmed structure: $30M total at $200M post-money
+- **Maverick leading with ~$15M; Ryan joining the board**
+- **Insiders contributing $5M:** Greylock, Kleiner, K2 committed; Lightspeed pending
+- **$10M remaining for strategics** — allocation pool slightly larger than the 2026-05-16 read of $5–7M
+- **Board composition:** Ryan (Maverick) + Dan Rose (K2, common seat)
+- Granola summary also flagged competitive dynamics with Monaco (wedge-first AI CRM losing customers at scale), a Sequoia-backed graph-DB-based AI CRM (too slow), and Revo (Kleiner, $4M/month burn, "mile wide / inch deep")
 
 ---
 
@@ -125,6 +137,10 @@ tags:
 - Founding team is the ex-Tome team (Keith Peiris, Henri Liriani, Pete Nichols, Jack Reed) — Tome was the AI-native presentations company; Keith and Henri overlap as Tome co-founders. CEO designation not explicitly confirmed in Granola summary; Keith Peiris is the likeliest CEO based on prior Tome CEO role.
 - Yi Li (Chief of Staff) is the day-to-day contact and Fan's LinkedIn connection.
 - Investor signal: Greylock, Coatue, and Chapter One on the cap table per Harmonic — strong AI/consumer DNA.
+- 2026-05-18: Second Granola-captured call. Fin side: Logan Allin, Claire Beale, Fan Wen, [[Derek Wu]]. Lightfield side: [[Keith Peiris]] (Co-Founder) and [[Yi Li]] (Chief of Staff). Keith confirmed as the lead founder voice in this call — pitched the structured round (Maverick $15M lead + $5M insiders + $10M strategics) and board composition (Ryan + Dan Rose). Created [[Keith Peiris]] person note. See [[Lightfield - 2026-05-18 Summary]].
+- 2026-05-18: New competitive intel — Monaco (wedge-first AI CRM, losing customers at scale), Sequoia-backed graph-DB AI CRM (too slow), Revo (Kleiner-backed, $4M/month burn, "mile wide/inch deep"). Lightfield's positioning vs each is captured in the meeting summary.
+- 2026-05-18: ARR moved $1M → $1.25M (Mar→May); 84% MoM growth last month, target 90% this month, year-end forecast $9.3M.
+- 2026-05-18: Tome $81M raise referenced — ~half spent on Tome (converted to common); Lightfield spend remains as preferred. Important cap-table detail for diligence.
 
 ---
 
@@ -141,10 +157,13 @@ SORT date DESC
 
 ## Next Steps
 
-- [ ] Fan to present initial memo to IC Monday (2026-05-18)
+- [x] Fan to present initial memo to IC Monday (2026-05-18) — call held 2026-05-18 with Keith and Yi
 - [ ] Partner meeting setup for Tuesday/Wednesday next week
 - [ ] Request data room access for diligence
 - [ ] Lightfield to provide operating model / revenue forecasting
 - [ ] Confirm CEO designation among the four co-founders (Keith Peiris likely)
 - [ ] Reference checks: ex-Tome team operators, Greylock (prior investor), early customers (Intent, Distill, Commercial)
 - [ ] Diligence the migration-agent claim end-to-end (CSV → data model → dedupe in ~1 hour)
+- [ ] Confirm $10M strategics allocation status (as of 2026-05-18) — Fin allocation window
+- [ ] Confirm Lightspeed insider participation status (committed → pending decision)
+- [ ] Diligence competitive claims re Monaco, Sequoia-backed graph-DB CRM, Revo

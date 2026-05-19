@@ -1,3 +1,36 @@
+## 2026-05-18
+
+**Meetings synced:** 5
+
+- **Lightfield** — Zoom | Lightfield <> Fin Capital
+  - Created: Meeting summary (2026-05-18), Transcript stub, Person: Keith Peiris (Co-Founder)
+  - Updated: Lightfield company note (last_touch → 2026-05-18; Team table wikilink for Keith Peiris; Traction with 2026-05-18 ARR $1.25M / 84% MoM growth / $9.3M year-end forecast; Financing with 2026-05-18 refined round structure row ($30M at $200M post — Maverick $15M lead / Ryan to board / Insiders $5M / $10M for strategics / Lightspeed pending) + Tome $81M precedent; Deal Team Notes with 2026-05-18 entry, board composition, competitive intel on Monaco/Sequoia-graph-CRM/Revo, and Tome→Lightfield preferred-vs-common cap table note; Next Steps with 2026-05-16 IC item closed and 3 new diligence items); Yi Li person note (last_contact → 2026-05-18, relationship + Relationship Notes for 2026-05-18 follow-up)
+  - Errors: Keith Peiris was not on the 2026-05-16 call but was on this one — promoted from plain-text to person note. Granola summary referenced "Epsilon" exit but that was Harmony's founders, not Lightfield's — flagged in Harmony notes only.
+
+- **Kindo** — FinCap <> Kindo
+  - Created: Company note (Kindo), Meeting summary, Transcript stub, Person: Ron Williams (CEO & Founder)
+  - Updated: —
+  - Errors: Granola summary referred to co-founder as "Brian van" — Harmonic confirmed as Bryan Vann (Co-Founder & CTO since Apr 2023, 16 years at Google including Senior Director on Google Drive). Granola also mentioned "Miguel Teresa" as the partner who built the first offensive cyber model (Dec 2023) — not in Harmonic employees, flagged in Deal Team Notes / Next Steps. Harmonic funding stage flagged as "EXITED" — likely a data error since the company is clearly still operating; treated current Forge Point TS as bridge/extension. Funding rounds detail returned 403 from Harmonic.
+
+- **Rig Security** — Teams: Fin Capital <> Rig Security (Derek's recording) + duplicate recording by Jake Fuchs
+  - Created: Company note (Rig Security), Meeting summary (merged from both recordings), Transcript stub, Person: Guy Kozliner (Co-Founder & CEO)
+  - Updated: —
+  - Errors: Two simultaneous Granola recordings of the same physical meeting (Derek + Jake) — merged into a single meeting summary rather than producing duplicates. Investor name rendered "Corrugated" (Derek's recording) vs "Quasterk" (Jake's recording) — almost certainly Cyberstarts based on Israeli + ITDR + identity context; flagged in Next Steps. Harmonic shows "Stealth Company (Guy Kozliner)" with start date 2024-10 — matches Rig founding-date timeline; likely Harmonic hasn't yet linked Guy's profile to Rig.
+
+- **Gist Security** — Teams: Fin Capital <> Gist
+  - Created: Company note (Gist Security), Meeting summary, Transcript stub, Person: Tal Drori (Co-Founder & CEO)
+  - Updated: —
+  - Errors: Granola title was just "Gist"; Harmonic canonical is "Gist Security" — used "Gist Security" as canonical filename. Harmonic shows $0 raised; Granola private notes are the source of $5M seed (F2/Wix, Dec 2024) and $2.5M Swedish uncapped SAFE — both kept in Financing with date annotations. Granola rendered "Weitzmann Institute" — corrected to Weizmann Institute of Science. Roy (ex-Wix CISO) and the 8200-unit co-founder are not in Harmonic — flagged in Next Steps. Notable cross-reference: Tal Drori and Guy Kozliner (Rig Security CEO from the same day's meetings) were both at FrontLife together — Tal as Co-Founder & CEO, Guy as COO.
+
+- **Harmony** — Harmony.io <> Fin Capital
+  - Created: Company note (Harmony), Meeting summary, Transcript stub, Person: Nitzan Shapira (Co-Founder & CEO, inferred)
+  - Updated: —
+  - Errors: Granola known_participants only captured Derek Wu — no external attendee identity recorded. Processed as external founder meeting based on title and summary content (Israeli founders, prior Cisco exit at $400M+, NYC HQ, AI ITSM). Inferred attendee as Nitzan Shapira via Harmonic match (Co-Founder & CEO at both Harmony and prior Epsagon → Cisco). Granola summary referred to prior exit as "Epsilon" — corrected to **Epsagon** (Cisco acquired 2021). New GC (ex-Axonius), Head of Channels, and CMO names not captured by Granola — flagged in Next Steps. Used "Harmony" (Harmonic canonical) rather than "Harmony.io" in filename to avoid period in filename and match Harmonic.
+
+Note: 6 Granola meetings on 2026-05-18; the two Rig Security entries are duplicate recordings of the same physical call, so 5 unique meetings processed. None filtered as internal — every meeting had at least one non-@fin.capital attendee (except Harmony.io, which Granola recorded with only Derek captured but title/content clearly indicate an external founder call — processed). Harmonic enrichment successful for Kindo, Rig Security, Gist Security, Harmony; person lookups successful for Ron Williams, Guy Kozliner, Tal Drori, Nitzan Shapira, and Keith Peiris (existing Lightfield founder, newly added). No retries required.
+
+---
+
 ## 2026-05-17
 
 **Meetings synced:** 0
