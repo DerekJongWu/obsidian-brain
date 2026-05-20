@@ -1,3 +1,32 @@
+## 2026-05-19
+
+**Meetings synced:** 4
+
+- **Primitive** — Teams: Fin Capital <> Primitive
+  - Created: Meeting summary (2026-05-19), Transcript stub, Person: Ian Ormerod (Head of Product and Execution)
+  - Updated: Primitive company note (last_touch → 2026-05-19, Team table with Ian Ormerod row, Business Description with 2026-05-19 platform architecture detail — Engine Room / Assembler / Control Tower + LLM Gateway / multi-model / banking guardrail capabilities, Market & Competition with 2026-05-19 vendor-agnostic stance + 808 protocol + third-party guardrail adapters, GTM & Business Model with three-stage engagement model and pod/TPS/platform-access/overage pricing components, Deal Team Notes with 2026-05-19 entry, Next Steps with feedback-deliverable items)
+
+- **ClarityWorks** — 30 Min chat between Derek + Daria and Ali Husain
+  - Created: Company note (ClarityWorks), Meeting summary (2026-05-19), Transcript stub, Person: Ali Husain (Co-Founder)
+  - Updated: —
+  - Errors: No canonical Harmonic record matched ClarityWorks (this is a fresh spin-out of Talentism; Harmonic returns multiple unrelated entities under the same name). Company note created without external enrichment; Talentism founder Jeff Hunter referenced as a co-founder per the meeting and confirmed via Harmonic's Talentism record.
+
+- **Inflowpay** — Daria Davydenko and Jim Nguyen
+  - Created: Company note (Inflowpay), Meeting summary (2026-05-19), Transcript stub, Person: Jim Nguyen
+  - Updated: —
+  - Errors: Jim Nguyen is not present in Harmonic's Inflowpay employee list (Harmonic shows Danny Ba as Co-Founder and Chong Si as Consulting CFO) — Jim's role left blank pending confirmation. Email domain on the call is inflowpay.ai while Harmonic / website lists inflowpay.com — domain discrepancy noted in company file. Founder cited $1.5M pre-seed (September 2025); Harmonic shows $1.1M pre-seed last-closed April 2025 — figures to reconfirm.
+
+- **Acsense** — Teams: Acsense <> Fin Capital
+  - Created: Company note (Acsense), Meeting summary (2026-05-19), Transcript stub, Person: Muli Motola (Co-Founder & CEO)
+  - Updated: —
+  - Errors: Granola lists two distinct attendees ("Muli from acsense" muli@acsense.com and "Shmuel Motola from acsense" muli@accsense.io) — likely the same person under two email domains (acsense.com vs accsense.io); flagged in company note and meeting summary. Founder stated Acsense was founded in 2022; Harmonic record shows 2020 — used 2020 in frontmatter and flagged the discrepancy in the meeting summary.
+
+Note: 5 Granola meetings on 2026-05-19; one ("Canceled: Canceled: One-on-One - Derek Wu") was a canceled 1:1 with no summary content (only attendees were Derek Wu and Shmuel Motola @accsense.io — likely a duplicate of the Acsense meeting that was canceled). Skipped — no content to process.
+
+Harmonic enrichment successful for Acsense (canonical match via website acsense.com, id 3220375) and Inflowpay (canonical match via website inflowpay.com, id 56641102). For Primitive, Ian Ormerod resolved via LinkedIn slug ianormerod (id 179025802) with Primitive listed as current employer. ClarityWorks not present as a canonical record in Harmonic.
+
+---
+
 ## 2026-05-18
 
 **Meetings synced:** 5
