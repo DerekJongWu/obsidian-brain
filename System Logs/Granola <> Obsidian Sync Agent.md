@@ -1,3 +1,11 @@
+## 2026-05-20
+
+**Meetings synced:** 0
+
+- **Sync failed** — Granola MCP connector returned "MCP tool call requires approval" on every attempt (list_meetings, get_account_info). Retried multiple times after 5-second waits per global constraints; all calls returned the same approval-required error rather than a transient network failure. Could not enumerate 2026-05-20 meetings; no company / person / meeting / transcript notes were created or updated for this date. Recommended next steps: re-authorize the Granola MCP connector in the user UI and re-run the sync for 2026-05-20.
+
+---
+
 ## 2026-05-19
 
 **Meetings synced:** 4
