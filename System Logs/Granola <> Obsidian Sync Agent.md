@@ -1,3 +1,24 @@
+## 2026-05-21
+
+**Meetings synced:** 2
+
+- **Boldin** — [fin capital ] stephanie perez and Stephen Chen
+  - Created: Company note (Boldin), Meeting summary (2026-05-21), Transcript stub, Person: Steve Chen (Founder & CEO)
+  - Updated: —
+  - Errors: Boldin is a Fin Capital portfolio company per Harmonic (Fin listed among Series A investors) — used status="portfolio" rather than the default "sourcing" per task spec, consistent with the prior U.S. Bank precedent (2026-05-11) where status was adjusted for non-sourcing entities. Granola title rendered founder name as "Stephen Chen"; Harmonic + meeting attendee email (steve.chen@boldin.com) confirm "Steve Chen" — used "Steve Chen" as canonical person filename. Boldin's former name "NewRetirement" appears in Harmonic external profile URLs (crunchbase, multiple emails) — noted in person note alternate contacts.
+
+- **Guard0** — Teams: Fin Capital <> Guard0
+  - Created: Meeting summary (2026-05-21), Transcript stub
+  - Updated: Guard0 company note (last_touch → 2026-05-21; Business Description with 2026-05-21 three-agent-type taxonomy + three-capability framing — Posture/Red teaming/Runtime enforcement — + on-prem SLM detail + concrete detection example; GTM & Business Model with 2026-05-21 pricing (<$5K/month at 80–90K employees), pipeline-mix breakdown (40% network / 30% cold outbound / partnerships), $4.6M TCV OEM deal closed, JPMC replacing Protect AI in $1M / $3.5M-initiative, Charles Schwab POV scoping, Samsara; Traction with 2026-05-21 tightened $1M ARR by August target + Q3/Q4 priced-round timing; Financing with 2026-05-21 new round row ($4–5M @ $30M post closing next week) + DD materials commitment; Deal Team Notes with 2026-05-21 follow-up entry + round-terms reconciliation flag; Next Steps — JPMC/Schwab deployment validation closed, OEM economics closed, three new diligence items added including round-terms reconciliation); Jayesh Ahire person note (last_contact → 2026-05-21, Relationship Notes 2026-05-21 entry)
+  - Errors: Round-terms shift between 2026-05-11 ($35M pre-money SAFE cap, raising $6–8M) and 2026-05-21 ($4–5M at $30M post closing next week) — both kept in Financing table with date annotations; flagged in Deal Team Notes + Next Steps for reconfirmation. Jake Fuchs added as Fin attendee on this call.
+
+Note: 3 Granola meetings on 2026-05-21; all 3 had at least one non-@fin.capital attendee, so none filtered as internal. Only 2 processed as founder meetings:
+- "Derek Wu and Seth Spergel (Merlin Ventures) catch up call" (sspergel@merlin.vc) — VC-to-VC catch-up with Merlin Ventures partner Seth Spergel; shared Merlin portfolio updates (Keys, Clutch, Above Security, Neo, Vivid, Azome, Gradient, AI EDR investment) and fund overview ($85M most recent fund, In-Q-Tel + IBM background). Not a founder meeting. Skipped per "founder meetings" task scope and consistent with prior Innovation Endeavors (2026-05-15) and M12 (2026-05-14) precedents. Action items captured for manual follow-up: Seth to intro Derek to Ron at Vivid (cyber resilience); Derek interested in intros to Azome (identity fabric for AI agents, ex-Axonius team) and Gradient (managed security agents, Bessemer co-investment).
+
+Harmonic enrichment successful for Boldin (canonical match via Harmonic id 793991, website boldin.com — Fin Capital listed as Series A investor) and Steve Chen (Harmonic id 73257993, Founder & CEO since 2015). Jayesh Ahire person record + Guard0 company record already established from 2026-05-11 sync; no new Harmonic lookups required for the Guard0 update path. No retries required.
+
+---
+
 ## 2026-05-20
 
 **Meetings synced:** 0
