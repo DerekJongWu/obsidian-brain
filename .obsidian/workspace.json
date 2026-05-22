@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meetings/Primitive - 2026-05-12 Summary.md",
+                "file": "Companies/Guard0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primitive - 2026-05-12 Summary"
+              "title": "Guard0"
             }
           }
         ]
@@ -196,8 +196,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dcb48d1432bc63c1",
+  "active": "7a8cc0b65153e8a6",
   "lastOpenFiles": [
+    "Transcripts/Guard0 - 2026-05-21 Transcript.md",
+    "Transcripts/Boldin - 2026-05-21 Transcript.md",
+    "People/Steve Chen.md",
+    "Meetings/Guard0 - 2026-05-21 Summary.md",
+    "Meetings/Boldin - 2026-05-21 Summary.md",
+    "Dashboards/Deal Staleness - 2026-05-22.md",
+    "Companies/Boldin.md",
+    "Meetings/Primitive - 2026-05-12 Summary.md",
     "Dashboards/Deal Staleness - 2026-05-21.md",
     "Transcripts/Primitive - 2026-05-19 Transcript.md",
     "Transcripts/Inflowpay - 2026-05-19 Transcript.md",
@@ -216,14 +224,6 @@
     "Companies/ClarityWorks.md",
     "Companies/Acsense.md",
     "Transcripts/Rig Security - 2026-05-18 Transcript.md",
-    "Transcripts/Lightfield - 2026-05-18 Transcript.md",
-    "Transcripts/Kindo - 2026-05-18 Transcript.md",
-    "Transcripts/Harmony - 2026-05-18 Transcript.md",
-    "Transcripts/Gist Security - 2026-05-18 Transcript.md",
-    "People/Tal Drori.md",
-    "People/Ron Williams.md",
-    "People/Nitzan Shapira.md",
-    "People/Keith Peiris.md",
     "Automations/outlook-touches.json",
     "Automations/outlook-todos.json",
     "System Log",
