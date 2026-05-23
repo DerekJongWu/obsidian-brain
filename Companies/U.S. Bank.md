@@ -14,7 +14,7 @@ pitchbook:
 deck_link:
 data_room:
 lighthouse_link:
-last_touch: 2026-05-11
+last_touch: 2026-05-22
 created: 2026-05-11
 tags:
   - company
@@ -34,6 +34,7 @@ tags:
 | Role | Person | Background |
 |---|---|---|
 | Sr. EVP & Chief Digital Officer | [[Dominic Venturo]] | Long-tenured U.S. Bank executive; former Chief Innovation Officer; Minneapolis |
+| Security (vulnerability management / CTEM) | [[David Ridgway]] | U.S. Bank security team — vulnerability management & exposure-management lead per 2026-05-22 discussion |
 
 (Additional U.S. Bank attendees from 2026-05-11 call: Meghan Kober, Adam Graves, Drew Reilly, David Ridgway, Charles Berlin, Bryena Jyoti, David Kuhn, Troy Remington, Prashant Mehrotra, Erik Brazzo, Ankit Bhatt, Brett Shewey, Dave Pilot, Stephen Gray, Tracy Winkler, Vincent Ross, Ashley Holappa, Raquel Haag-Norberg, Todd Moning, Jill McFarling.)
 
@@ -67,6 +68,17 @@ tags:
 - Key topics covered: AI-driven cyber market transformation, human attack surface (deepfake/training), agent identity management, transaction fraud & dispute innovation, behavioral analytics
 - Fin attendees: Logan Allin, Derek Wu, Fan Wen, Stephanie Perez, Allison Leake, Domenica Cevallos, Chris Johnson, Lauren Houpt
 - Portfolio companies referenced: [[Tunic Pay]], [[Witness AI]]-adjacent peers, [[Reality Defender]], [[Abnormal AI]], [[Sardine]], [[Spectrum Security]] / Symphony, [[Opti]], [[VisionHeight]]
+- 2026-05-22: Follow-up security working session with [[David Ridgway]] (US Bank security team); Jake Fuchs + Derek Wu on Fin side.
+  - Trigger: leadership call with Don (group leader) created urgency around AI vulnerability remediation — Don asked for companies "ready to go" for quick commercialization
+  - Mythos announcement framed internally as "oh shit moment" — concern that vulnerability volume jumps from 5 → 5,000+ once Mythos lands
+  - David's initial focus had been code-scanning vendors (Snyk, Barracuda Code, Aikido, Aisle) — repositioned conversation toward CTEM / exposure management vs. application security
+  - Two-approach market frame:
+    1. **Preemptive posture management** ([[Reach Security]], Audit Security, Doks) — misconfiguration prevention, tech-stack optimization, "patching walls before attackers arrive"
+    2. **Reactive remediation** (Depth First, Backline) — analyze scanner telemetry, automated patching, sits behind existing code scanners
+  - Mitigation vs. full remediation distinction emphasized — mitigation = patch without core architecture change (lower risk); remediation = fundamental code/config changes (higher impact)
+  - Build vs. buy framing: Mythos provides foundation but requires significant internal dev; purpose-built CTEM vendors are the buy alternative
+  - Mythos not the death knell early-stage cyber-vuln vendors feared — founders report increased demand
+  - Fin's portfolio companies referenced in market map: [[Reach Security]] (posture/preemptive bucket); [[VisionHeight]] in adjacent infrastructure-graph category
 
 ## Meetings & References
 
@@ -82,3 +94,7 @@ SORT date DESC
 - [ ] Share Eclypsium materials with U.S. Bank security team (hardware/firmware fit)
 - [ ] Follow up on integration vs. replacement strategy questions raised on the call
 - [ ] Track cyber/fraud maturity assessments raised by U.S. Bank team
+- [ ] David Ridgway to clarify Don's specific requirements (posture management vs. code scanning) — per 2026-05-22
+- [ ] Fin to share company-overview document with US Bank leadership — per 2026-05-22
+- [ ] Determine whether Don's ask was off-the-cuff vs. strategic initiative — per 2026-05-22
+- [ ] Potential follow-up call with Don if interested — per 2026-05-22

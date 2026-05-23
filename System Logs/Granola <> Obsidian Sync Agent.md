@@ -1,3 +1,33 @@
+## 2026-05-22
+
+**Meetings synced:** 4
+
+- **Noveum AI** — 30 Min Meeting between Derek Wu and Shashank Agarwal
+  - Created: Company note (Noveum AI), Meeting summary (2026-05-22), Transcript stub, Person: Shashank Agarwal (Founder & CEO)
+  - Updated: —
+  - Errors: Harmonic shows VENTURE_UNKNOWN / $0 / 0 rounds despite $150K angel cited by founder — likely undercount; flagged in company note for next-touch reconfirmation. Founder lists API.Market (Bengaluru) as concurrent FOUNDER role on Harmonic — flagged in Deal Team Notes for diligence on focus / cap-table cleanliness.
+
+- **Turmeric** — 30 Mins Meeting between Fan + Derek and Trmeric
+  - Created: Company note (Turmeric), Meeting summary (2026-05-22), Transcript stub, Person: Siddharth Bohra (Founder & CEO), Person: Debottam Datta (Co-Founder, GTM)
+  - Updated: —
+  - Errors: Company legal name is "trmeric" (Harmonic / Crunchbase / Pitchbook records) while pronounced/branded "Turmeric" — used "Turmeric" as canonical vault filename for readability; both founder emails on @trmeric.com domain. Harmonic shows VENTURE_UNKNOWN / $0 / 0 rounds despite 14-person headcount and $1M ACV customer — flagged for next-touch reconfirmation of cap table / round history.
+
+- **U.S. Bank** — US Bank Security Discussion
+  - Created: Meeting summary (2026-05-22), Transcript stub, Person: David Ridgway (Security — vulnerability mgmt / CTEM)
+  - Updated: U.S. Bank company note (last_touch → 2026-05-22, Team table with David Ridgway row, Deal Team Notes with 2026-05-22 working-session entry — Mythos urgency, two-approach CTEM map [preemptive posture mgmt: Reach Security/Audit Security/Doks vs. reactive remediation: Depth First/Backline], mitigation-vs-remediation framing, build-vs-buy on Mythos, portfolio mentions of Reach Security and VisionHeight; Next Steps with David's clarification ask, Fin company-overview share, off-the-cuff-vs-strategic determination, potential Don follow-up)
+  - Errors: —
+
+- **Leela** — Teams: Fin Capital <> With Leela
+  - Created: Company note (Leela), Meeting summary (2026-05-22), Transcript stub, Person: Preeti Krishnan (Founder & CEO)
+  - Updated: —
+  - Errors: Harmonic description for Leela (withleela.com / id 54603976) describes a mental-health AI platform — confirmed via founder background (Davis Polk → DailyPay COO → Kafene COO) and meeting summary that the company has pivoted to fintech compliance infrastructure. Company entity (founding date Jan 2024, Brooklyn NY, Preeti Krishnan + Frank Kim as Founder/CEO + CTO/Co-founder) matches; only the description is stale. Noted in company-note Deal Team Notes; recommended Harmonic data-report submission to update description.
+
+Note: 4 Granola meetings on 2026-05-22; all 4 had at least one non-@fin.capital attendee, so none filtered as internal. All 4 processed.
+
+Harmonic enrichment successful for all 3 new companies: Noveum AI (id 12585519, noveum.ai), trmeric/Turmeric (id 55524041, trmeric.com), and Leela (id 54603976, withleela.com — description stale but entity confirmed). U.S. Bank record already established (2026-05-11 sync); no new Harmonic lookup required. No retries required — all Harmonic and Granola calls succeeded on first attempt.
+
+---
+
 ## 2026-05-21
 
 **Meetings synced:** 2
