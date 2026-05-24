@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-05-23T11:15:00.000Z",
+  "synced_at": "2026-05-24T11:15:00.000Z",
   "results": [
     {
       "deal_id": "cmng87irn000bxkx41sdn1c0w",
@@ -130,6 +130,14 @@
       "calendar_touch_at": null
     },
     {
+      "deal_id": "cmng9nvp3000oxk6jm9kfqsw8",
+      "company_name": "Orchid",
+      "outlook_touch_at": "2026-05-06T20:55:29.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-05-06T20:55:29.000Z",
+      "calendar_touch_at": null
+    },
+    {
       "deal_id": "cmng87is1000kxkx4kxmnpgp0",
       "company_name": "Overwatch",
       "outlook_touch_at": "2026-04-02T12:42:25.000Z",
@@ -140,10 +148,10 @@
     {
       "deal_id": "cmokcq72e0029xkwk4mn7zbgl",
       "company_name": "Prism Layer",
-      "outlook_touch_at": "2026-05-15T16:27:03.000Z",
-      "outlook_touch_source": "email",
+      "outlook_touch_at": "2026-05-26T17:30:00.000Z",
+      "outlook_touch_source": "calendar",
       "email_touch_at": "2026-05-15T16:27:03.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-05-26T17:30:00.000Z"
     },
     {
       "deal_id": "cmosq9nxf002pxkwk05g31oln",
@@ -195,10 +203,9 @@
     }
   ],
   "errors": [
-    "Calendar queries failed for all deals: Microsoft Graph API throttled (429 ApplicationThrottled) due to MailboxConcurrency limit. Only email signals were collected this run.",
-    "Full email body reads failed (Graph API throttled) — to-do extraction used search result snippets only.",
-    "Orchid (orchid.security): email search returned only automated Lighthouse pipeline reports, no direct email communications. Omitted from results.",
+    "Calendar search rate-limited (429 ApplicationThrottled) for individual deal queries; used broad wildcard calendar scan to find deal-related events. Prism Layer meeting found on 2026-05-26.",
+    "Orchid (orchid.security): email search returned only automated Lighthouse pipeline reports; using manifest last_touch_at as fallback.",
     "Unknown/Katharos (katharos.co): no email results found.",
-    "Unstructured (unstructured.io): email search returned only unrelated results (false positives). Omitted from results."
+    "Unstructured (unstructured.io): email search returned only unrelated results (false positives). Using manifest last_touch_at as fallback."
   ]
 }
