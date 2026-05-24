@@ -1,3 +1,13 @@
+## 2026-05-23
+
+**Meetings synced:** 0
+
+- **No external meetings found**
+
+Note: Granola list_meetings query for custom range 2026-05-23 to 2026-05-23 returned zero meetings. Confirmed with a wider 2026-05-22 to 2026-05-24 query — Granola returned only the four already-synced 2026-05-22 meetings (Noveum AI, Turmeric, U.S. Bank, Leela) and nothing on 2026-05-23 or 2026-05-24. No Harmonic calls were required. No retries triggered — first Granola call succeeded.
+
+---
+
 ## 2026-05-22
 
 **Meetings synced:** 4
