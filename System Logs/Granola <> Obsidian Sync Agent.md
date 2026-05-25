@@ -1,3 +1,13 @@
+## 2026-05-24
+
+**Meetings synced:** 0
+
+- **No external meetings found**
+
+Note: Granola list_meetings query for custom range 2026-05-24 to 2026-05-24 returned zero meetings. Confirmed with a wider 2026-05-23 to 2026-05-25 query (also zero) and a `last_week` query (May 18 – May 22), which surfaced only the already-synced 2026-05-22 meetings and nothing on 2026-05-23, 2026-05-24, or 2026-05-25. 2026-05-24 was a Sunday, consistent with an empty meeting day. No Harmonic calls were required. No retries triggered — first Granola call succeeded.
+
+---
+
 ## 2026-05-23
 
 **Meetings synced:** 0
