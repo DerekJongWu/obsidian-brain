@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-05-25T11:15:00.000Z",
+  "synced_at": "2026-05-26T11:15:00.000Z",
   "results": [
     {
       "deal_id": "cmng87irn000bxkx41sdn1c0w",
@@ -20,10 +20,10 @@
     {
       "deal_id": "cmng87is5000oxkx4e1efggx1",
       "company_name": "Backline AI",
-      "outlook_touch_at": "2026-04-20T18:00:00.000Z",
-      "outlook_touch_source": "calendar",
-      "email_touch_at": null,
-      "calendar_touch_at": "2026-04-20T18:00:00.000Z"
+      "outlook_touch_at": "2026-04-20T20:24:26.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-20T20:24:26.000Z",
+      "calendar_touch_at": null
     },
     {
       "deal_id": "cmokcq7290028xkwkvy4yhde7",
@@ -71,7 +71,7 @@
       "outlook_touch_at": "2026-05-14T23:35:22.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-05-14T23:35:22.000Z",
-      "calendar_touch_at": "2026-04-01T19:30:00.000Z"
+      "calendar_touch_at": null
     },
     {
       "deal_id": "cmnxe16gv0007xkun6e56eg0z",
@@ -127,14 +127,14 @@
       "outlook_touch_at": "2026-05-16T02:22:44.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-05-16T02:22:44.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-04-21T18:30:00.000Z"
     },
     {
       "deal_id": "cmng9nvp3000oxk6jm9kfqsw8",
       "company_name": "Orchid",
-      "outlook_touch_at": "2026-03-30T18:00:00.000Z",
-      "outlook_touch_source": "calendar",
-      "email_touch_at": null,
+      "outlook_touch_at": "2026-05-06T20:55:29.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-05-06T20:55:29.000Z",
       "calendar_touch_at": "2026-03-30T18:00:00.000Z"
     },
     {
@@ -148,10 +148,10 @@
     {
       "deal_id": "cmokcq72e0029xkwk4mn7zbgl",
       "company_name": "Prism Layer",
-      "outlook_touch_at": "2026-05-15T16:27:03.000Z",
-      "outlook_touch_source": "email",
+      "outlook_touch_at": "2026-05-26T17:30:00.000Z",
+      "outlook_touch_source": "calendar",
       "email_touch_at": "2026-05-15T16:27:03.000Z",
-      "calendar_touch_at": "2026-04-27T14:00:00.000Z"
+      "calendar_touch_at": "2026-05-26T17:30:00.000Z"
     },
     {
       "deal_id": "cmosq9nxf002pxkwk05g31oln",
@@ -176,6 +176,14 @@
       "outlook_touch_source": "email",
       "email_touch_at": "2026-03-31T18:50:59.000Z",
       "calendar_touch_at": "2026-03-23T18:00:00.000Z"
+    },
+    {
+      "deal_id": "cmng87irs000dxkx4qgi53fq5",
+      "company_name": "Unstructured",
+      "outlook_touch_at": "2026-04-17T17:35:34.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-17T17:35:34.000Z",
+      "calendar_touch_at": null
     },
     {
       "deal_id": "cmnnanp300000xk694j8hue9e",
