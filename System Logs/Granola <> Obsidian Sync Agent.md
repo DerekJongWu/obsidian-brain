@@ -1,3 +1,13 @@
+## 2026-05-25
+
+**Meetings synced:** 0
+
+- **No external meetings found**
+
+Note: Granola returned 0 meetings for 2026-05-25 (Memorial Day, U.S. federal holiday). Verified via both custom-range query (custom_start=2026-05-25, custom_end=2026-05-25) and this_week query — both returned count=0. Retried once after 5-second wait per global constraints; identical result. No company, person, meeting, or transcript notes created or updated.
+
+---
+
 ## 2026-05-24
 
 **Meetings synced:** 0
