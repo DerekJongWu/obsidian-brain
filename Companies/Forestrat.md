@@ -14,7 +14,7 @@ pitchbook:
 deck_link:
 data_room:
 lighthouse_link:
-last_touch: 2026-05-13
+last_touch: 2026-05-26
 created: 2026-05-13
 tags:
   - company
@@ -123,6 +123,7 @@ tags:
 - 2026-05-13: Call with Anand Chavan (Co-Founder); Derek Wu and Jake Fuchs (Fin Capital, not the Forestrat co-founder of the same name) on Fin side
 - Note: meeting summary references a "Jake Fuchs" as a Forestrat co-founder with 30-year quant background — this is distinct from Fin's Jake Fuchs attendee; confirm naming
 - Anand's prior company (Foreseer.AI) acquired by S&P; now powers 90–95% of S&P market intelligence data
+- 2026-05-26: Follow-up Teams meeting (Forestrat <> Fin Capital). Fin side: Derek Wu, Matthew Mann, Jake Fuchs, Jacquelyn Arnold. Forestrat side: [[Anand Chavan]] (Co-Founder) + Jacob Kaippallimalil (jacob@forestrat.ai, Saddle River NJ) — new Forestrat-team contact, role unconfirmed (no Harmonic experience data, no LinkedIn headline). Granola generated **no AI summary** for this meeting — no new business intel captured; transcript to be pasted manually. last_touch advanced to 2026-05-26.
 
 ---
 

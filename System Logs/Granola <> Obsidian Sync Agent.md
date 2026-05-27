@@ -1,3 +1,46 @@
+## 2026-05-26
+
+**Meetings synced:** 7
+
+- **AuraSell** — 30 Mins Meeting between Fan + Derek and Jason Eubanks
+  - Created: Company note (AuraSell), Meeting summary (2026-05-26), Transcript stub, Person: Jason Eubanks (Co-Founder & CEO)
+  - Updated: —
+  - Errors: Role discrepancy — Granola summary labels Jason Eubanks "CRO"; Harmonic lists him as Co-Founder & CEO of AuraSell (former CRO at Harness/Markforged) — used Founder & CEO, flagged for confirmation. The "47" investor cited on the SAFE = N47/Next47 per Harmonic.
+
+- **MIND** — Teams: Fin Capital <> MIND
+  - Created: Company note (MIND), Meeting summary (2026-05-26), Transcript stub, Person: Eran Barak (Co-Founder & CEO)
+  - Updated: —
+  - Errors: Granola tagged Eran "from Microsoft" (legacy email tag) — confirmed as MIND founder via eran@mind.io. Prior exit rendered "Hexadeck" = Hexadite (acquired by Microsoft 2017). Seed investor cited as "Wild Ventures" — likely YL Ventures per Harmonic. Potential portfolio overlap with Symphony (insider risk, Sequoia Series A, stealth) flagged for diligence.
+
+- **Forestrat** — Teams: Forestrat <> Fin Capital
+  - Created: Meeting summary (2026-05-26, no-Granola-summary stub), Transcript stub
+  - Updated: Forestrat company note (last_touch → 2026-05-26; Deal Team Notes 2026-05-26 entry), Anand Chavan person note (last_contact → 2026-05-26; Relationship Notes entry)
+  - Errors: Granola generated **no AI summary** for this meeting — meeting note flags this; no new business intel captured (transcript to be pasted manually). New Forestrat-team attendee Jacob Kaippallimalil (jacob@forestrat.ai, Saddle River NJ) — role unconfirmed (Harmonic returns no experience/LinkedIn data); not given a person note pending confirmation, noted as a contact in company + meeting notes.
+
+- **Cytactic** — Meet in NYC: Fin Capital <> Cytactic
+  - Created: Company note (Cytactic), Meeting summary (2026-05-26), Transcript stub, Person: Nimrod Kozlovski (CEO & Co-Founder)
+  - Updated: —
+  - Errors: Bill Hogan role — Granola says "COO," Harmonic lists CRO (ex-SecurityScorecard) — flagged. Harmonic founding date 2019 (co-founder Menny Barzilay since 2019) while Nimrod joined as CEO in 2022 — used 2019. Founder-cited $4M Stripe-exec SAFE and Shlomo Kramer seed participation not yet reflected in Harmonic — flagged for reconciliation.
+
+- **Prism Layer** — In-Person Meeting + Zoom | Simone Garreau (Prism Layer) + Fin Capital
+  - Created: Company note (Prism Layer), Meeting summary (2026-05-26), Transcript stub, Person: Simone Garreau (Co-Founder & CEO)
+  - Updated: Backfilled the orphaned prior transcript (Prism Layer - 2026-04-27 Transcript) frontmatter — company → Prism Layer, source → Granola — to link it to the new company note
+  - Errors: Simone Garreau not present in Harmonic's Prism Layer exec list — enriched via a separate Harmonic person lookup (id 168257251, ex-Block/Remitly/Robinhood head of risk). Co-founders Daniel Nolan (CPO) and Chandra Bradley (COO) confirmed from the 2026-04-27 transcript; Harmonic lists only Daniel Nolan — confirm Chandra in cap table. Minor start-date discrepancy (Jan 15 per 2026-04-27 call vs Feb 1 per Harmonic/2026-05-26 summary). Seed sizing guidance moved from $6–10M (Apr) to $3–5M recommended (May).
+
+- **Cytrix** — Teams: Fin Capital <> Cytrix
+  - Created: Company note (Cytrix), Meeting summary (2026-05-26), Transcript stub, Person: Omer Shirazi (CEO & Founder)
+  - Updated: —
+  - Errors: Harmonic shows VENTURE_UNKNOWN / $0 / 0 rounds despite founder-cited New Era VC SAFE and $1.8M ARR — flagged as undercount, reconfirm cap table. Founding-date conflict: founder stated "Feb 2025" while Harmonic company record shows 2019 and founders' Cytrix roles start 2024-03/04 — used 2025 (founder) and flagged. Harmonic name "CYTRIX" → canonical vault name "Cytrix."
+
+- **Diversion** — Teams: Fin Capital <> Diversion
+  - Created: Company note (Diversion), Meeting summary (2026-05-26), Transcript stub, Person: Sasha Medvedovsky (Co-Founder & CEO)
+  - Updated: —
+  - Errors: Founding-date minor discrepancy (founder "Aug 2022" vs Harmonic 2021 / founders' Dec 2021 start) — used 2022. Funding: founder private notes cite ~$11.7M raised + raising $15M; Harmonic records ~$12.4M across 3 seed rounds — both captured, reconcile. Positioning: Harmonic profile emphasizes game dev / creative industries (Unreal); founder framed it more broadly as a Git replacement for the AI era — both captured.
+
+Note: 8 Granola meetings on 2026-05-26; 1 filtered as internal ("Catch up | Derek <> Daria" — both attendees @fin.capital). 7 external meetings processed. Forestrat already had a company note (update path); the other 6 are new company notes. Harmonic enrichment successful for all 6 new companies (AuraSell id 55377630, MIND id 4483329, Cytactic id 10121849, Prism Layer id 65901841, Cytrix id 59816425, Diversion id 4465746) and for all primary founders, including Simone Garreau (id 168257251) and the Forestrat second attendee Jacob Kaippallimalil (id 197082042) via separate person lookups. No Granola or Harmonic retries were required — all calls succeeded on first attempt (one oversized get_companies response was read from its saved file rather than re-fetched).
+
+---
+
 ## 2026-05-25
 
 **Meetings synced:** 0

@@ -1,9 +1,9 @@
 ---
 type: transcript
 date: 2026-04-27
-company: 
+company: Prism Layer
 summary_note: 
-source: 
+source: Granola
 created: 2026-04-27
 tags:
   - transcript
