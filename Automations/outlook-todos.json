@@ -1,61 +1,61 @@
 {
-  "extracted_at": "2026-05-26T11:15:00.000Z",
+  "extracted_at": "2026-05-27T11:15:00.000Z",
   "items": [
     {
       "deal_id": "cmokcq72e0029xkwk4mn7zbgl",
       "company_name": "Prism Layer",
-      "title": "Review Prism Layer seed round pitch deck before today's in-person meeting",
-      "context": "Email from simone@prismlayer.ai on May 15: 'just finished our seed round pitch deck'. In-person meeting scheduled today May 26 at Fin Capital offices with Logan, Derek, Jake, and Claire.",
+      "title": "Debrief Prism Layer in-person meeting and align on seed round next steps",
+      "context": "In-person meeting with Simone Garreau (Prism Layer) held at Fin Capital offices on May 26. Jake shared LH notes + deck to Logan ahead of the meeting. Simone shared seed round pitch deck on May 15.",
       "source": "calendar",
       "source_date": "2026-05-26T17:30:00.000Z"
     },
     {
       "deal_id": null,
       "company_name": null,
-      "title": "Prepare portfolio pipeline updates for SMBC Atlas Beyond fund AD management meeting",
-      "context": "Calendar event 'SMBC AD management meeting about SMBC Fin Atlas Beyond Fund' on May 27 with 20+ SMBC, JRI, and Fin Capital attendees including Logan, Fan, Derek, Jake, Rina, and Daria.",
+      "title": "Prep for SMBC AD management meeting about Atlas Beyond Fund",
+      "context": "Calendar event 'SMBC AD management meeting about SMBC Fin Atlas Beyond Fund' on May 27 with SMBC team (Yuji Ogata, Ryo Ishii, et al.) and Fin team. Ryo Ishii emailed on May 16 wanting to align on key points ahead of this meeting.",
       "source": "calendar",
       "source_date": "2026-05-27T19:00:00.000Z"
     },
     {
       "deal_id": null,
       "company_name": null,
-      "title": "Prepare for Navigator Webinar and Navigator Day Event back-to-back",
-      "context": "Calendar events on May 27: 'Navigator Webinar' (12:30-2pm PT) followed by 'Navigator Day Event' (2-5pm PT) at 114 Crosby St in NYC. Full investment team attending.",
-      "source": "calendar",
-      "source_date": "2026-05-27T19:30:00.000Z"
-    },
-    {
-      "deal_id": null,
-      "company_name": null,
-      "title": "Prepare for Workday Ventures partnership catch-up call",
-      "context": "Calendar event 'Fin Capital <> Workday Ventures' on May 28 via Zoom with Jeffrey Wantman, Savannah Greene, and Sarah Ospina from Workday. Fan and Derek attending.",
-      "source": "calendar",
-      "source_date": "2026-05-28T19:00:00.000Z"
-    },
-    {
-      "deal_id": null,
-      "company_name": null,
-      "title": "Prepare portfolio update for Vanguard LP catch-up",
-      "context": "Calendar event 'Vanguard <> Fin Capital catch-up' on May 28 via Zoom with del_giannotti@vanguard.com. Fan and Derek attending.",
+      "title": "Prep for Vanguard catch-up with Del Giannotti",
+      "context": "Calendar event 'Vanguard <> Fin Capital catch-up' on May 28 at 12:30pm ET via Zoom with Fan and Derek attending.",
       "source": "calendar",
       "source_date": "2026-05-28T16:30:00.000Z"
     },
     {
       "deal_id": null,
       "company_name": null,
-      "title": "Finalize guest list and logistics for NYTW / CISO Breakfast co-hosted with Thoropass",
-      "context": "Calendar event 'HOLD: NYTW / CISO Breakfast' on Jun 2 at 114 Crosby St in NYC with Thoropass team (Claire Lamb, Javier Santin). Jake, Derek, Jackie, and Lauren attending.",
+      "title": "Prep for Workday Ventures meeting",
+      "context": "Calendar event 'Fin Capital <> Workday Ventures' on May 28 at 3pm ET via Zoom with Jeff Wantman, Savannah Greene, and Sarah Ospina from Workday Ventures; Fan and Derek attending from Fin.",
       "source": "calendar",
-      "source_date": "2026-06-02T12:30:00.000Z"
+      "source_date": "2026-05-28T19:00:00.000Z"
     },
     {
       "deal_id": null,
       "company_name": null,
-      "title": "Plan NYC Tech Week schedule and external meeting logistics (Jun 1-5)",
-      "context": "Calendar event 'NYC Tech Week' spanning Jun 1-5, all-day event with entire Fin Capital team. Multiple events during the week including D-Wave Investor Day, CISO Breakfast, and cocktails.",
+      "title": "Prep for Kindo AI intro call",
+      "context": "Calendar event 'Kindo AI <> Fin Capital' on May 28 at 6:45pm ET via Zoom with Emma and Ron from Kindo AI; Fan, Logan, and Derek attending.",
+      "source": "calendar",
+      "source_date": "2026-05-28T22:45:00.000Z"
+    },
+    {
+      "deal_id": null,
+      "company_name": null,
+      "title": "Coordinate NYC Tech Week schedule and logistics (Jun 1-5)",
+      "context": "Calendar block 'NYC Tech Week' from Jun 1-5 with full team attending. Multiple events during the week including CISO Breakfast with Thoropass on Jun 2, D-Wave Investor Day on Jun 1, and Axios AI+NY Summit on Jun 3.",
       "source": "calendar",
       "source_date": "2026-06-01T00:00:00.000Z"
+    },
+    {
+      "deal_id": null,
+      "company_name": null,
+      "title": "Prep for NYTW CISO Breakfast with Thoropass",
+      "context": "Calendar hold 'NYTW / CISO Breakfast' on Jun 2 at 8:30am ET at 114 Crosby St with Thoropass team (Claire Lamb, Javier Santin). Lauren, Jake, Derek, and Jackie attending.",
+      "source": "calendar",
+      "source_date": "2026-06-02T12:30:00.000Z"
     }
   ],
   "errors": []
