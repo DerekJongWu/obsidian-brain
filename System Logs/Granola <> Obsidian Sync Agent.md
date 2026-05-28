@@ -1,3 +1,13 @@
+## 2026-05-27
+
+**Meetings synced:** 0
+
+- **No external founder meetings found**
+
+Note: 1 Granola meeting on 2026-05-27 ("SMBC AD management meeting about SMBC Fin Atlas Beyond Fund", 151b2a54-883a-4356-af8d-bf9be020777a). Mixed attendees from @fin.capital, @smbcgroup.com, @atlasbeyond.vc, and @jri-america.com — not filtered out by the all-@fin.capital rule, but the meeting is an LP/fund management session between SMBC (LP), Fin Capital (GP), and Atlas Beyond (co-investment partner) reviewing cybersecurity sourcing candidates (Profit Security, MBit, Reality Defender, Keycard, Intro Security, Andromeda Security, Orchid Security). No founder/CEO of a portfolio candidate was on the call. Skipped per "founder meetings" task scope and consistent with prior Merlin Ventures (2026-05-21), Innovation Endeavors (2026-05-15), and M12 (2026-05-14) precedents for non-founder external meetings. Action items captured for manual follow-up if desired: SMBC interest renewed in Reality Defender for fraud/call-center deepfake detection; SMBC piloting Red Block + evaluating SailPoint vs. Saviynt for IGA; agentic SOC + NHI runtime control (Keycard, Intro Security, Andromeda, Orchid) flagged for SMBC follow-up. No Harmonic lookups performed (no founder/company to enrich). No retries required.
+
+---
+
 ## 2026-05-26
 
 **Meetings synced:** 7
