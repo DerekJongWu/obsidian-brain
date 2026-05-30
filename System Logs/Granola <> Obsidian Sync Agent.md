@@ -1,3 +1,21 @@
+## 2026-05-29
+
+**Meetings synced:** 2
+
+- **OSYTE** — Fin Capital <> OSYTE - Intro
+  - Created: Company note (OSYTE), Meeting summary (2026-05-29), Transcript stub, Person: Charles Anselm (CEO & Founder), Person: Rohit Mathur (CPO)
+  - Updated: —
+  - Errors: Granola did not generate an AI summary for this meeting — meeting note flags this, substantive intel to be added when the transcript is pasted manually. Two non-@fin.capital attendees on the call (Charles Anselm and Rohit Mathur) — created person notes for both since Rohit is also a senior exec (CPO since Jan 2025). Harmonic funding rounds detail returned 403 (consistent with prior runs); fundingTotal of $7.87M across 4 rounds and the investor list captured from the company-level fields. Meeting title rendered "OSYTE [O-Sight]" to indicate pronunciation — used "OSYTE" (Harmonic canonical) as vault filename.
+
+- **Ironmist** — Video: Sanlo + Fin Capital Bi-Monthly Calls
+  - Created: Company note (Ironmist), Meeting summary (2026-05-29), Transcript stub, Person: Olya Caliujnaia (CEO & Co-Founder)
+  - Updated: —
+  - Errors: Granola meeting title still labeled "Sanlo + Fin Capital Bi-Monthly Calls" — this is a legacy recurring-meeting name from Olya's prior company Sanlo (where she was CEO & Co-Founder, 2020–2025). The actual company discussed is Ironmist (defense compliance automation, founded June 2025); confirmed via the @ironmist.co attendee email and the Harmonic record where both Olya and William Liu list Ironmist as their current employer. Used "Ironmist" as canonical company name, not "Sanlo," and noted the title rename in the meeting note + Olya person note. Fin Capital is listed among Ironmist's investors on Harmonic (alongside XYZ Venture Capital and Konvoy) — set status="portfolio" per the Boldin (2026-05-21) and U.S. Bank (2026-05-11) precedents for non-sourcing entities. Harmonic shows fundingStage=VENTURE_UNKNOWN with $0 across 0 rounds despite the three named investors — flagged in Financing + Next Steps for round-size / Fin check-size reconciliation. Only one non-@fin.capital attendee on the call (Olya); co-founder William Liu listed in Team table but no person note created since he wasn't in attendance, per task spec.
+
+Note: 2 Granola meetings on 2026-05-29; both had at least one non-@fin.capital attendee, so neither was filtered as internal. Both processed as external founder meetings. Harmonic enrichment successful for OSYTE (id 1669489, osyte.com) and Ironmist (id 63131961, ironmist.co), and for primary founders Charles Anselm (id 184990) and Olya Caliujnaia (id 143268). Rohit Mathur (id 13452933) and William Liu (id 143267) data captured from the company-level founders_and_execs fields — no separate person-lookup calls were required. No retries triggered — all Granola and Harmonic calls succeeded on first attempt. Same Harmonic 403 on funding.fundingRounds detail observed for both companies — recorded summary funding fields only, consistent with prior runs.
+
+---
+
 ## 2026-05-27
 
 **Meetings synced:** 0
