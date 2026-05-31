@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-05-30T11:15:00.000Z",
+  "synced_at": "2026-05-31T11:15:00.000Z",
   "results": [
     {
       "deal_id": "cmng87irn000bxkx41sdn1c0w",
@@ -199,7 +199,7 @@
       "outlook_touch_at": "2026-03-18T20:51:06.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-03-18T20:51:06.000Z",
-      "calendar_touch_at": "2026-03-17T15:00:00.000Z"
+      "calendar_touch_at": null
     },
     {
       "deal_id": "cmo8wg7c9003wxkb3xohvsj4d",

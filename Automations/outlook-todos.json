@@ -1,10 +1,26 @@
 {
-  "extracted_at": "2026-05-30T11:15:00.000Z",
+  "extracted_at": "2026-05-31T11:15:00.000Z",
   "items": [
+    {
+      "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
+      "company_name": "Opti",
+      "title": "Follow up on Opti preemptive round opportunity after catch-up with Barak",
+      "context": "Email from barakp@opti.ai on May 28: 'We closed our first deal earlier this week... existing investors want to preempt with an internal quick round. Is it worth to catch up for 10 mins?' Richie scheduled a call for May 29 2pm ET.",
+      "source": "email",
+      "source_date": "2026-05-29T15:38:41.000Z"
+    },
+    {
+      "deal_id": "cmng9nvp3000oxk6jm9kfqsw8",
+      "company_name": "Orchid",
+      "title": "Follow up with Roy Katmor on Orchid round dynamics",
+      "context": "Email from Jake on May 27: 'Just following up here. Would love to hear the latest on round dynamics.' Roy previously (May 6) said he passed on a TS but expects more in coming weeks. No response yet to latest follow-up.",
+      "source": "email",
+      "source_date": "2026-05-27T15:07:14.000Z"
+    },
     {
       "deal_id": "cmokcq72e0029xkwk4mn7zbgl",
       "company_name": "Prism Layer",
-      "title": "Make introductions to Banxware and SumUp for Simone ahead of Berlin trip",
+      "title": "Facilitate introductions to Banxware and SumUp for Simone in Berlin",
       "context": "Email from simone@prismlayer.ai on May 29: 'I'd be especially grateful for introductions to the teams at Banxware and SumUp, as both are high on our list of companies we'd love to meet while we're in Berlin.'",
       "source": "email",
       "source_date": "2026-05-29T18:39:44.000Z"
@@ -12,32 +28,16 @@
     {
       "deal_id": "cmokcq72e0029xkwk4mn7zbgl",
       "company_name": "Prism Layer",
-      "title": "Share Berlin event and dinner recommendations with Simone",
-      "context": "Email from simone@prismlayer.ai on May 29: 'if there are any dinners, side events, or parties in Berlin that you think are especially worth attending, I'd love your recommendations.'",
+      "title": "Share Berlin event and dinner recommendations with Simone for SuperVenture",
+      "context": "Email from simone@prismlayer.ai on May 29: 'If there are any dinners, side events, or parties in Berlin that you think are especially worth attending, I'd love your recommendations.'",
       "source": "email",
       "source_date": "2026-05-29T18:39:44.000Z"
     },
     {
-      "deal_id": "cmng9nvp3000oxk6jm9kfqsw8",
-      "company_name": "Orchid",
-      "title": "Follow up with Roy Katmor on Orchid round dynamics after Jake's May 27 check-in",
-      "context": "Email from Jake on May 27: 'Just following up here. Would love to hear the latest on round dynamics.' Roy's prior reply (May 6) noted he passed on a TS and expects more in coming weeks.",
-      "source": "email",
-      "source_date": "2026-05-27T15:07:14.000Z"
-    },
-    {
-      "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
-      "company_name": "Opti",
-      "title": "Debrief on Opti catch-up call re: first deal close and preemptive internal round",
-      "context": "Email from barakp@opti.ai on May 28: 'We closed our first deal earlier this week... existing investors want to preempt with an internal quick round. Is it worth to catch up for 10 mins?' Richie scheduled a call for May 29 at 2pm ET.",
-      "source": "email",
-      "source_date": "2026-05-29T15:38:41.000Z"
-    },
-    {
       "deal_id": null,
       "company_name": null,
-      "title": "Prep for NYTW / CISO Breakfast with Thoropass on Jun 2",
-      "context": "Calendar event 'HOLD: NYTW / CISO Breakfast' on Jun 2 at 114 Crosby St with Thoropass team (claire.lamb, javier, sam) and Fin Capital team.",
+      "title": "Prep for CISO Breakfast at NY Tech Week (co-hosted with Thoropass)",
+      "context": "Calendar event 'HOLD: NYTW / CISO Breakfast' on Jun 2 at 114 Crosby St with Thoropass team (Claire Lamb, Javier Santin, Sam) — confirm agenda and attendee list.",
       "source": "calendar",
       "source_date": "2026-06-02T12:30:00.000Z"
     },
