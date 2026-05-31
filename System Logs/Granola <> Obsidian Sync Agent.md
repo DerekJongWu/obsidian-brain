@@ -1,3 +1,13 @@
+## 2026-05-30
+
+**Meetings synced:** 0
+
+- **No external meetings found**
+
+Note: Granola list_meetings query for custom range 2026-05-30 to 2026-05-30 returned zero meetings. Retried once after a 5-second wait per global constraints — identical zero-count result. Confirmed with a wider 2026-05-29 to 2026-05-31 query, which surfaced only the two already-synced 2026-05-29 meetings (Fin Capital <> OSYTE - Intro, Sanlo + Fin Capital Bi-Monthly Calls / Ironmist) and nothing on 2026-05-30 or 2026-05-31. 2026-05-30 was a Saturday, consistent with an empty meeting day. No Harmonic calls were required. No company, person, meeting, or transcript notes created or updated.
+
+---
+
 ## 2026-05-29
 
 **Meetings synced:** 2
