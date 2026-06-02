@@ -1,3 +1,20 @@
+## 2026-06-01
+
+**Meetings synced:** 1
+
+- **Lunos** — Teams: Fin Capital <> Lunos
+  - Created: Company note (Lunos), Meeting summary (2026-06-01), Transcript stub, Person: Duncan Barrigan (Founder & CEO)
+  - Updated: —
+  - Errors: Harmonic returned 403 on funding.fundingRounds detail (consistent with prior runs) — captured summary funding fields ($5M pre-seed, General Catalyst + Cherry Ventures, 2025-09-30 last_funding_at) only. Founder cited founding-team and product timeline that align with Harmonic record (Duncan Barrigan started as Founder & CEO Sept 2024; Harmonic foundingDate 2024-01-01 used in frontmatter). Enterprise customers (Uber, Reddit, Zoom) and $2M+ pre-seed remaining captured from Granola summary — not yet in Harmonic.
+
+Note: 3 Granola meetings on 2026-06-01. Only 1 processed as a founder meeting:
+- "Dakota - Claude - Attio Build Out" (e7746d66-…) — Granola listed participants as Unknown; summary content is operational/internal (Dakota–Claude–Attio integration build-out, LP list structure, Navigator distribution timeline) with no founder/CEO of a sourceable company present. Skipped per "founder meetings" task scope and consistent with prior internal/operational precedents.
+- "Fin Capital / Dakota - AI Connector Overview" (1a9133b4-…) — External attendees present (Kate O'Connor, Customer Success Manager at Dakota), but this is a vendor product overview from Dakota's CSM, not a founder meeting. Skipped per "founder meetings" task scope and consistent with prior Innovation Endeavors (2026-05-15), M12 (2026-05-14), Merlin Ventures (2026-05-21), and SMBC (2026-05-27) precedents for non-founder external meetings.
+
+Harmonic enrichment successful for Lunos (canonical match via lunos.ai domain, id 36396079) and Duncan Barrigan (id 79976, found via the company's employees list, LinkedIn slug duncanbarrigan). No retries triggered — all Granola and Harmonic calls succeeded on first attempt (one 403 on funding.fundingRounds detail field, expected per prior runs and not a true failure).
+
+---
+
 ## 2026-05-31
 
 **Meetings synced:** 0
