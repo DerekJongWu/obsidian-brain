@@ -6,7 +6,7 @@ linkedin: https://linkedin.com/in/anandchavan
 email: anand@forestrat.ai
 location: New York City Metropolitan Area
 relationship:
-last_contact: 2026-05-26
+last_contact: 2026-06-02
 created: 2026-05-13
 tags:
   - person
@@ -39,6 +39,7 @@ tags:
 - Met via 2026-05-13 Forestrat intro call with [[Derek Wu]] and Jake Fuchs (Fin Capital)
 - Building [[Forestrat]] — infrastructure-as-a-service for quant trading ops; raising $4M Series A
 - 2026-05-26: Follow-up Teams meeting (Forestrat <> Fin Capital) with Derek Wu, Matthew Mann, Jake Fuchs, Jacquelyn Arnold (Fin) and Forestrat colleague Jacob Kaippallimalil. Granola produced no AI summary.
+- 2026-06-02: Follow-up Teams meeting (Fin Capital <> Forestrat) with Derek Wu, Jake Fuchs, Logan Allin, Matthew Mann (Fin) and Jacob Kaippallimalil. Anand walked through product depth (sub-10μs OMS, streaming reconciliation, AI unstructured data extraction), first named client (Morgan Stanley Asset Management), recent inbound (Nippon Life Asset Management, Japan), and current $4M seed target. Logan recommended avoiding strategic investors from the client base and prioritizing UX/design + revenue framing. In-person NYC meeting planned mid-June.
 
 ---
 

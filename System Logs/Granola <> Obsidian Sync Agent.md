@@ -1,3 +1,25 @@
+## 2026-06-02
+
+**Meetings synced:** 2
+
+- **Milestone** — Jake Fuchs and Menny Barzilay
+  - Created: Company note (Milestone), Meeting summary (2026-06-02), Transcript stub, Person: Menny Barzilay (Co-Founder)
+  - Updated: —
+  - Errors: Harmonic shows VENTURE_UNKNOWN / $0 / 0 rounds and headcount of 1 (only Shay Zandani — CSO since May 2025), while founder reports $1M raised from US CISOs + former EY partner and a 6-person team growing to 8. Captured both — flagged for cap-table reconciliation. Menny Barzilay is already a tracked Fin contact via [[Cytactic]] (2026-05-26 Bill Hogan / Nimrod Kozlovski intro) — Milestone is a separate venture and represents his primary post-Cytactic build; person note created here (new) and cross-linked to Cytactic. Domain mile.st (Harmonic confirms website https://mile.st) — used "Milestone" as canonical vault name per Harmonic (id 51868157). Harmonic's typeahead returned two unrelated "Milestone" entities (an AI-coding-tools company at mstone.ai and Milestone Technologies, Inc. at milestone.tech) before resolving the correct entity via natural-language search.
+
+- **Forestrat** — Teams: Fin Capital <> Forestrat
+  - Created: Meeting summary (2026-06-02), Transcript stub
+  - Updated: Forestrat company note (last_touch → 2026-06-02; Business Description with 2026-06-02 product detail — sub-10μs OMS, streaming reconciliation, AI-powered unstructured data extraction, "hedge fund in a box" framing; Market & Competition with $30–40M typical fund data spend + 3-PM breakeven + Canoe Intelligence adjacency; Traction with Morgan Stanley AM (first named client), Nippon Life Asset Management inbound, US/India team split; Financing with "$4M seed" nomenclature flag, strategic-investor-avoidance recommendation, materials commitment; Deal Team Notes with 2026-06-02 entry and Jacob Kaippallimalil role partial-clarification; Next Steps — 5 new diligence items added including materials receipt, mid-June NYC in-person, round nomenclature, Jacob's title, and Canoe-adjacent expansion); Anand Chavan person note (last_contact → 2026-06-02, Relationship Notes 2026-06-02 entry)
+  - Errors: Round nomenclature shifted between 2026-05-13 ("$4M Series A") and 2026-06-02 ("$4M seed") — same $ target / same syndicate-seeking posture, different label; both kept in Financing with date annotations and flagged in Next Steps. Jacob Kaippallimalil's title still not formally given by the founder, but his role partially clarified — he built the AI-powered unstructured-data-extraction stack and his prior startup was sold to S&P (paralleling Anand's Foreseer.AI exit to S&P). Person note still not created for Jacob pending a confirmed title.
+
+Note: 4 Granola meetings on 2026-06-02. Only 2 processed as founder meetings:
+- "Teams: Fin Capital <> Hitachi" (75070ddc-...) — VC-to-VC catch-up with Hitachi Ventures (Divya Raghavan + 3 colleagues). Reviewed Hitachi's fund structure ($1B AUM, Hitachi sole LP, Luxembourg-based, 7 partners), their Harmony investment (Divya backed founder Nitsan via opportunistic SAFE @ $150M cap / 20% discount after losing the Epsagon deal to Cisco), competitive intel on Console / Serval / Atomic Work, and TextQL follow-up. Not a founder meeting. Skipped per "founder meetings" task scope and consistent with prior Innovation Endeavors (2026-05-15), M12 (2026-05-14), Merlin Ventures (2026-05-21), SMBC (2026-05-27), and Dakota (2026-06-01) precedents. Action items for manual follow-up: Derek to loop Fawn into TextQL email chain; Divya exploring Hitachi internal adoption of Harmony.
+- "Forgepoint + Fin Capital Discussion re: Kindo" (197a3083-...) — VC-to-VC syndicate discussion between Forgepoint (Jimmy Park, Ernie Bio) and Fin Capital (Derek, Fan, Logan, Claire Beale) about the Kindo Series A extension. Kindo founders were NOT on the call. Substantive new intel about Kindo (cash through June only, $8M round Forgepoint leading + $12M minimum, $5–10M SMBC fund deployment range, Deloitte rolled out to 3 of 5 managed security teams, fractional CFO/GC needs) — but per "founder meetings" task scope this is a co-investor discussion, not a founder meeting. Skipped per precedent. Recommended: Derek to manually update [[Kindo]] company note with this round-timing + Deloitte traction intel after Logan's Japan trip / second-week-of-June decision.
+
+Harmonic enrichment successful for Milestone (canonical match resolved via natural-language search → urn:harmonic:company:51868157, website mile.st) and Menny Barzilay (id 90717044, found via typeahead). Anand Chavan and Forestrat records already established from prior runs — no new Harmonic lookups required for the Forestrat update path. One Harmonic 403 on funding.fundingRounds detail (consistent with prior runs); one Harmonic search_companies_natural_language timeout — retried after 5s per global constraints, succeeded on retry but response was oversized and read from the saved tool-result file rather than re-fetched.
+
+---
+
 ## 2026-06-01
 
 **Meetings synced:** 1
