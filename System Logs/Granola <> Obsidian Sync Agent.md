@@ -1,3 +1,24 @@
+## 2026-06-03
+
+**Meetings synced:** 2
+
+- **Poolside** — Poolside <> Fin: Quarterly Check In
+  - Created: Company note (Poolside), Meeting summary (2026-06-03), Transcript stub, Person: Jeff Jones (Head of Revenue, Americas)
+  - Updated: —
+  - Errors: Granola did not generate an AI summary for this meeting — meeting note flags this, transcript to be pasted manually. Neither external attendee is a founder/CEO: Jeff Jones (Head of Revenue, AMER) and Isaac Cohen (Head of Solutions Engineering, AMER) attended on the Poolside side; Co-CEOs Jason Warner / Eiso Kant were not on the call. Created person note for Jeff Jones as primary (senior commercial owner); Isaac Cohen captured in the company Team table without a separate person note, consistent with prior Lightfield (2026-05-16) and U.S. Bank (2026-05-22) precedents for non-founder external meetings on portfolio entities. Set status="portfolio" per Boldin (2026-05-21) / Ironmist (2026-05-29) precedents — Fin Capital listed among Poolside's 36 named investors per Harmonic (urn:harmonic:company:18920281, website poolside.ai). Harmonic funding rounds detail returned 403 (consistent with prior runs) — captured summary funding fields only ($626M total / 3 rounds / Series B / $3B publicly disclosed valuation, last funding 2024-10-02). Poolside Infrastructure Company (PIC, Austin TX) flagged as separate corporate entity (Eiso Kant President, Philip Drury CIO ex-Citi Global TMT) for diligence — likely a data-center / financing vehicle.
+
+- **Harmony** — Teams: Harmony <> Fin Capital
+  - Created: Meeting summary (2026-06-03), Transcript stub
+  - Updated: Harmony company note (last_touch → 2026-06-03; Team table — Eddie named as General Counsel ex-"Taxonia"/Axonius and CMO ex-Lina/Perimeter 81/Cloudflare added; GTM & Business Model with 2026-06-03 eToro $230K + pricing-tier detail; Traction with $1M ARR / 20 paying customers / Sentry as a new logo / 80–85% MAU / 50–70% autonomous resolution / Apollo + World Bank POC starting Monday; Financing with 2026-06-03 SAFE-path selection — $12M target up to $15M / $1M committed / $5M open / 4–6 week announcement / 1–2 week decision, plus Epsagon ~$500M vs $400M+ exit-value flag; Deal Team Notes with 2026-06-03 entry covering Atlas Beyond attendance dynamic; Next Steps — SAFE-vs-Series-A item closed, 5 new diligence items added including IC decision-week, new SAFE terms, eToro $230K validation, Eddie + CMO + Head of Channels name capture, Atlas Beyond co-investment dynamic, and Epsagon exit-value reconciliation); Nitzan Shapira person note (last_contact → 2026-06-03, relationship updated, Relationship Notes 2026-06-03 entry)
+  - Errors: Kathy Woloszyn (kathy@harmony.io) not found in Harmonic — kept as plain-text attendee without person note pending role confirmation. Eddie (GC) and the new CMO last names not captured by Granola — flagged in Next Steps. Granola rendered prior exit at "~$500M" (vs $400M+ on 2026-05-18 Granola summary) — both kept with date annotations in Financing section; reconcile against Cisco public disclosure. Adoption metric tightened from "60–70% no-touch resolution" (2026-05-18) to "50–70% autonomous resolution" (2026-06-03) — both kept with date annotations. Atlas Beyond (Eiko Ooka, Kotai Gen) attended on the Fin/co-investor side — first appearance in a Harmony meeting; flagged in Deal Team Notes / Next Steps.
+
+Note: 3 Granola meetings on 2026-06-03. Only 2 processed as founder/portfolio meetings:
+- "Derek <> Francis Catch Up" (e5719ac0-9409-4ab7-ac15-844ddaa9eafd) — 1:1 catch-up between Derek Wu and Francis Lowry (francis.lowry@allstate.com). Title does not match company-meeting pattern (no "Fin x Company" / "Company - Intro Call" formatting), no Granola summary, and the external attendee is an Allstate (Fortune 500 insurance) contact rather than a startup founder/CEO. Skipped per "founder meetings" task scope and consistent with prior Innovation Endeavors (2026-05-15), M12 (2026-05-14), Merlin Ventures (2026-05-21), SMBC (2026-05-27), Dakota (2026-06-01), and Hitachi/Forgepoint (2026-06-02) precedents for non-founder external meetings.
+
+Harmonic enrichment successful for Poolside (canonical match via entity_lookup → urn:harmonic:company:18920281, website poolside.ai), Jeff Jones (id 121855199 via entity_lookup), and Isaac Cohen (id 125845895 via entity_lookup). Kathy Woloszyn returned "No match" from entity_lookup for "Kathy Woloszyn at Harmony (harmony.io)" — recorded as plain-text attendee. Harmony company record + Nitzan Shapira person record already established from 2026-05-18 sync; no new Harmonic lookups required for the Harmony update path. No retries triggered — all Granola and Harmonic calls succeeded on first attempt (one Harmonic 403 on funding.fundingRounds detail for Poolside, consistent with prior runs).
+
+---
+
 ## 2026-06-02
 
 **Meetings synced:** 2

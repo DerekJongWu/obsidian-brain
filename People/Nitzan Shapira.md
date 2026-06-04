@@ -5,8 +5,8 @@ company: Harmony
 linkedin: https://linkedin.com/in/nitzan-shapira
 email: nitzan@harmony.io
 location: New York, NY
-relationship: Granola-captured call 2026-05-18 with Derek Wu (Harmony external attendee identity not in Granola attendee list)
-last_contact: 2026-05-18
+relationship: Direct: Granola-captured Fin <> Harmony follow-up 2026-06-03 (Atlas Beyond also present); prior Granola-captured call 2026-05-18 with Derek Wu
+last_contact: 2026-06-03
 created: 2026-05-18
 tags:
   - person
@@ -38,6 +38,7 @@ tags:
 - 2026-05-18: Granola-captured call. Only [[Derek Wu]] listed in Granola known participants — Granola did not capture the Harmony-side attendee identity. Title of the meeting ("Harmony.io <> Fin Capital") and full summary content confirm an external founder call; Nitzan is the likely Harmony attendee based on his CEO role and the founder-context in the summary. See [[Harmony - 2026-05-18 Summary]].
 - Active financing decision this week — Harmony deciding between a $10M SAFE at $150M cap or a $35M Series A at $150M with $15M from a lead investor and likely Lightspeed follow-on.
 - Repeat-founder credibility: Epsagon → Cisco at $400M+ in 2021, then 3 years at Cisco before starting Harmony — combination of operator + corp-dev + AI-infra investing experience.
+- 2026-06-03: Granola-captured follow-up ("Teams: Harmony <> Fin Capital"). Nitzan attended with Kathy Woloszyn from Harmony's side; Fin attendees Derek Wu, Jake Fuchs, Matthew Mann, Logan Allin; Atlas Beyond attendees Eiko Ooka and Kotai Gen. Decision-week update — Harmony appears to have selected the SAFE path: $12M target (up to $15M option), $1M committed, $5M open, decision needed in 1–2 weeks, announcement in 4–6 weeks. ARR reached $1M after 6 months of selling with 20 paying customers (Wiz, Sentry, eToro, retail/fashion/education segments). eToro deal at $230K. New hires: Eddie as General Counsel (from "Taxonia" — likely Axonius), new CMO from Lina / Perimeter 81 / Cloudflare. Granola rendered prior Epsagon exit at "~$500M" (vs $400M+ on 2026-05-18). See [[Harmony - 2026-06-03 Summary]].
 
 ---
 
