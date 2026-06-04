@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-06-03T11:15:00.000Z",
+  "synced_at": "2026-06-04T11:15:00.000Z",
   "results": [
     {
       "deal_id": "cmng87irn000bxkx41sdn1c0w",
@@ -28,9 +28,9 @@
     {
       "deal_id": "cmokcq7290028xkwkvy4yhde7",
       "company_name": "Blast Security",
-      "outlook_touch_at": "2026-05-27T15:11:32.000Z",
+      "outlook_touch_at": "2026-06-04T01:46:00.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2026-05-27T15:11:32.000Z",
+      "email_touch_at": "2026-06-04T01:46:00.000Z",
       "calendar_touch_at": null
     },
     {
@@ -124,9 +124,9 @@
     {
       "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
       "company_name": "Opti",
-      "outlook_touch_at": "2026-06-02T17:35:03.000Z",
+      "outlook_touch_at": "2026-06-03T22:24:15.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2026-06-02T17:35:03.000Z",
+      "email_touch_at": "2026-06-03T22:24:15.000Z",
       "calendar_touch_at": null
     },
     {
@@ -211,6 +211,8 @@
     }
   ],
   "errors": [
-    "Calendar queries for all 27 deals failed due to Microsoft Graph API rate limiting (HTTP 429 ApplicationThrottled). Only email signals were collected this run."
+    "Calendar queries for all deals failed due to Microsoft Graph API rate limiting (429 ApplicationThrottled). calendar_touch_at is null for all deals this run.",
+    "Full email body reads failed due to rate limiting. To-do extraction used email metadata and summary snippets only.",
+    "Deal 'Unknown' (katharos.co) returned no Outlook email results and is omitted from results."
   ]
 }

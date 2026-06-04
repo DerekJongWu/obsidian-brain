@@ -1,25 +1,42 @@
 {
-  "extracted_at": "2026-06-03T11:15:00.000Z",
+  "extracted_at": "2026-06-04T11:15:00.000Z",
   "items": [
     {
       "deal_id": "cmng87irv000fxkx4kklfc27z",
       "company_name": "Engramme",
-      "title": "Review Engramme round structure and term sheet from Gabriel",
-      "context": "Email from gabriel@engramme.com on Jun 2: Subject 'Engramme: round structure and term sheet' — this appears to be the term sheet confirmation Fin was waiting for per deal next_steps.",
+      "title": "Review Engramme term sheet and round structure details from Gabriel",
+      "context": "Email from gabriel@engramme.com on Jun 2: Subject 'Engramme: round structure and term sheet' — founder shared round structure and term sheet details. Previous next_steps noted 'Waiting for founders to confirm TS first.'",
       "source": "email",
       "source_date": "2026-06-02T00:59:01.000Z"
     },
     {
       "deal_id": "cmng87irs000dxkx4qgi53fq5",
       "company_name": "Unstructured",
-      "title": "Access and review Unstructured Series C VC Tracker spreadsheet",
-      "context": "Email from brian@unstructured.io on Jun 2: Shared 'Series_C_VC_Tracker_May2026' spreadsheet with Derek as editor — indicates Series C fundraise is actively underway and Fin Capital is being tracked.",
+      "title": "Review Unstructured Series C VC Tracker spreadsheet and assess positioning",
+      "context": "Email from brian@unstructured.io on Jun 2: Shared 'Series_C_VC_Tracker_May2026' spreadsheet as editor — Series C process appears active, aligning with previous next_steps that 'Series C will kick off after closing Q1.'",
       "source": "email",
       "source_date": "2026-06-02T00:37:47.000Z"
+    },
+    {
+      "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
+      "company_name": "Opti",
+      "title": "Follow up on Opti call with Barak Perelman and capture next steps",
+      "context": "Email thread Jun 2-3: Richie sent meeting invite for 2pm ET on Jun 2 to Barak (barakp@opti.ai). Barak replied Jun 3 confirming. Deal is in Deep Diligence — need to debrief on meeting and confirm LP intro pipeline.",
+      "source": "email",
+      "source_date": "2026-06-03T22:24:15.000Z"
+    },
+    {
+      "deal_id": "cmokcq7290028xkwkvy4yhde7",
+      "company_name": "Blast Security",
+      "title": "Follow up with Boris on Blast Security fundraise status post-Shabbat dinner",
+      "context": "Email from borisv@blast.security on Jun 4 replying to Richie's touch base about Cybersecurity Shabbat Dinner (5/29). Deal status: Partner Meetings, currently raising. Need to capture any commitments or next steps from the dinner follow-up.",
+      "source": "email",
+      "source_date": "2026-06-04T01:46:00.000Z"
     }
   ],
   "errors": [
-    "Full email body retrieval failed for all recent emails due to Microsoft Graph API rate limiting (HTTP 429). To-do extraction was performed using email search snippets/summaries only, which may have missed some action items.",
-    "Calendar queries for all deals and non-deal broader scan failed due to rate limiting. No calendar-sourced action items could be extracted this run."
+    "Calendar queries failed due to Microsoft Graph API rate limiting — no calendar-based to-do items could be extracted this run.",
+    "Full email body reads failed due to rate limiting. To-do extraction based on email metadata and summary snippets only; some action items may have been missed.",
+    "Non-deal calendar scan (LP meetings, internal meetings) could not be performed due to rate limiting."
   ]
 }
