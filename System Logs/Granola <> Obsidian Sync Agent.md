@@ -1,3 +1,20 @@
+## 2026-06-04
+
+**Meetings synced:** 2
+
+- **Olakai** — Fin Capital <> Olakai
+  - Created: Company note (Olakai), Meeting summary (2026-06-04), Transcript stub, Person: Xavier Casanova (Founder & CEO)
+  - Updated: —
+
+- **Cytactic** — Teams: Fin Capital <> Cytactic
+  - Created: Meeting summary (2026-06-04), Transcript stub
+  - Updated: Cytactic company note (last_touch → 2026-06-04; Team table — added Omer Itzhak as VP Product; Business Description appended with 2026-06-04 product-detail entries on response console / AI assistant / bot integration / dynamic playbook system / communication and disclosure hubs; Market & Competition appended with 2026-06-04 Gartner "broken IR" framing, ~$9M average major-incident damage figure, routine-incident frequency, and continuous-daily-use design intent; Deal Team Notes with 2026-06-04 follow-up entry; Next Steps — 3 new diligence items added on playbook automation boundaries, $9M ROI anchor validation, and Omer Itzhak's product-roadmap ownership); Nimrod Kozlovski person note (last_contact → 2026-06-04, Relationship Notes 2026-06-04 entry).
+  - Errors: Omer Itzhak (omer@cytactic.com) is VP Product, not founder/CEO — captured in Cytactic Team table without a separate person note, consistent with prior Poolside (2026-06-03) / Forestrat (2026-06-02) precedents for non-founder external attendees. Primary founder/CEO Nimrod Kozlovski already had a person note from the 2026-05-26 sync — updated rather than created.
+
+Note: 2 Granola meetings on 2026-06-04, both processed as external founder meetings. No internal-only @fin.capital meetings to filter. Harmonic enrichment successful for Olakai (canonical match via entity_lookup → urn:harmonic:company:57110903, website olakai.ai), Xavier Casanova (id 249018 via entity_lookup), and Omer Itzhak (id 132935118 via entity_lookup). Cytactic company record + Nimrod Kozlovski person record already established from 2026-05-26 sync; no new Harmonic lookups required on the Cytactic update path. One Harmonic 403 on funding.fundingRounds detail for Olakai (consistent with prior runs); one URN-lookup error on get_people for Omer Itzhak — retried with numeric ID per Harmonic guidance, succeeded on retry. No 5s-backoff retries triggered.
+
+---
+
 ## 2026-06-03
 
 **Meetings synced:** 2

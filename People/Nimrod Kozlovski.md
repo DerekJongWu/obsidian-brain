@@ -6,7 +6,7 @@ linkedin: "https://linkedin.com/in/nimrodkozlovski"
 email: "nimrod@cytactic.com"
 location: "New York City Metropolitan Area / Tel Aviv"
 relationship: "in-person NYC intro meeting"
-last_contact: 2026-05-26
+last_contact: 2026-06-04
 created: 2026-05-26
 tags:
   - person
@@ -28,6 +28,7 @@ tags:
 ## Relationship Notes
 
 - 2026-05-26: In-person NYC intro meeting with Derek Wu and Jake Fuchs (Fin Capital). Presented Cytactic (CIRM category leader per Gartner, ~$1M revenue, $10M+ Q1 pipeline, raising up to $7M SAFE ahead of a Q4 2026 Series A).
+- 2026-06-04: Teams product-demo follow-up with Derek Wu and Jake Fuchs (Fin Capital). Nimrod was joined by Omer Itzhak (VP Product) for a walkthrough of the response console, playbook system, bot integration, and disclosure hub. Reinforced Gartner "broken IR" framing and ~$9M average major-incident damage.
 - Other contact emails on Harmonic: nimrod.kozlovski@gmail.com, nmrdkoz@hotmail.com
 
 ## Mentions Across Vault

@@ -14,7 +14,7 @@ pitchbook: "https://pitchbook.com/profiles/company/558446-14"
 deck_link:
 data_room:
 lighthouse_link:
-last_touch: 2026-05-26
+last_touch: 2026-06-04
 created: 2026-05-26
 tags:
   - company
@@ -38,18 +38,27 @@ tags:
 | Co-Founder & Partner | Menny Barzilay | Co-Founder since 2019 (raised $16M); CTO at Tel Aviv University's Interdisciplinary Cyber Research Center; ex-Bank Hapoalim Head of IT Audit; former IDF Intelligence CISO |
 | Co-Founder & Board Member | Dan Amiram | Co-Founder since 2021; Dean / chaired professor at Tel Aviv University Coller School of Management; ex-Columbia Business School professor; PhD UNC Kenan-Flagler |
 | Chief Revenue Officer | Bill Hogan | Joined 2025; ex-SecurityScorecard CRO (scaled $500K→$100M); ex-Beyond Identity / CyberMaxx / SPHERE CRO (Granola summary referred to the role as "COO") |
+| VP Product | Omer Itzhak | Joined 2023-03; based in Tel Aviv-Yafo; attended 2026-06-04 Teams meeting (product demo) |
 
 ## Business Description
 
 - **Problem:** 90% of CISOs believe they are not breach-ready (Palo Alto report); AI has compressed attack timelines (vuln→exploit months→minutes; industry-wide attacks months→hours), and the market is shifting from reactive incident response to proactive breach readiness.
 - **Product:** Out-of-band platform (AWS-hosted, separate from client infrastructure) providing AI-powered incident-response guidance from day one. A 200+ attribute taxonomy unifies attack/impact description, integrating MITRE ATT&CK, NIST CSF, and FAIR. Dynamically generates response plans based on threat-actor attributes, tech-stack configuration (e.g., Halcyon vs. other EDR), and business-process context. Includes a simulation engine for testing response plans.
 - **Wedge:** Purpose-built CIRM category leader (per Gartner) as major IR/MDR firms begin exploring CIRM platforms.
+- **Product detail (as of 2026-06-04):** Platform combines readiness, response, and simulations. **Response console** centralizes all open cases requiring managerial attention or cross-team collaboration; supports major incidents / crisis management and routine operations; auto-assigns stakeholders and creates communication channels (Teams / Slack). **AI assistant** enables natural-language commands for incident initiation. **Bot integration** lets teams initiate incidents directly from Teams / Slack while the platform serves as backend recommendation engine — addresses enterprise requirement to avoid workflow disruption.
+- **Dynamic playbook system (as of 2026-06-04):** 50+ pre-built incident response playbooks; customizable triggers and conditions for automated incident creation. Legal / compliance considerations prevent full automation for major incidents; minor incidents (data leaks, BEC, stolen laptops) can be fully automated.
+- **Collaboration tools (as of 2026-06-04):** Communication hub for drafting messages to different audiences (employees, vendors, customers, media); disclosure hub for legal team to create real-time regulatory disclosures; continuous data collection and AI-driven response plan recommendations.
 
 ## Market & Competition
 
 - Cyber incident response management (CIRM) — new category announced by Gartner, with Cytactic positioned as leader
 - Major IR/MDR firms exploring CIRM: active discussions with managing partners at EY, Deloitte, Arctic Wolf
 - Key integrations: Slack/Teams (bot), ticketing (ServiceNow, Jira); partnership strategy with security vendors (Halcyon, SecurityScorecard)
+- **Market framing (as of 2026-06-04):** Gartner identified incident response as "broken" — currently paper-based, static, manual processes. No existing orchestration between security operations, legal, communications, and management teams.
+- **Typical enterprise incident frequency (as of 2026-06-04):**
+  - Major crises: infrequent but high impact (~**$9M average damage**)
+  - Routine incidents: several per week (BEC, data leaks, phishing, stolen devices)
+- Platform designed for **continuous daily use** to ensure readiness for major incidents; includes simulation engine for testing and maturity assessment.
 
 ## GTM & Business Model
 
@@ -79,6 +88,7 @@ tags:
 ## Deal Team Notes
 
 - 2026-05-26: In-person NYC intro meeting with Nimrod Kozlovski (CEO & Co-Founder); Derek Wu and Jake Fuchs on Fin side
+- 2026-06-04: Teams product-demo follow-up with Nimrod Kozlovski (CEO & Co-Founder) and Omer Itzhak (VP Product); Derek Wu and Jake Fuchs on Fin side. Walked through response console, playbook system (50+ pre-built), bot integration in Teams / Slack, communication hub and disclosure hub. Reinforced market framing (Gartner "broken" IR; $9M avg major-incident damage; routine incidents several per week per enterprise) and continuous-daily-use design intent
 - Bill Hogan role discrepancy: Granola summary calls him "COO"; Harmonic lists CRO (ex-SecurityScorecard CRO) — confirm title
 - Harmonic founding date is 2019 (co-founder Menny Barzilay since 2019); Nimrod Kozlovski joined as CEO & Co-Founder in 2022
 - Funding: Harmonic records $16M seed (Evolution Equity, Hyperwise); founder adds Shlomo Kramer as seed participant and a recent $4M SAFE from a Stripe exec not yet in Harmonic — flag for reconciliation
@@ -98,3 +108,6 @@ SORT date DESC
 - [ ] Diligence CIRM category durability and Gartner positioning
 - [ ] Evaluate Series A (Q4 2026) timing and Evolution Equity pro-rata
 - [ ] Leverage Fin BFSI relationships against current enterprise pipeline (Prudential, banks)
+- [ ] Diligence playbook customizability and the line between automated (minor) and human-in-the-loop (major) incidents
+- [ ] Validate $9M average major-incident damage figure as ROI anchor for enterprise pricing
+- [ ] Confirm Omer Itzhak's product roadmap ownership and engineering ratio
