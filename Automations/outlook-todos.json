@@ -1,42 +1,54 @@
 {
-  "extracted_at": "2026-06-04T11:15:00.000Z",
+  "extracted_at": "2026-06-05T11:15:00.000Z",
   "items": [
     {
       "deal_id": "cmng87irv000fxkx4kklfc27z",
       "company_name": "Engramme",
-      "title": "Review Engramme term sheet and round structure details from Gabriel",
-      "context": "Email from gabriel@engramme.com on Jun 2: Subject 'Engramme: round structure and term sheet' — founder shared round structure and term sheet details. Previous next_steps noted 'Waiting for founders to confirm TS first.'",
+      "title": "Schedule urgent catch-up with Gabriel (Engramme) on new term sheet before they sign",
+      "context": "Email from gabriel@engramme.com on Jun 2: 'We received a new term sheet. Before signing term sheets, we wanted to see if there's a way for us to work together. Do you have a few minutes to catch up?'",
       "source": "email",
       "source_date": "2026-06-02T00:59:01.000Z"
     },
     {
-      "deal_id": "cmng87irs000dxkx4qgi53fq5",
-      "company_name": "Unstructured",
-      "title": "Review Unstructured Series C VC Tracker spreadsheet and assess positioning",
-      "context": "Email from brian@unstructured.io on Jun 2: Shared 'Series_C_VC_Tracker_May2026' spreadsheet as editor — Series C process appears active, aligning with previous next_steps that 'Series C will kick off after closing Q1.'",
+      "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
+      "company_name": "Opti",
+      "title": "Respond to Barak (Opti) with ballpark commitment amount for $15-20M round",
+      "context": "Email from barakp@opti.ai on Jun 3: 'It will help me make the internal process quicker if you could share a ballpark amount of what you'd like to commit if we end up with a round of about $15-$20m at $75m-$90m pre money valuation'",
       "source": "email",
-      "source_date": "2026-06-02T00:37:47.000Z"
+      "source_date": "2026-06-03T22:24:15.000Z"
     },
     {
       "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
       "company_name": "Opti",
-      "title": "Follow up on Opti call with Barak Perelman and capture next steps",
-      "context": "Email thread Jun 2-3: Richie sent meeting invite for 2pm ET on Jun 2 to Barak (barakp@opti.ai). Barak replied Jun 3 confirming. Deal is in Deep Diligence — need to debrief on meeting and confirm LP intro pipeline.",
+      "title": "Follow up with Barak (Opti) for post-board meeting updates early next week",
+      "context": "Email from barakp@opti.ai on Jun 3: 'We actually have our board meeting tomorrow, so I think I'll have concrete updates to share by early next week'",
       "source": "email",
       "source_date": "2026-06-03T22:24:15.000Z"
     },
     {
       "deal_id": "cmokcq7290028xkwkvy4yhde7",
       "company_name": "Blast Security",
-      "title": "Follow up with Boris on Blast Security fundraise status post-Shabbat dinner",
-      "context": "Email from borisv@blast.security on Jun 4 replying to Richie's touch base about Cybersecurity Shabbat Dinner (5/29). Deal status: Partner Meetings, currently raising. Need to capture any commitments or next steps from the dinner follow-up.",
+      "title": "Schedule catch-up call with Boris (Blast Security) for Friday or Monday morning",
+      "context": "Email from borisv@blast.security on Jun 4: 'I would love to catch up either Friday or Monday morning. Please let me know which day works better for you, and I will send a calendar invitation.' Richie had reached out about the round Boris is pulling together.",
       "source": "email",
       "source_date": "2026-06-04T01:46:00.000Z"
+    },
+    {
+      "deal_id": "cmokcq72e0029xkwk4mn7zbgl",
+      "company_name": "Prism Layer",
+      "title": "Send intro to Banxware for Simone (Prism Layer)",
+      "context": "Email from logan@fin.capital on May 31: 'On the company side, will send you an intro to Banxware and will see if SumUp is interested in meeting' — commitment made after in-person meeting with Simone.",
+      "source": "email",
+      "source_date": "2026-05-31T22:17:39.000Z"
+    },
+    {
+      "deal_id": "cmokcq72e0029xkwk4mn7zbgl",
+      "company_name": "Prism Layer",
+      "title": "Check with SumUp if interested in meeting Prism Layer",
+      "context": "Email from logan@fin.capital on May 31: 'will see if SumUp is interested in meeting — they're a scaled / late stage company and tend to build in-house'",
+      "source": "email",
+      "source_date": "2026-05-31T22:17:39.000Z"
     }
   ],
-  "errors": [
-    "Calendar queries failed due to Microsoft Graph API rate limiting — no calendar-based to-do items could be extracted this run.",
-    "Full email body reads failed due to rate limiting. To-do extraction based on email metadata and summary snippets only; some action items may have been missed.",
-    "Non-deal calendar scan (LP meetings, internal meetings) could not be performed due to rate limiting."
-  ]
+  "errors": []
 }
