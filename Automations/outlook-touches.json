@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-06-05T11:15:00.000Z",
+  "synced_at": "2026-06-07T11:15:00.000Z",
   "results": [
     {
       "deal_id": "cmng87irn000bxkx41sdn1c0w",
@@ -20,9 +20,9 @@
     {
       "deal_id": "cmng87is5000oxkx4e1efggx1",
       "company_name": "Backline AI",
-      "outlook_touch_at": "2026-04-20T18:00:00.000Z",
-      "outlook_touch_source": "calendar",
-      "email_touch_at": "2026-03-30T21:33:12.000Z",
+      "outlook_touch_at": "2026-04-20T20:24:26.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-20T20:24:26.000Z",
       "calendar_touch_at": "2026-04-20T18:00:00.000Z"
     },
     {
@@ -44,10 +44,10 @@
     {
       "deal_id": "cmo1qm9mz000uxkb3hcclcmvb",
       "company_name": "Coffee AI",
-      "outlook_touch_at": "2026-04-15T18:35:00.000Z",
-      "outlook_touch_source": "calendar",
-      "email_touch_at": "2026-04-14T04:04:52.000Z",
-      "calendar_touch_at": "2026-04-15T18:35:00.000Z"
+      "outlook_touch_at": "2026-04-15T19:33:18.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-15T19:33:18.000Z",
+      "calendar_touch_at": null
     },
     {
       "deal_id": "cmnghs8he0006xkl5p238qtdx",
@@ -55,14 +55,14 @@
       "outlook_touch_at": "2026-05-18T19:48:28.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-05-18T19:48:28.000Z",
-      "calendar_touch_at": "2026-04-01T20:00:00.000Z"
+      "calendar_touch_at": null
     },
     {
       "deal_id": "cmokcq72i002bxkwkccaz5y8s",
       "company_name": "Dux",
-      "outlook_touch_at": "2026-04-22T15:51:17.000Z",
+      "outlook_touch_at": "2026-04-27T19:46:18.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2026-04-22T15:51:17.000Z",
+      "email_touch_at": "2026-04-27T19:46:18.000Z",
       "calendar_touch_at": null
     },
     {
@@ -71,7 +71,7 @@
       "outlook_touch_at": "2026-05-14T23:35:22.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-05-14T23:35:22.000Z",
-      "calendar_touch_at": "2026-04-01T19:30:00.000Z"
+      "calendar_touch_at": null
     },
     {
       "deal_id": "cmnxe16gv0007xkun6e56eg0z",
@@ -100,9 +100,9 @@
     {
       "deal_id": "cmnxdypzd0003xkunqt2a8xv8",
       "company_name": "IndyKite",
-      "outlook_touch_at": "2026-04-09T19:00:00.000Z",
-      "outlook_touch_source": "calendar",
-      "email_touch_at": null,
+      "outlook_touch_at": "2026-05-13T14:58:19.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-05-13T14:58:19.000Z",
       "calendar_touch_at": "2026-04-09T19:00:00.000Z"
     },
     {
@@ -156,10 +156,10 @@
     {
       "deal_id": "cmosq9nxf002pxkwk05g31oln",
       "company_name": "Rein Security",
-      "outlook_touch_at": "2026-05-01T15:30:00.000Z",
-      "outlook_touch_source": "calendar",
+      "outlook_touch_at": "2026-05-01T09:04:26.000Z",
+      "outlook_touch_source": "email",
       "email_touch_at": "2026-05-01T09:04:26.000Z",
-      "calendar_touch_at": "2026-05-01T15:30:00.000Z"
+      "calendar_touch_at": null
     },
     {
       "deal_id": "cmo2yv5ax0013xkb39paudwz0",
@@ -204,13 +204,11 @@
     {
       "deal_id": "cmo8wg7c9003wxkb3xohvsj4d",
       "company_name": "flowstate",
-      "outlook_touch_at": "2026-04-20T18:45:00.000Z",
-      "outlook_touch_source": "calendar",
-      "email_touch_at": "2026-04-20T18:11:29.000Z",
+      "outlook_touch_at": "2026-04-20T18:59:59.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-20T18:59:59.000Z",
       "calendar_touch_at": "2026-04-20T18:45:00.000Z"
     }
   ],
-  "errors": [
-    "Deal 'Unknown' (katharos.co) returned no Outlook email or calendar results and is omitted from results."
-  ]
+  "errors": []
 }
