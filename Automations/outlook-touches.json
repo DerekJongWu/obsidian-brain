@@ -1,20 +1,20 @@
 {
-  "synced_at": "2026-06-08T11:24:33.000Z",
+  "synced_at": "2026-06-09T11:15:00.000Z",
   "results": [
     {
       "deal_id": "cmng87irn000bxkx41sdn1c0w",
       "company_name": "Aembit",
-      "outlook_touch_at": "2026-06-03T04:12:03.000Z",
+      "outlook_touch_at": "2026-06-02T20:01:02.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2026-06-03T04:12:03.000Z",
+      "email_touch_at": "2026-06-02T20:01:02.000Z",
       "calendar_touch_at": "2026-03-23T21:30:00.000Z"
     },
     {
       "deal_id": "cmohdibfo000ixkwktbqjrvgx",
       "company_name": "Agentix",
-      "outlook_touch_at": "2026-04-21T20:02:11.000Z",
+      "outlook_touch_at": "2026-04-21T19:42:59.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2026-04-21T20:02:11.000Z",
+      "email_touch_at": "2026-04-21T19:42:59.000Z",
       "calendar_touch_at": null
     },
     {
@@ -22,7 +22,7 @@
       "company_name": "Backline AI",
       "outlook_touch_at": "2026-04-20T18:00:00.000Z",
       "outlook_touch_source": "calendar",
-      "email_touch_at": null,
+      "email_touch_at": "2026-03-30T20:40:14.000Z",
       "calendar_touch_at": "2026-04-20T18:00:00.000Z"
     },
     {
@@ -36,17 +36,17 @@
     {
       "deal_id": "cmoiqlv1d001mxkwkdagx1ozo",
       "company_name": "Cobalt",
-      "outlook_touch_at": "2025-11-18T19:02:48.000Z",
+      "outlook_touch_at": "2025-11-18T19:01:15.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2025-11-18T19:02:48.000Z",
+      "email_touch_at": "2025-11-18T19:01:15.000Z",
       "calendar_touch_at": null
     },
     {
       "deal_id": "cmo1qm9mz000uxkb3hcclcmvb",
       "company_name": "Coffee AI",
-      "outlook_touch_at": "2026-04-14T04:04:52.000Z",
+      "outlook_touch_at": "2026-04-15T19:33:18.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2026-04-14T04:04:52.000Z",
+      "email_touch_at": "2026-04-15T19:33:18.000Z",
       "calendar_touch_at": null
     },
     {
@@ -71,7 +71,7 @@
       "outlook_touch_at": "2026-05-14T23:35:22.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-05-14T23:35:22.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-04-01T19:30:00.000Z"
     },
     {
       "deal_id": "cmnxe16gv0007xkun6e56eg0z",
@@ -103,7 +103,7 @@
       "outlook_touch_at": "2026-05-13T14:58:19.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-05-13T14:58:19.000Z",
-      "calendar_touch_at": "2026-04-09T19:00:00.000Z"
+      "calendar_touch_at": "2026-05-06T20:30:00.000Z"
     },
     {
       "deal_id": "cmoisd7dz001oxkwk89odc8v7",
@@ -116,9 +116,9 @@
     {
       "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
       "company_name": "Opti",
-      "outlook_touch_at": "2026-06-03T22:24:15.000Z",
+      "outlook_touch_at": "2026-06-08T15:50:53.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2026-06-03T22:24:15.000Z",
+      "email_touch_at": "2026-06-08T15:50:53.000Z",
       "calendar_touch_at": null
     },
     {
@@ -148,10 +148,10 @@
     {
       "deal_id": "cmosq9nxf002pxkwk05g31oln",
       "company_name": "Rein Security",
-      "outlook_touch_at": "2026-05-01T15:30:00.000Z",
-      "outlook_touch_source": "calendar",
+      "outlook_touch_at": "2026-05-01T09:04:26.000Z",
+      "outlook_touch_source": "email",
       "email_touch_at": "2026-05-01T09:04:26.000Z",
-      "calendar_touch_at": "2026-05-01T15:30:00.000Z"
+      "calendar_touch_at": null
     },
     {
       "deal_id": "cmo2yv5ax0013xkb39paudwz0",
