@@ -1,3 +1,16 @@
+## 2026-06-08
+
+**Meetings synced:** 1
+
+- **Modern** — 30 min meeting between Seb Poole and Daria Davydenko
+  - Created: Company note (Modern), Meeting summary (2026-06-08), Transcript stub, Person: Seb Poole (CEO & Co-Founder)
+  - Updated: —
+  - Errors: Granola rendered the co-founder's name as "Alex from Canva" — Harmonic confirms canonical name is **Aleks Tomovski** (CTO & Co-Founder since Nov 2025, ex-Software Engineering Lead at Canva 2022–2025); used "Aleks Tomovski" in the Team table. No separate person note created for Aleks since he was not on the call, consistent with prior precedents for non-attending co-founders. Seb's primary Harmonic email is `seb@wilgahcapital.com` (his investor entity) — meeting attendee email `seb@getmodern.ai` used as primary in the person note, Wilgah + Frankie Health legacy addresses captured under Alternate Contacts. Granola summary referenced "Pano Ricard" as a Frankie Health client — corrected to **Pernod Ricard**. Granola summary said Seb was a "software engineer at $400M Australian retailer (18 months)" but Harmonic's experience record does not show this specific role with a matching duration; Harmonic shows Forever New Clothing (Help Desk / Technical PM / IT Manager 2013–2016) as the most likely Australian retailer reference — captured the Granola framing in the meeting summary verbatim and Harmonic's record in the person background. Harmonic 403 on funding.fundingRounds detail (consistent with prior runs) — captured summary funding fields ($500K pre-seed 2026-04-08, Y Combinator) only.
+
+Note: 1 Granola meeting on 2026-06-08; external attendee Seb Poole (seb@getmodern.ai) plus internal attendees Derek Wu (note creator) and Daria Davydenko — passed the all-@fin.capital internal-meeting filter. Processed as an external founder meeting. Harmonic enrichment successful for Modern (urn:harmonic:company:66675738 via website-domain lookup on getmodern.ai — YC P26 batch, San Francisco, founded 2025-11-01, $500K pre-seed last_funding_at 2026-04-08 led by Y Combinator, 2 employees: Aleks Tomovski + Seb Poole as Co-Founders). Seb Poole record (id 358988) and Aleks Tomovski record (id 196333969) returned in the company-level employees array — no separate person-lookup calls required. **Time-sensitive flag for IC:** round closing Wed–Fri this week (2026-06-10 to 2026-06-12) before YC Demo Day; deck inbound from Seb today for Fin IC. No retries triggered — single Harmonic call succeeded on first attempt (one expected 403 on funding.fundingRounds detail).
+
+---
+
 ## 2026-06-07
 
 **Meetings synced:** 0
