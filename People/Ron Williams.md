@@ -6,7 +6,7 @@ linkedin: https://linkedin.com/in/ronwilliams
 email: ron@kindo.ai
 location: Venice Beach, California
 relationship: Granola intro call 2026-05-18 with Logan Allin, Lissette Morel, Ren Riley, Derek Wu
-last_contact: 2026-05-18
+last_contact: 2026-06-09
 created: 2026-05-18
 tags:
   - person
@@ -35,6 +35,7 @@ tags:
 ## Relationship Notes
 
 - 2026-05-18 first Granola-captured Fin call. Fin attendees: Logan Allin, Lissette Morel, Ren Riley, [[Derek Wu]]. See [[Kindo - 2026-05-18 Summary]].
+- 2026-06-09 joint Deloitte + Fin review of Kindo adoption. Ron walked through Deloitte's selection, 3-year $5M/yr contract, train-the-trainer rollout, Alliance progression, and ~10% Kindo attribution on a $260M / 3-year Deloitte AI-led transformation practice target. Fin attendees: [[Derek Wu]], Fan Wen, Logan Allin, Matthew Mann, Jake Fuchs, Claire Beale. Deloitte attendees: Vikram Reddy Kunchala, Karol Ortiz. See [[Kindo - 2026-06-09 Summary]].
 - Primary decision-maker for the active Kindo round (signed TS with Forge Point — $8M of $15M at $100M post; $7M remaining for additional investors).
 - Heavy enterprise-security operator background (Riot, Clover, Bird) — credible on the offensive cyber model and Linux-sandbox-for-agents bet.
 - Hooked into Drive Capital from the 2024 Series A; broader investor circle includes RRE, Eniac, Riot Ventures, MyHeritage, Andrew Peterson (Segment), Scooter Braun, David Politis (BetterCloud).
