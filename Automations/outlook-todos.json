@@ -1,32 +1,38 @@
 {
-  "extracted_at": "2026-06-10T11:15:00.000Z",
+  "extracted_at": "2026-06-11T11:15:00.000Z",
   "items": [
     {
       "deal_id": "cmokcq7290028xkwkvy4yhde7",
       "company_name": "Blast Security",
-      "title": "Schedule follow-up call with Boris (Blast Security) about their fundraising round",
-      "context": "Email from borisv@blast.security on Jun 4: Boris responded to Richie's outreach about the round, saying 'I would love to catch up either Friday or Monday morning. Please let me know which day works better.' Richie had asked to discuss the round Blast is putting together after being impressed by the demo.",
+      "title": "Schedule catch-up with Boris (Blast Security) to discuss their fundraising round",
+      "context": "Email from Richie on Jun 10: 'Apologies for the delay here, Boris. Do you have availability this week?' — Boris had previously said he'd love to catch up Friday or Monday to discuss the round.",
       "source": "email",
-      "source_date": "2026-06-04T01:46:00.000Z"
+      "source_date": "2026-06-10T18:12:32.000Z"
     },
     {
       "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
       "company_name": "Opti",
-      "title": "Follow up with Barak on Opti round details after board meeting",
-      "context": "Email thread Jun 3-8: Barak (CEO) had board meeting Jun 4 and said he'd have 'concrete updates by early next week.' Round discussed at ~$15-20M at $75-90M pre-money. Richie confirmed ~$2mm check interest on Jun 8 and offered to hop on the phone. No response from Barak visible yet.",
+      "title": "Confirm meeting time with Idan Basre (brava.security) introduced by Barak Perelman (Opti CEO)",
+      "context": "Email from Lissette on Jun 10 offering time slots: Mon Jun 15 (10-11:30am, 1:30pm, 3-5pm ET), Tue Jun 16 (10-1:30pm, 3:30-5pm ET), Wed Jun 17 (10-11am, 11:30am, 1pm or 3pm ET). Waiting for Idan's response.",
       "source": "email",
-      "source_date": "2026-06-08T15:50:53.000Z"
+      "source_date": "2026-06-10T19:15:43.000Z"
+    },
+    {
+      "deal_id": "cmng87is3000mxkx4bg2ln251",
+      "company_name": "Echelon AI",
+      "title": "Leverage SMBC meeting on Jun 15 to push Echelon AI intro to Gordon",
+      "context": "Calendar event 'SMBC <> Fin Capital' on Jun 15 at SF office with Yuji Ogata and Dawn Berry from SMBC. Echelon AI next_steps: 'Pushing for intro to SMBC (Gordon)' — the upcoming SMBC meeting is an opportunity to facilitate this.",
+      "source": "calendar",
+      "source_date": "2026-06-15T18:00:00.000Z"
     },
     {
       "deal_id": null,
       "company_name": null,
-      "title": "Prep for SMBC Cyber Security Trend meeting at SF office",
-      "context": "Calendar event 'SMBC <> Fin Capital Meeting for Cyber Security Trend' on Jun 15 at 1 Sansome St SF with attendees from SMBC (Yuji Ogata, Dawn Berry) and JRI America (Yuko Tazuki). Full investment team invited.",
+      "title": "Prep for SMBC Cyber Security Trend meeting at Fin Capital SF office",
+      "context": "Calendar event 'SMBC <> Fin Capital - Meeting for Cyber Security Trend' on Jun 15 at 1 Sansome St Suite 3950. Attendees include SMBC (Yuji Ogata, Dawn Berry), Fin Capital (Jake, Derek, Fan, Daria, Logan), and JRI America (Yuko Tazuki).",
       "source": "calendar",
       "source_date": "2026-06-15T18:00:00.000Z"
     }
   ],
-  "errors": [
-    "Aembit: email body too large to parse for to-do extraction (101K chars of HTML content)"
-  ]
+  "errors": []
 }
