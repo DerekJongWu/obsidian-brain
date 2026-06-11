@@ -1,3 +1,14 @@
+## 2026-06-10
+
+**Meetings synced:** 1
+
+- **Chronicle Labs** — Founder Meeting between Ayman Saleh and Stephanie PEREZ
+  - Created: Company note (Chronicle Labs), Meeting summary (2026-06-10), Transcript stub, Person: Ayman Saleh (Co-Founder & CEO)
+  - Updated: —
+  - Errors: Harmonic `search_companies_natural_language` timed out twice (initial call + one 5s-backoff retry per global constraints) — skipped detailed enrichment. `entity_lookup` succeeded on both Chronicle Labs (confirmed AI agent platform / chronicle-labs.com / YC; alt: Chronicle Labs blockchain oracle) and Ayman Saleh (confirmed Founder & CEO at Chronicle Labs, ex-autonomous systems engineer) but URNs returned as "URN not resolved" — no LinkedIn URL, headcount, funding rounds, founded date, HQ, or detailed work history available. Company note + founder note populated from Granola summary content (JPL/NASA Mars rover background, Deutsche Bank quant, $45K MRR from $5K at YC entry, $4M @ $40M cap with $1M closed, customer + pipeline list). Co-founder **Rawan** (ex-Boeing 737 Max / MS Flight Simulator) — last name not captured in Granola summary; flagged in Next Steps and Team table. **Time-sensitive flag for IC:** fundraise launched Monday 2026-06-08, $1M of $4M closed; Stephanie committed to feedback by 2026-06-11; Verizon LOI is the most attention-grabbing inbound signal (~1B calls/year, building agents in-house). Handshake AI acquisition offer noted (declined). One Granola meeting on 2026-06-10; external attendee Ayman Saleh (ayman@chronicle-labs.com) plus internal attendees Derek Wu and Stephanie Perez — passed the all-@fin.capital internal-meeting filter.
+
+---
+
 ## 2026-06-09
 
 **Meetings synced:** 6
