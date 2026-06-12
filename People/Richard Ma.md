@@ -6,7 +6,7 @@ linkedin: https://linkedin.com/in/rtmtd
 email: richard@commondefense.ai
 location:
 relationship:
-last_contact: 2026-05-12
+last_contact: 2026-06-11
 created: 2026-05-12
 tags:
   - person
@@ -33,6 +33,7 @@ tags:
 ## Relationship Notes
 
 - Met 2026-05-12 with [[Derek Wu]] and [[Jake Fuchs]]; Krishna Sriram (Co-Founder) also on the call
+- 2026-06-11 second Granola call with [[Derek Wu]] and Jake Fuchs; Krishna Sriram and Kacper Bak (Common Defense) also on the call. Product live ~30 days, ~$200K ARR, 5 paying customers. See [[Common Defense - 2026-06-11 Summary]].
 
 ---
 ## Mentions Across Vault
