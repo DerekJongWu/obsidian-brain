@@ -1,3 +1,21 @@
+## 2026-06-12
+
+**Meetings synced:** 2
+
+- **Withai** — Stephanie PEREZ <> Ian McInnis
+  - Created: Company note (Withai), Meeting summary (2026-06-12), Transcript stub, Person: Ian McInnis (Co-Founder)
+  - Updated: —
+  - Errors: Harmonic 403 on funding.fundingRounds detail (consistent with prior runs) — captured summary funding fields only ($500K PRE_SEED, 2026-02-20 last_funding_at, Y Combinator). Withai has two co-founders per Harmonic — Benjamin Finch (Founder & CEO, started Oct 2025) and Ian M.J. McInnis (Co-Founder, started Feb 2026). Ian was the sole external attendee, so per task scope ("the non-@fin.capital attendee who is most likely the founder/CEO based on context") person note created for Ian only; Benjamin Finch captured in Withai's Team table without a separate person note, consistent with Poolside (2026-06-03) precedent. Harmonic location field returned New York, NY at the company level but employee experience records show San Francisco, CA — used SF (YC P26 / current employee location) for hq. Ian's contact.primaryEmail was null in Harmonic; used ian@withai.co from the Granola attendee record. Harmonic estimated valuation ~$2M is stale (pre-current $30M-cap YC round) — flagged in Financing section.
+
+- **Echelon** — 30 Mins Meeting between Fan + Derek and Adam Hoffman
+  - Created: Company note (Echelon), Meeting summary (2026-06-12), Transcript stub, Person: Adam Hoffman (Founder & CEO)
+  - Updated: —
+  - Errors: entity_lookup for "Echelon echelonos.com" initially returned only an unrelated Echelon AI (echelonai); resolved canonical record on second pass via direct identifier lookup (website_domain=echelonos.com → urn:harmonic:company:62490449). Harmonic record is sparse — VENTURE_UNKNOWN / $0 / 0 rounds, headcount of 2 (only 1 engineering employee tracked), employees[] empty — while founder reports $2M ARR / 17 customers / 12 engineers / $10–15M round closing end of next week. Captured founder-reported figures in Traction/Financing; flagged Harmonic sparsity. Adam Hoffman returned "No match" from Harmonic entity_lookup — person note created without LinkedIn / location enrichment; email from Granola attendee record (adam@echelonos.com). Whole Logic (Blackstone portcos / second-largest healthcare take-private) named as a customer — not yet a separate company note (logo only, no diligence yet). No retries triggered — all Granola and Harmonic calls succeeded on first attempt (one Harmonic 403 on funding.fundingRounds detail, consistent with prior runs).
+
+Note: 2 Granola meetings on 2026-06-12; both processed as external founder meetings. No internal-only ALL-@fin.capital meetings to skip. Harmonic enrichment partial — Withai resolved to canonical urn:harmonic:company:72542614 via entity_lookup; Echelon resolved to canonical urn:harmonic:company:62490449 via direct website_domain lookup after entity_lookup miss. Ian McInnis populated from Withai's employees[] list (id 195296446, LinkedIn slug imj-mcinnis). Adam Hoffman not found in Harmonic — person note populated from Granola attendee data + meeting context only.
+
+---
+
 ## 2026-06-11
 
 **Meetings synced:** 3
@@ -140,7 +158,6 @@ Note: 3 Granola meetings on 2026-06-05; all 3 had at least one non-@fin.capital 
   - Errors: Omer Itzhak (omer@cytactic.com) is VP Product, not founder/CEO — captured in Cytactic Team table without a separate person note, consistent with prior Poolside (2026-06-03) / Forestrat (2026-06-02) precedents for non-founder external attendees. Primary founder/CEO Nimrod Kozlovski already had a person note from the 2026-05-26 sync — updated rather than created.
 
 Note: 2 Granola meetings on 2026-06-04, both processed as external founder meetings. No internal-only @fin.capital meetings to filter. Harmonic enrichment successful for Olakai (canonical match via entity_lookup → urn:harmonic:company:57110903, website olakai.ai), Xavier Casanova (id 249018 via entity_lookup), and Omer Itzhak (id 132935118 via entity_lookup). Cytactic company record + Nimrod Kozlovski person record already established from 2026-05-26 sync; no new Harmonic lookups required on the Cytactic update path. One Harmonic 403 on funding.fundingRounds detail for Olakai (consistent with prior runs); one URN-lookup error on get_people for Omer Itzhak — retried with numeric ID per Harmonic guidance, succeeded on retry. No 5s-backoff retries triggered.
-
 ---
 
 ## 2026-06-03
