@@ -1,3 +1,13 @@
+## 2026-06-14
+
+**Meetings synced:** 0
+
+- **No external meetings found**
+
+Note: Granola list_meetings query for custom range 2026-06-14 to 2026-06-14 returned zero meetings. Confirmed with a wider 2026-06-13 to 2026-06-15 query (also zero) and a last_week query, which showed the most recent meeting was 2026-06-12 (Withai, Echelon — already synced). 2026-06-14 was a Sunday, consistent with an empty meeting day. No Harmonic calls required. No retries triggered — first Granola call succeeded with a zero-count response. No company, person, meeting, or transcript notes created or updated.
+
+---
+
 ## 2026-06-13
 
 **Meetings synced:** 0
