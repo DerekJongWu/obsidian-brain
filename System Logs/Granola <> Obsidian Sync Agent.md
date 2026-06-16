@@ -1,3 +1,16 @@
+## 2026-06-15
+
+**Meetings synced:** 1
+
+- **Humwork** — Intro | Humwork & Fin Capital
+  - Created: Company note (Humwork), Meeting summary (2026-06-15), Transcript stub, Person: Yash Goenka (Co-Founder & CEO)
+  - Updated: —
+  - Errors: Granola get_meetings returned `No summary` (note creator did not save AI summary); reconstructed Summary body content from the full Granola transcript via get_meeting_transcript. One expected Harmonic 403 on funding.fundingRounds detail (consistent with prior runs) — captured summary funding fields only ($500K PRE_SEED, 2026-02-27 last_funding_at, Y Combinator). Co-founder "Rohan" mentioned by Yash in transcript but Harmonic employees[] for Humwork returned only Yash Goenka — Rohan captured in Team table without full name / separate person note (consistent with Withai 2026-06-12 / Superlog 2026-06-11 precedent for primary-founder-only). Harmonic valuation $2M flagged as stale (pre-current $30M-cap round). Yash's Harmonic primary email is yash@jarvys.ai (pre-Humwork); used yash@humwork.ai from the Granola attendee record. No retries triggered — all Granola and Harmonic calls succeeded on first attempt.
+
+Note: 1 Granola meeting on 2026-06-15; processed as external founder meeting (yash@humwork.ai is the sole non-@fin.capital attendee). No internal-only ALL-@fin.capital meetings to skip. Harmonic enrichment partial — Humwork resolved to canonical urn:harmonic:company:70768350 via entity_lookup on first pass; Yash Goenka populated from Humwork's employees[] list (id 20803308, LinkedIn slug yashvg). YC P26 Demo Day is 2026-06-16 (day after this meeting) — flagged in company note as a time-sensitive round-momentum signal.
+
+---
+
 ## 2026-06-14
 
 **Meetings synced:** 0
