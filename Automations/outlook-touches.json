@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-06-15T11:15:00.000Z",
+  "synced_at": "2026-06-16T11:15:00.000Z",
   "results": [
     {
       "deal_id": "cmng87irn000bxkx41sdn1c0w",
@@ -20,9 +20,9 @@
     {
       "deal_id": "cmokcq7290028xkwkvy4yhde7",
       "company_name": "Blast Security",
-      "outlook_touch_at": "2026-06-15T00:36:05.000Z",
+      "outlook_touch_at": "2026-06-10T18:12:32.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2026-06-15T00:36:05.000Z",
+      "email_touch_at": "2026-06-10T18:12:32.000Z",
       "calendar_touch_at": "2026-05-14T13:30:00.000Z"
     },
     {
@@ -108,9 +108,9 @@
     {
       "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
       "company_name": "Opti",
-      "outlook_touch_at": "2026-06-10T19:15:43.000Z",
+      "outlook_touch_at": "2026-06-08T15:50:53.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2026-06-10T19:15:43.000Z",
+      "email_touch_at": "2026-06-08T15:50:53.000Z",
       "calendar_touch_at": null
     },
     {
@@ -119,7 +119,7 @@
       "outlook_touch_at": "2026-05-27T15:07:14.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-05-27T15:07:14.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-03-30T18:00:00.000Z"
     },
     {
       "deal_id": "cmng87is1000kxkx4kxmnpgp0",
@@ -140,10 +140,10 @@
     {
       "deal_id": "cmosq9nxf002pxkwk05g31oln",
       "company_name": "Rein Security",
-      "outlook_touch_at": "2026-05-01T09:04:26.000Z",
-      "outlook_touch_source": "email",
+      "outlook_touch_at": "2026-05-01T15:30:00.000Z",
+      "outlook_touch_source": "calendar",
       "email_touch_at": "2026-05-01T09:04:26.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-05-01T15:30:00.000Z"
     },
     {
       "deal_id": "cmo2yv5ax0013xkb39paudwz0",
@@ -164,10 +164,10 @@
     {
       "deal_id": "cmng87irs000dxkx4qgi53fq5",
       "company_name": "Unstructured",
-      "outlook_touch_at": "2026-06-02T00:37:47.000Z",
-      "outlook_touch_source": "email",
+      "outlook_touch_at": "2026-06-19T01:30:00.000Z",
+      "outlook_touch_source": "calendar",
       "email_touch_at": "2026-06-02T00:37:47.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-06-19T01:30:00.000Z"
     },
     {
       "deal_id": "cmnnanp300000xk694j8hue9e",
@@ -194,7 +194,5 @@
       "calendar_touch_at": "2026-04-20T18:45:00.000Z"
     }
   ],
-  "errors": [
-    "Cobalt calendar search initially failed due to MailboxConcurrency rate limit (HTTP 429); retry returned no results"
-  ]
+  "errors": []
 }
