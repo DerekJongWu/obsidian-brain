@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-06-16T11:15:00.000Z",
+  "synced_at": "2026-06-17T11:15:00.000Z",
   "results": [
     {
       "deal_id": "cmng87irn000bxkx41sdn1c0w",
@@ -20,9 +20,9 @@
     {
       "deal_id": "cmokcq7290028xkwkvy4yhde7",
       "company_name": "Blast Security",
-      "outlook_touch_at": "2026-06-10T18:12:32.000Z",
-      "outlook_touch_source": "email",
-      "email_touch_at": "2026-06-10T18:12:32.000Z",
+      "outlook_touch_at": "2026-05-14T13:30:00.000Z",
+      "outlook_touch_source": "calendar",
+      "email_touch_at": null,
       "calendar_touch_at": "2026-05-14T13:30:00.000Z"
     },
     {
@@ -108,9 +108,9 @@
     {
       "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
       "company_name": "Opti",
-      "outlook_touch_at": "2026-06-08T15:50:53.000Z",
+      "outlook_touch_at": "2026-06-16T16:55:22.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2026-06-08T15:50:53.000Z",
+      "email_touch_at": "2026-06-16T16:55:22.000Z",
       "calendar_touch_at": null
     },
     {
@@ -140,10 +140,10 @@
     {
       "deal_id": "cmosq9nxf002pxkwk05g31oln",
       "company_name": "Rein Security",
-      "outlook_touch_at": "2026-05-01T15:30:00.000Z",
-      "outlook_touch_source": "calendar",
+      "outlook_touch_at": "2026-05-01T09:04:26.000Z",
+      "outlook_touch_source": "email",
       "email_touch_at": "2026-05-01T09:04:26.000Z",
-      "calendar_touch_at": "2026-05-01T15:30:00.000Z"
+      "calendar_touch_at": null
     },
     {
       "deal_id": "cmo2yv5ax0013xkb39paudwz0",
@@ -183,7 +183,7 @@
       "outlook_touch_at": "2026-03-18T20:51:06.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-03-18T20:51:06.000Z",
-      "calendar_touch_at": "2026-03-17T15:00:00.000Z"
+      "calendar_touch_at": null
     },
     {
       "deal_id": "cmo8wg7c9003wxkb3xohvsj4d",
