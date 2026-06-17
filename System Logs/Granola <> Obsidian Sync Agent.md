@@ -1,3 +1,21 @@
+## 2026-06-16
+
+**Meetings synced:** 2
+
+- **Brava Security** — Teams: Fin Capital <> Brava Security
+  - Created: Company note (Brava Security), Meeting summary (2026-06-16), Transcript stub, Person: Idan Basre (Co-Founder & CEO)
+  - Updated: —
+  - Errors: Harmonic 403 on funding.fundingRounds detail (consistent with prior runs). Brava Security's Harmonic record is sparse — headcount 2, $0 funding, no founding date, employees[] empty (likely still indexed under a stealth identifier; Idan's Harmonic profile still lists "Stealth Company (Idan Basre)" as current role). Company note populated from founder narrative on the Granola call (founded 2024, $8M Pitango/F2 seed Summer 2024, $400K ARR → $1.2M target, $15M Series A). Idan Basre populated from Harmonic person record (id 188449149) — strong Talpiot/Unit 8200/Microsoft history; primaryEmail null in Harmonic so used idan@brava.security from Granola attendee record. CTO Itai Gabai mentioned in summary but no Harmonic match attempted (no email/LinkedIn handle from Granola) — captured in Team table without separate person note, consistent with prior secondary-founder precedent (Rohan/Humwork, Benjamin Finch/Withai).
+
+- **PVML** — Teams: Fin Capital <> PVML
+  - Created: Company note (PVML), Meeting summary (2026-06-16), Transcript stub, Person: Shachar Schnapp (CEO & Co-Founder)
+  - Updated: —
+  - Errors: Harmonic 403 on funding.fundingRounds detail (consistent with prior runs) — captured summary funding fields (SEED $8M, 2023-12-31, NFX/FJ Labs/Gefen/Erez Yarkoni/Ran Nahmias/Jonathan Lebowitsch/Amit On). Founder cited ~$9M raised including a Papaya Global founder SAFE ($180M cap, 50% discount) not surfaced in Harmonic; captured as separate row in Financing table. Harmonic estimated valuation $40M (from $8M SEED @ ~20% dilution) flagged as stale (pre-Papaya SAFE, pre-current Series A). Shachar Schnapp populated from PVML employees[] list (id 179005234, primaryEmail shachar.schnapp@pvml.com matches Granola attendee record). Co-founder Rina Galperin (CTO) and other execs (Bar Haim VP R&D, Natalie Lubelchick VP Revenue & GTM) captured in Team table without separate person notes (only Shachar was the external attendee, consistent with primary-founder-only precedent).
+
+Note: 2 Granola meetings on 2026-06-16; both processed as external founder meetings. No internal-only ALL-@fin.capital meetings to skip. Brava Security resolved to canonical urn:harmonic:company:63259785 via entity_lookup. PVML resolved to canonical urn:harmonic:company:11245431 via entity_lookup. No retries triggered — all Granola and Harmonic calls succeeded on first attempt.
+
+---
+
 ## 2026-06-15
 
 **Meetings synced:** 1
