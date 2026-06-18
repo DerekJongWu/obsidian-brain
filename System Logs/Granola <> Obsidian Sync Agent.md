@@ -1,3 +1,16 @@
+## 2026-06-17
+
+**Meetings synced:** 1
+
+- **Forestrat** — Meet at Fin NYC: Forestrat <> Fin Capital
+  - Created: Meeting summary (2026-06-17), Transcript stub, Person: Jacob Kaippallimalil (Co-Founder, confirmed via Harmonic — resolves prior 2026-05-26 / 2026-06-02 TODO)
+  - Updated: Forestrat company note (last_touch → 2026-06-17; Team table — Jacob Kaippallimalil added as Co-Founder; Business Description with 2026-06-17 architecture detail — per-vendor ontologies, ELM ensemble LLM scoring, actor/checker verification, code-generation safety model, on-prem agentic positioning; GTM & Business Model with cost-plus + points-on-AUM pricing model evolution and expanded buyer set across i-banks, exchanges, FactSet, S&P, TestX, Jefferies; Traction with Capilas as anchor client, mid-sized i-bank pull, NYSE / CBOE / FactSet / S&P / TestX / Jefferies pipeline, trade-ideas product framed as eight-figure standalone, prediction-markets exploration with [[Mojo]] cross-pollination; Deal Team Notes with 2026-06-17 entry; Next Steps — mid-June NYC and Jacob title items closed, 8 new diligence items added including Capilas-vs-Morgan-Stanley-AM reconciliation, pricing-model mechanics, Era CTO intro, SMBC/CIB connective tissue, Jefferies intro path, NYSE meeting outcome, trade-ideas standalone diligence, and prediction-markets / Mojo cross-pollination); Anand Chavan person note (last_contact → 2026-06-17, Relationship Notes 2026-06-17 entry)
+  - Errors: "First client" framing inconsistent — Morgan Stanley Asset Management was named first client on 2026-06-02; Capilas described as anchor client on 2026-06-17. Both kept with date annotations; flagged for reconciliation in Next Steps. NYSE meeting timing ("next Thursday") interpreted as 2026-06-25 — confirm against actual scheduling. Jacob Kaippallimalil's Harmonic record returned no public experience/education timeline (LinkedIn slug kjacob1029) — person note created from in-meeting context (technical co-founder, prior startup sold to S&P, FactSet non-compete) rather than from Harmonic experience data.
+
+Note: Only 1 Granola meeting on 2026-06-17 (the Forestrat in-person at Fin NYC) — all other days in the prior week were either internal or no-meeting; the meeting passed the @fin.capital external-attendee filter cleanly (anand@forestrat.ai, jacob@forestrat.ai). Harmonic enrichment successful for Jacob Kaippallimalil (entity_lookup → urn:harmonic:person:197082042 / id 197082042). Forestrat company record and Anand Chavan person record already established from 2026-05-13 sync — no new Harmonic company lookups required. No retries triggered — all Granola and Harmonic calls succeeded on first attempt.
+
+---
+
 ## 2026-06-16
 
 **Meetings synced:** 2
