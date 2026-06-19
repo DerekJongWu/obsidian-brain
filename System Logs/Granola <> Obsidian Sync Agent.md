@@ -1,3 +1,15 @@
+## 2026-06-18
+
+**Meetings synced:** 1
+
+- **Qeso** — Fin Capital / Qeso.ai - Follow-up
+  - Created: Meeting summary (2026-06-18), Transcript stub
+  - Updated: Qeso company note (last_touch → 2026-06-18; Business Description with 2026-06-18 product detail — CrowdStrike/Microsoft/~50+ platform connectors, choke-point calculation, attack-path modeling, compensating controls engine with Microsoft ASR/AppLocker/scoped audit policies, simulation mode, retroactive mapping, day-one POC value finding orphaned exclusions; Roadmap highlights added with automated cleanup, agentic workflow, crowdsourced threat intel, custom connector builder; Financing table — new 2026-06-18 row with $10M target + 24-month runway + $2M ARR target, Silver Standard + one other VC soft-circled at ~$1M each, two Israeli VCs in advanced lead conversations; Team location with 2026-06-18 update noting Eyal Gurevich relocating to US post-raise; Deal Team Notes — 2026-06-18 follow-up entry with Granola id `3b30ff8d-faf4-4e2d-96a3-443f3129198e`)
+
+Note: 2 Granola meetings on 2026-06-18; 1 external (Qeso follow-up) and 1 internal-only (Portfolio Value Meeting (Weekly) — all attendees @fin.capital, skipped per filter). Primary CEO is Eddy Bobritsky; person note already existed from 2026-06-09 sync — no new person note created. Co-founders Eyal Gurevich and Dani Kamanovsky remain without dedicated person notes per primary-founder-only precedent (consistent with prior syncs). Qeso company note already existed from 2026-06-09 sync — no Harmonic enrichment required (Qeso.ai not yet linked in Harmonic per prior run). No retries triggered — Granola list_meetings and get_meetings both succeeded on first attempt.
+
+---
+
 ## 2026-06-17
 
 **Meetings synced:** 1

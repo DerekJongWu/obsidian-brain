@@ -14,7 +14,7 @@ pitchbook:
 deck_link:
 data_room:
 lighthouse_link:
-last_touch: 2026-06-09
+last_touch: 2026-06-18
 created: 2026-06-09
 tags:
   - company
@@ -70,6 +70,19 @@ tags:
   - Connects to security controls, business tools (Slack, Jira, ServiceNow), threat intel, and software vendors
   - Cross-correlates exclusions to map compound attack vectors, not just catalog them
   - Longer-term: agentic infrastructure layer where AI agents request and receive scoped exclusion approvals automatically
+- **Product detail (as of 2026-06-18):**
+  - Connects to CrowdStrike, Microsoft, and ~50+ other platforms via API
+  - Calculates "choke points" — the top 3-5 combined blind spots most likely to enable a breach
+  - Also models attack paths from the outside in, narrating exactly how an attacker would move
+  - Compensating controls engine: when an exclusion can't be removed, recommends mitigations (Microsoft ASR rules, AppLocker, scoped audit policies); steps ranked by ease of deployment, all free and low-risk
+  - Simulation mode shows blast radius before any change is applied
+  - Retroactive mapping for new customers — pulls existing exclusions from connected platforms (CrowdStrike API has a clean list); for systems without records (CI/CD, supply chain, internal tools), reconstructs context from experience
+  - Day-one POC value: finds orphaned exclusions (deleted users, retired software, 15-year-old AD exceptions)
+- **Roadmap highlights (as of 2026-06-18):**
+  - Automated cleanup of unused exclusions (no business need = auto-remove)
+  - Agentic workflow: developer requests access, security agent evaluates compound risk, grants and auto-revokes
+  - Crowdsourced threat intel + vendor feeds to benchmark exclusion hygiene by industry
+  - Custom connector builder so customers can onboard internal platforms without waiting for native support
 - **Wedge / entry point:** Enterprise CISOs whose teams already feel the operational pain of unmanaged exclusions across 80+ tools — typically late-stage / regulated buyers (CBC-level firms).
 
 ---
@@ -106,15 +119,18 @@ tags:
 | Date | Round | Amount | Investors |
 |---|---|---|---|
 | In progress (June 2026) | Seed | $10M target; **Charlie Silverstein committed** | Seeking lead investor (prefer smart money with financial services connections; few weeks into lead conversations) |
+| In progress (as of 2026-06-18) | Seed | $10M target; 24-month runway, $2M ARR target | **Silver Standard + one other VC** soft-circled at ~$1M each (not the lead); two Israeli VCs in advanced conversations, either could lead the full round |
 
 - **Stage:** Seed
 - **Entity structure:** US-incorporated
 - **Team location:** Eyal already in NJ; Eddy and Dani in Israel, plan to relocate post-raise. Development team to be distributed (Israel, Europe, US).
+  - **Update (2026-06-18):** Eyal Gurevich (COO) relocating to US post-raise to build US presence; current split is heavy Israel / light US.
 - **Note:** Fin's SBIC vehicle has US headcount/operations requirements — worth monitoring against Qeso's planned team distribution.
 
 ## Deal Team Notes
 
 - 2026-06-09 — First Granola-captured intro call. Derek Wu and Jake Fuchs on Fin side; Eddy Bobritsky (CEO), Eyal Gurevich (COO), Dani Kamanovsky on Qeso side. Granola id `48b2e2d9-e9b1-4812-9a65-10288cb85956`. See [[Qeso - 2026-06-09 Summary]].
+- 2026-06-18 — Follow-up Granola call. Same attendees as 2026-06-09. Deep-dive on platform mechanics (choke-point calculation, attack-path modeling, compensating controls, simulation mode, retroactive mapping, agentic roadmap) and fundraise update (Silver Standard + one other VC soft-circled at ~$1M each; two Israeli VCs in advanced lead conversations). Granola id `3b30ff8d-faf4-4e2d-96a3-443f3129198e`. See [[Qeso - 2026-06-18 Summary]].
 - Repeat-founder team out of Minerva Labs / Rapid7 — strong cybersecurity GTM bench. Eddy is a known commodity (Minerva exit, Rapid7 BD, Suridata/Fortinet advisor).
 - Category-creation play — no clear incumbent in security exception management. Cross-correlation of exclusions across silos is the unique technical wedge.
 - SBIC headcount/operations alignment is a question for diligence given the planned Israel/Europe/US split.
