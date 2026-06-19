@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-06-18T11:15:00.000Z",
+  "synced_at": "2026-06-19T11:15:00.000Z",
   "results": [
     {
       "deal_id": "cmng87irn000bxkx41sdn1c0w",
@@ -15,6 +15,14 @@
       "outlook_touch_at": "2026-04-21T20:02:11.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-04-21T20:02:11.000Z",
+      "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmng87is5000oxkx4e1efggx1",
+      "company_name": "Backline AI",
+      "outlook_touch_at": "2026-04-20T20:24:26.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-04-20T20:24:26.000Z",
       "calendar_touch_at": null
     },
     {
@@ -36,9 +44,9 @@
     {
       "deal_id": "cmo1qm9mz000uxkb3hcclcmvb",
       "company_name": "Coffee AI",
-      "outlook_touch_at": "2026-04-14T04:04:52.000Z",
+      "outlook_touch_at": "2026-04-15T19:33:18.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2026-04-14T04:04:52.000Z",
+      "email_touch_at": "2026-04-15T19:33:18.000Z",
       "calendar_touch_at": null
     },
     {
@@ -63,7 +71,7 @@
       "outlook_touch_at": "2026-05-14T23:35:22.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-05-14T23:35:22.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-04-01T19:30:00.000Z"
     },
     {
       "deal_id": "cmnxe16gv0007xkun6e56eg0z",
@@ -96,6 +104,22 @@
       "outlook_touch_source": "email",
       "email_touch_at": "2026-05-13T14:58:19.000Z",
       "calendar_touch_at": "2026-04-09T19:00:00.000Z"
+    },
+    {
+      "deal_id": "cmm2lrmkv0000xkwa95tu9115",
+      "company_name": "Nametag",
+      "outlook_touch_at": "2026-02-10T20:51:59.000Z",
+      "outlook_touch_source": "email",
+      "email_touch_at": "2026-02-10T20:51:59.000Z",
+      "calendar_touch_at": null
+    },
+    {
+      "deal_id": "cmoisd7dz001oxkwk89odc8v7",
+      "company_name": "Octane",
+      "outlook_touch_at": "2026-04-15T19:30:00.000Z",
+      "outlook_touch_source": "calendar",
+      "email_touch_at": null,
+      "calendar_touch_at": "2026-04-15T19:30:00.000Z"
     },
     {
       "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
@@ -164,9 +188,9 @@
     {
       "deal_id": "cmnnanp300000xk694j8hue9e",
       "company_name": "VanishID",
-      "outlook_touch_at": "2026-06-17T18:08:44.000Z",
+      "outlook_touch_at": "2026-06-18T23:00:32.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2026-06-17T18:08:44.000Z",
+      "email_touch_at": "2026-06-18T23:00:32.000Z",
       "calendar_touch_at": "2026-04-06T18:00:00.000Z"
     },
     {
