@@ -1,68 +1,61 @@
 ---
 type: sync-log
-date: 2026-06-20
+date: 2026-06-21
 deals_scanned: 27
-deals_with_outlook_signal: 25
-todos_extracted: 6
+deals_with_outlook_signal: 24
+todos_extracted: 8
 ---
 
-# Deal Staleness Report — 2026-06-20
+# Deal Staleness Report — 2026-06-21
 
 ## Needs Attention
 
 | Company | Status | Days Since Touch | Source | Next Steps |
-|---|---|---|---|---|
-| [[Overwatch]] | Deep Diligence | 44 | attio | Kicking off Series A process- currently at ~$2.5M ARR + $4M+ in contract |
-| [[Blast Security]] | Partner Meetings | 37 | calendar | RC and DW had meeting with founder - currently raising |
-| [[Dux]] | Partner Meetings | 52 | attio | LA reaching out to Karl Mattson for Intro |
-| [[Echelon AI]] | Partner Meetings | 8 | calendar | Waiting for their round to kick off in early May (after ServiceNow Knowledge Conference in May 5-7); Pushing for intro to SMBC (Gordon). |
-| [[IndyKite]] | Partner Meetings | 38 | email | Received DR, reviewing DR, and waiting for a lead |
-| [[Sentra]] | Partner Meetings | 47 | email | Waiting for a lead - checking in on Apr 28 |
-| [[flowstate]] | Partner Meetings | 44 | attio | Jake to review material + map the market |
-| [[Cobalt]] | Partner Screening | 52 | attio | Had product demo; kicking off Series A |
-| [[Engramme]] | Partner Screening | 11 | email | Round size updated to $50M (at $500M post per the founder). Khosla potentially leading. Waiting for founders to confirm TS first. |
-| [[Freeflow]] | Partner Screening | 66 | attio | — |
-| [[Octane]] | Partner Screening | 45 | attio | — |
-| [[Orchid]] | Partner Screening | 24 | email | Just kicked off a fundraising round |
-| [[Prism Layer]] | Partner Screening | 20 | email | Send note to LA - incl mention of Thoropass |
-| [[Unknown]] | Partner Screening | 44 | attio | Intro from a16z, setting up meeting |
-| [[Backline AI]] | Initial Meetings | 46 | attio | Meeting scheduled for two weeks |
-| [[Discern Security]] | Initial Meetings | 33 | email | — |
-| [[Embed Security]] | Initial Meetings | 65 | attio | Waiting on founder to send over deck |
-| [[Rein Security]] | Initial Meetings | 46 | attio | — |
-| [[Tonic Security]] | Initial Meetings | 65 | attio | Discuss with the team; Follow up for lead convos |
-| [[Zenyard AI]] | Initial Meetings | 65 | attio | — |
-| [[Agentix]] | Track | 46 | attio | Still very very early. Track for next round |
-| [[Coffee AI]] | Track | 46 | attio | — |
-| [[Nametag]] | Track | 46 | attio | Tracking - enough risks to stand down on Series A |
+|---------|--------|-----------------|--------|------------|
+| [[Overwatch]] | Deep Diligence | 45 | attio | Kicking off Series A process- currently at ~$2.5M ARR + $4M+ in contract |
+| [[Opti]] | Deep Diligence | 5 | email | Facilitating intros to P1 LPs, positioning for round |
+| [[Blast Security]] | Partner Meetings | 38 | calendar | RC and DW had meeting with founder - currently raising |
+| [[Dux]] | Partner Meetings | 53 | attio | LA reaching out to Karl Mattson for Intro |
+| [[Echelon AI]] | Partner Meetings | 38 | email | Waiting for their round to kick off in early May; Pushing for intro to SMBC (Gordon). |
+| [[IndyKite]] | Partner Meetings | 39 | email | Received DR, reviewing DR, and waiting for a lead |
+| [[Sentra]] | Partner Meetings | 48 | email | Waiting for a lead - checking in on Apr 28 |
+| [[flowstate]] | Partner Meetings | 45 | attio | Jake to review material + map the market |
+| [[Cobalt]] | Partner Screening | 53 | attio | Had product demo; kicking off Series A |
+| [[Engramme]] | Partner Screening | 12 | email | Round size updated to $50M. Khosla potentially leading. Waiting for founders to confirm TS first. |
+| [[Freeflow]] | Partner Screening | 67 | attio | — |
+| [[Octane]] | Partner Screening | 46 | email | — |
+| [[Orchid]] | Partner Screening | 25 | email | Just kicked off a fundraising round |
+| [[Prism Layer]] | Partner Screening | 21 | email | Send note to LA - incl mention of Thoropass |
+| [[Unknown]] | Partner Screening | 45 | attio | Intro from a16z, setting up meeting |
+| [[Backline AI]] | Initial Meetings | 47 | attio | Meeting scheduled for two weeks |
+| [[Discern Security]] | Initial Meetings | 34 | email | — |
+| [[Embed Security]] | Initial Meetings | 66 | attio | Waiting on founder to send over deck |
+| [[Rein Security]] | Initial Meetings | 47 | attio | — |
+| [[Tonic Security]] | Initial Meetings | 66 | attio | Discuss with the team; Follow up for lead convos |
+| [[Zenyard AI]] | Initial Meetings | 66 | attio | — |
+| [[Agentix]] | Track | 47 | attio | Still very very early. Track for next round |
+| [[Coffee AI]] | Track | 47 | attio | — |
+| [[Nametag]] | Track | 47 | attio | Tracking - enough risks to stand down on Series A |
 
 ## Recently Touched
 
 | Company | Last Touch | Source |
-|---|---|---|
+|---------|-----------|--------|
 | [[VanishID]] | 2026-06-19 | email |
 | [[Unstructured]] | 2026-06-19 | calendar |
 | [[Opti]] | 2026-06-16 | email |
 
-## New Action Items Extracted
-
-- **[[Opti]]**: Respond to Barak on round terms after IC discussion (~$16M at $75-80M pre, Mayfield/YL co-leading)
-- **[[Opti]]**: Discuss allocation internally — rightsize from proposed $4M to ~$2M
-- **[[VanishID]]**: Follow up with Matt Polak on term sheet update in ~1 week
-- **Non-deal**: Prep for SMBC AD management meeting on Jun 24
-- **Non-deal**: Prep for meeting with Felix Rodriguez (Level AI) on Jun 23
-- **Non-deal**: Prep for meeting with Ron Blachar (Vivid Security) on Jun 23
-
 ## No Outlook Signal
 
-| Company | Domain | Notes |
-|---|---|---|
-| [[Nametag]] | getnametag.com | Email search returned unrelated results only; no calendar events found |
-| [[Unknown]] | katharos.co | No email or calendar results found — may need domain corrected |
+| Company | Status | Notes |
+|---------|--------|-------|
+| [[Coffee AI]] | Track | No direct email or calendar results found for coffee.ai domain |
+| [[Nametag]] | Track | No direct email or calendar results found for getnametag.com domain |
+| [[Unknown]] | Partner Screening | No email or calendar results found for katharos.co domain |
 
 ## Sync Summary
 - Deals in manifest: 27
-- Outlook signals found: 25 (email: 22, calendar: 15)
-- No Outlook signal: 2
-- To-do items extracted: 6
+- Outlook signals found: 24 (email: 21, calendar: 15)
+- No Outlook signal: 3
+- To-do items extracted: 8
 - Errors: 0

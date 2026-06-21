@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-06-20T11:15:00.000Z",
+  "synced_at": "2026-06-21T11:15:00.000Z",
   "results": [
     {
       "deal_id": "cmng87irn000bxkx41sdn1c0w",
@@ -42,14 +42,6 @@
       "calendar_touch_at": null
     },
     {
-      "deal_id": "cmo1qm9mz000uxkb3hcclcmvb",
-      "company_name": "Coffee AI",
-      "outlook_touch_at": "2026-04-14T04:04:52.000Z",
-      "outlook_touch_source": "email",
-      "email_touch_at": "2026-04-14T04:04:52.000Z",
-      "calendar_touch_at": null
-    },
-    {
       "deal_id": "cmnghs8he0006xkl5p238qtdx",
       "company_name": "Discern Security",
       "outlook_touch_at": "2026-05-18T19:48:28.000Z",
@@ -68,10 +60,10 @@
     {
       "deal_id": "cmng87is3000mxkx4bg2ln251",
       "company_name": "Echelon AI",
-      "outlook_touch_at": "2026-06-12T16:30:00.000Z",
-      "outlook_touch_source": "calendar",
+      "outlook_touch_at": "2026-05-14T23:35:22.000Z",
+      "outlook_touch_source": "email",
       "email_touch_at": "2026-05-14T23:35:22.000Z",
-      "calendar_touch_at": "2026-06-12T16:30:00.000Z"
+      "calendar_touch_at": null
     },
     {
       "deal_id": "cmnxe16gv0007xkun6e56eg0z",
@@ -119,7 +111,7 @@
       "outlook_touch_at": "2026-06-16T16:55:22.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-06-16T16:55:22.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-04-21T18:30:00.000Z"
     },
     {
       "deal_id": "cmng9nvp3000oxk6jm9kfqsw8",
