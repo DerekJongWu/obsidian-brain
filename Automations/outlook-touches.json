@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-06-21T11:15:00.000Z",
+  "synced_at": "2026-06-22T11:15:00.000Z",
   "results": [
     {
       "deal_id": "cmng87irn000bxkx41sdn1c0w",
@@ -7,7 +7,7 @@
       "outlook_touch_at": "2026-06-03T04:12:03.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-06-03T04:12:03.000Z",
-      "calendar_touch_at": "2026-03-23T21:30:00.000Z"
+      "calendar_touch_at": null
     },
     {
       "deal_id": "cmohdibfo000ixkwktbqjrvgx",
@@ -60,10 +60,10 @@
     {
       "deal_id": "cmng87is3000mxkx4bg2ln251",
       "company_name": "Echelon AI",
-      "outlook_touch_at": "2026-05-14T23:35:22.000Z",
-      "outlook_touch_source": "email",
+      "outlook_touch_at": "2026-06-12T16:30:00.000Z",
+      "outlook_touch_source": "calendar",
       "email_touch_at": "2026-05-14T23:35:22.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-06-12T16:30:00.000Z"
     },
     {
       "deal_id": "cmnxe16gv0007xkun6e56eg0z",
@@ -98,20 +98,12 @@
       "calendar_touch_at": "2026-04-09T19:00:00.000Z"
     },
     {
-      "deal_id": "cmoisd7dz001oxkwk89odc8v7",
-      "company_name": "Octane",
-      "outlook_touch_at": "2026-04-15T19:30:00.000Z",
-      "outlook_touch_source": "calendar",
-      "email_touch_at": null,
-      "calendar_touch_at": "2026-04-15T19:30:00.000Z"
-    },
-    {
       "deal_id": "cmo03jxc0000jxkdkwgmrdwgy",
       "company_name": "Opti",
       "outlook_touch_at": "2026-06-16T16:55:22.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-06-16T16:55:22.000Z",
-      "calendar_touch_at": "2026-04-21T18:30:00.000Z"
+      "calendar_touch_at": null
     },
     {
       "deal_id": "cmng9nvp3000oxk6jm9kfqsw8",
@@ -140,10 +132,10 @@
     {
       "deal_id": "cmosq9nxf002pxkwk05g31oln",
       "company_name": "Rein Security",
-      "outlook_touch_at": "2026-05-01T09:04:26.000Z",
-      "outlook_touch_source": "email",
+      "outlook_touch_at": "2026-05-01T15:30:00.000Z",
+      "outlook_touch_source": "calendar",
       "email_touch_at": "2026-05-01T09:04:26.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-05-01T15:30:00.000Z"
     },
     {
       "deal_id": "cmo2yv5ax0013xkb39paudwz0",
@@ -159,7 +151,7 @@
       "outlook_touch_at": "2026-03-31T18:50:59.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-03-31T18:50:59.000Z",
-      "calendar_touch_at": "2026-03-23T18:00:00.000Z"
+      "calendar_touch_at": null
     },
     {
       "deal_id": "cmng87irs000dxkx4qgi53fq5",
