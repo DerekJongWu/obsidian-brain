@@ -1,3 +1,17 @@
+## 2026-06-23
+
+**Meetings synced:** 2
+
+- **Level AI** — 30 Mins Meeting between Fan + Derek and Felix Rodriguez
+  - Created: Company note (Level AI), Meeting summary, Transcript stub, Person: Felix Rodriguez
+  - Updated: n/a (new company)
+  - Errors: Harmonic company lookup for Level AI returned an unrelated entity (cooking-system "Level") — company note created using meeting summary content; founder enrichment for Felix Rodriguez succeeded.
+- **Nace AI** — Video | Nace AI <> Fin capital
+  - Created: Company note (Nace AI), Meeting summary, Transcript stub, Person: Dos Bahá
+  - Updated: n/a (new company)
+
+---
+
 ## 2026-06-22
 
 - **No external meetings found**
