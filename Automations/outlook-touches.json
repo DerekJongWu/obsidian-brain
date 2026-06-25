@@ -1,12 +1,12 @@
 {
-  "synced_at": "2026-06-24T11:15:00.000Z",
+  "synced_at": "2026-06-25T11:15:00.000Z",
   "results": [
     {
       "deal_id": "cmng87irn000bxkx41sdn1c0w",
       "company_name": "Aembit",
-      "outlook_touch_at": "2026-06-24T11:06:39.000Z",
+      "outlook_touch_at": "2026-06-24T16:23:42.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2026-06-24T11:06:39.000Z",
+      "email_touch_at": "2026-06-24T16:23:42.000Z",
       "calendar_touch_at": null
     },
     {
@@ -36,9 +36,9 @@
     {
       "deal_id": "cmo1qm9mz000uxkb3hcclcmvb",
       "company_name": "Coffee AI",
-      "outlook_touch_at": "2026-04-14T04:04:52.000Z",
+      "outlook_touch_at": "2026-04-15T19:33:18.000Z",
       "outlook_touch_source": "email",
-      "email_touch_at": "2026-04-14T04:04:52.000Z",
+      "email_touch_at": "2026-04-15T19:33:18.000Z",
       "calendar_touch_at": null
     },
     {
@@ -60,10 +60,10 @@
     {
       "deal_id": "cmng87is3000mxkx4bg2ln251",
       "company_name": "Echelon AI",
-      "outlook_touch_at": "2026-06-12T16:30:00.000Z",
-      "outlook_touch_source": "calendar",
+      "outlook_touch_at": "2026-05-14T23:35:22.000Z",
+      "outlook_touch_source": "email",
       "email_touch_at": "2026-05-14T23:35:22.000Z",
-      "calendar_touch_at": "2026-06-12T16:30:00.000Z"
+      "calendar_touch_at": null
     },
     {
       "deal_id": "cmnxe16gv0007xkun6e56eg0z",
@@ -95,7 +95,7 @@
       "outlook_touch_at": "2026-05-13T14:58:19.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-05-13T14:58:19.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-04-09T19:00:00.000Z"
     },
     {
       "deal_id": "cmoisd7dz001oxkwk89odc8v7",
@@ -127,7 +127,7 @@
       "outlook_touch_at": "2026-05-31T22:17:39.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-05-31T22:17:39.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-05-26T17:30:00.000Z"
     },
     {
       "deal_id": "cmosq9nxf002pxkwk05g31oln",
@@ -183,14 +183,8 @@
       "outlook_touch_at": "2026-04-20T18:59:59.000Z",
       "outlook_touch_source": "email",
       "email_touch_at": "2026-04-20T18:59:59.000Z",
-      "calendar_touch_at": null
+      "calendar_touch_at": "2026-04-20T18:45:00.000Z"
     }
   ],
-  "errors": [
-    "Calendar API rate-limited (429) during initial burst; calendar searches completed for 9 of 27 deals. Remaining deals have calendar_touch_at: null but may have undetected calendar signals.",
-    "Backline AI: email search returned only automated Lighthouse notifications, no real exchange with backline.ai domain",
-    "Nametag: email search returned no results matching getnametag.com domain",
-    "Opti: email and calendar searches returned no results matching opti.ai domain",
-    "Unknown (katharos.co): email search returned no results"
-  ]
+  "errors": []
 }
